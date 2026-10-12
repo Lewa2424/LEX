@@ -1,0 +1,9 @@
+---
+description: "Застарілий ярлик UAOS. Використовуй lex-design-system.mdc."
+globs: src/**/*.tsx,src/**/*.css
+alwaysApply: false
+---
+
+# Застаріло
+
+Цей файл залишено лише як ярлик сумісності імені. Актуальні UI-правила LEX: `lex-design-system.mdc` і `DESIGN_SYSTEM.md`.

@@ -1,0 +1,171 @@
+[
+  {
+    "source": "Ведення документації та навчання з охорони праці лекція 1.pptx",
+    "sha256": "7be32e7ba203944cb5d414e4a491cc6b00c4d5e7679a9b8b6e841bd7365c8ef0",
+    "slides": 48,
+    "images": 5,
+    "extraction": "development data\\lecture-work\\semantic-maps\\subject-12\\extracts\\lecture-01\\extracted.json",
+    "status": "extracted_not_read"
+  },
+  {
+    "source": "Ведення документації та навчання з охорони праці лекція 2.pptx",
+    "sha256": "34b3c74e8672c86626dc10d8f3c8424e623a4716d0460b801dfd6df7fc7766c9",
+    "slides": 32,
+    "images": 1,
+    "extraction": "development data\\lecture-work\\semantic-maps\\subject-12\\extracts\\lecture-02\\extracted.json",
+    "status": "extracted_not_read"
+  },
+  {
+    "source": "Ведення документації та навчання з охорони праці лекція 3.pptx",
+    "sha256": "015395b9378994886c2ab0e473d4160b9b05495912cba4f180e85cb83bdbbd08",
+    "slides": 31,
+    "images": 1,
+    "extraction": "development data\\lecture-work\\semantic-maps\\subject-12\\extracts\\lecture-03\\extracted.json",
+    "status": "extracted_not_read"
+  },
+  {
+    "source": "Ведення документації та навчання з охорони праці лекція 4.pptx",
+    "sha256": "96b32a78301e2ffd31714cff785f567d07f80cb35773e4534e9f2332db9f6d04",
+    "slides": 24,
+    "images": 1,
+    "extraction": "development data\\lecture-work\\semantic-maps\\subject-12\\extracts\\lecture-04\\extracted.json",
+    "status": "extracted_not_read"
+  },
+  {
+    "source": "Ведення документації та навчання з охорони праці лекція 5.pptx",
+    "sha256": "720b4e53278ee834a78b2e144efa7641785a1df2bf243b0141402f083af94a24",
+    "slides": 50,
+    "images": 14,
+    "extraction": "development data\\lecture-work\\semantic-maps\\subject-12\\extracts\\lecture-05\\extracted.json",
+    "status": "extracted_not_read"
+  },
+  {
+    "source": "Ведення документації та навчання з охорони праці лекція 6 (1).pptx",
+    "sha256": "52035ec3f5646d9ef9609fcf5a5158222b7b91545dbdefea0bd7e76df1583726",
+    "slides": 32,
+    "images": 11,
+    "extraction": "development data\\lecture-work\\semantic-maps\\subject-12\\extracts\\lecture-06\\extracted.json",
+    "status": "extracted_not_read"
+  },
+  {
+    "source": "Ведення документації та навчання з охорони праці лекція 6.pptx",
+    "sha256": "52035ec3f5646d9ef9609fcf5a5158222b7b91545dbdefea0bd7e76df1583726",
+    "duplicateOf": "Ведення документації та навчання з охорони праці лекція 6 (1).pptx"
+  },
+  {
+    "source": "Ведення документації та навчання з охорони праці лекція 7 [Автосохраненный] (1).pptx",
+    "sha256": "fcddaf00bb1167f5b5b80ed6b07e15fadf16ab198752e034a07b5e2f9dc36b12",
+    "slides": 36,
+    "images": 2,
+    "extraction": "development data\\lecture-work\\semantic-maps\\subject-12\\extracts\\lecture-07\\extracted.json",
+    "status": "extracted_not_read"
+  },
+  {
+    "source": "Ведення документації та навчання з охорони праці лекція 7 [Автосохраненный].pptx",
+    "sha256": "fcddaf00bb1167f5b5b80ed6b07e15fadf16ab198752e034a07b5e2f9dc36b12",
+    "duplicateOf": "Ведення документації та навчання з охорони праці лекція 7 [Автосохраненный] (1).pptx"
+  },
+  {
+    "source": "Ведення документації та навчання з охорони праці лекція10.pptx",
+    "sha256": "f01f5607e7fd7a1728652f4b64c68f9ef6fe96d2c64344ca3cf1976bc0e51c84",
+    "slides": 38,
+    "images": 7,
+    "extraction": "development data\\lecture-work\\semantic-maps\\subject-12\\extracts\\lecture-10\\extracted.json",
+    "status": "extracted_not_read"
+  },
+  {
+    "source": "Ведення документації та навчання з охорони праці лекція11.pptx",
+    "sha256": "29a3f9593d19b673593b021a4d37b9b5877d6e40ad29d54d267c7218feefaa98",
+    "slides": 73,
+    "images": 12,
+    "extraction": "development data\\lecture-work\\semantic-maps\\subject-12\\extracts\\lecture-11\\extracted.json",
+    "status": "extracted_not_read"
+  },
+  {
+    "source": "Ведення документації та навчання з охорони праці лекція12.pptx",
+    "sha256": "7bbe008c986eaf296af6200e3ef057f93f2a401f927045bd1a8d07cf9afde4bc",
+    "slides": 63,
+    "images": 15,
+    "extraction": "development data\\lecture-work\\semantic-maps\\subject-12\\extracts\\lecture-12\\extracted.json",
+    "status": "extracted_not_read"
+  },
+  {
+    "source": "Ведення документації та навчання з охорони праці лекція13.pptx",
+    "sha256": "3654bddecd102b0150b488ea7d431a8a0ca9292c1cb8a05cb5481aa896b2f459",
+    "slides": 65,
+    "images": 15,
+    "extraction": "development data\\lecture-work\\semantic-maps\\subject-12\\extracts\\lecture-13\\extracted.json",
+    "status": "extracted_not_read"
+  },
+  {
+    "source": "Ведення документації та навчання з охорони праці лекція8.pptx",
+    "sha256": "3adc68c765d0da3d322b7ce9964432cd078bb3d1657bf068bd2daad98c67079d",
+    "slides": 36,
+    "images": 10,
+    "extraction": "development data\\lecture-work\\semantic-maps\\subject-12\\extracts\\lecture-08\\extracted.json",
+    "status": "extracted_not_read"
+  },
+  {
+    "source": "Ведення документації та навчання з охорони праці лекція9.pptx",
+    "sha256": "efc4f4cd012b260748ee4027a62a7bb02bacbd14fea492fb9fa87b717d8550e2",
+    "slides": 34,
+    "images": 14,
+    "extraction": "development data\\lecture-work\\semantic-maps\\subject-12\\extracts\\lecture-09\\extracted.json",
+    "status": "extracted_not_read"
+  },
+  {
+    "source": "Завдання на практичну роботу 1.docx",
+    "sha256": "8de14433b58d284fd9e29eae0a5d4c75b7fe73e3f227cb1a274b9443b29305ef",
+    "status": "supplement_not_read"
+  },
+  {
+    "source": "Завдання на практичну роботу 2.docx",
+    "sha256": "2ace38ae31cf082aa2e294d6ebc760c120bb32bfa12623190412c01ed8fa004b",
+    "status": "supplement_not_read"
+  },
+  {
+    "source": "Побудова математичної моделі в середовищі Excel (1).pdf",
+    "sha256": "fff78b5e42cec808990888c0a7105bd408f98583d242a8daada2e9cc1a69852c",
+    "status": "supplement_not_read"
+  },
+  {
+    "source": "Практична робота 3 (1).docx",
+    "sha256": "8046331906de8eb02309728020e4f20cf00b1e2fc9b1b3fe455e2a9fdaf24f88",
+    "status": "supplement_not_read"
+  },
+  {
+    "source": "Практична робота 3.docx",
+    "sha256": "8046331906de8eb02309728020e4f20cf00b1e2fc9b1b3fe455e2a9fdaf24f88",
+    "duplicateOf": "Практична робота 3 (1).docx"
+  },
+  {
+    "source": "Практична робота 4.docx",
+    "sha256": "d561ce7bbe52b24e866170181cf7bbf7a3b0908850ba9512082341f623927d81",
+    "status": "supplement_not_read"
+  },
+  {
+    "source": "Практична робота 5.docx",
+    "sha256": "e3a5b1deddddcad1d6f33d619a778b1a67001c99210c4cda40542f75e0da7ab4",
+    "status": "supplement_not_read"
+  },
+  {
+    "source": "Практична робота 6.docx",
+    "sha256": "4728214630566e093c70d823d748d8829e199f6fd647db97cae91c1b6ed29207",
+    "status": "supplement_not_read"
+  },
+  {
+    "source": "Приклад до практичної роботи 4.xlsx",
+    "sha256": "b3a6e575e7580ac66c1e2392411ddcbea6c5bb45004070f20b85a40c656d95ee",
+    "status": "supplement_not_read"
+  },
+  {
+    "source": "Про затвердження Порядку видачі дозволів на виконання робі… - Постанова № 1107 від 26.10.2011 - d364828-20260716.pdf",
+    "sha256": "b12a788ed7dacc47013d146a68b3cca7cbe9c489c034dd05e9c15c44a5f51fb8",
+    "status": "supplement_not_read"
+  },
+  {
+    "source": "СУОП.docx",
+    "sha256": "93f78e2e085f5eaf07e0f61eafc0559f09859130ee27e0149760380531b384f7",
+    "status": "supplement_not_read"
+  }
+]

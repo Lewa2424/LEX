@@ -1,0 +1,107 @@
+.cursor/rules/00-project-context.mdc
+.cursor/rules/10-architecture-contracts.mdc
+.cursor/rules/20-code-map.mdc
+.cursor/rules/30-testing-quality.mdc
+.cursor/rules/40-data-migrations.mdc
+.cursor/rules/41-security.mdc
+.cursor/rules/42-dependencies.mdc
+.cursor/rules/50-project-conventions.mdc
+.cursor/rules/lex-design-system.mdc
+.cursor/rules/uaos-design-system.mdc
+CODE_MAP.md
+docs/CHANGED_FILES.txt
+development data/lecture-work/README.md
+development data/lecture-work/HIERARCHY.md
+development data/lecture-work/build_lecture_maps.py
+development data/lecture-work/maps/_MASTER.md
+development data/lecture-work/maps/_master.json
+vite.config.ts
+src/domain/referenceSections.ts
+src/mocks/data/referenceSectionsData.ts
+src/mocks/data/situationsData.ts
+src/mocks/data/termsData.ts
+src/mocks/data/searchData.ts
+src/mocks/services/ReferenceService.ts
+src/modules/reference/ReferenceCatalogPage.tsx
+src/modules/reference/SituationDetailPage.tsx
+src/modules/search/SearchPage.tsx
+src/modules/home/HomePage.tsx
+src/app/shell/Header.tsx
+src/modules/reference/ReferenceCatalogPage.tsx
+src/domain/referenceSections.ts
+src/shared/types/index.ts
+development data/lecture-work/harvest_section_sources.py
+development data/lecture-work/sections/01_preparation_admission/PLAN.md
+development data/lecture-work/sections/01_preparation_admission/SOURCES.md
+src/mocks/data/prepAdmissionSituations.ts
+src/mocks/data/sourcesData.ts
+src/mocks/data/safetyManagementSituations.ts
+src/mocks/data/rightsRelationsSituations.ts
+src/mocks/data/workerAdmissionSituations.ts
+src/mocks/data/hazardsRisksSituations.ts
+src/mocks/data/workEnvironmentSituations.ts
+src/mocks/data/occupationalHealthSituations.ts
+src/mocks/data/protectiveEquipmentSituations.ts
+src/mocks/data/equipmentSystemsSituations.ts
+src/mocks/data/highRiskWorkSituations.ts
+src/mocks/data/technologyProcessesSituations.ts
+src/mocks/data/fireExplosionSituations.ts
+src/mocks/data/emergenciesSituations.ts
+src/mocks/data/civilProtectionSituations.ts
+src/mocks/data/incidentsInvestigationSituations.ts
+src/mocks/data/environmentalSafetySituations.ts
+src/mocks/data/ergonomicsSituations.ts
+src/mocks/data/auditImprovementSituations.ts
+src/domain/referenceSituationAdapter.ts
+src/shared/types/index.ts
+src/shared/ui/PhaseTabs.tsx
+src/modules/admin/AdminSituationDetailPage.tsx
+index.html
+package.json
+README.md
+src/app/shell/Footer.tsx
+src/modules/profile/ProfilePage.tsx
+src/shared/ui/ReportErrorModal.tsx
+src/modules/admin/AdminLayout.tsx
+src/modules/terms/TermDetailPage.tsx
+src/modules/terms/TermsCatalogPage.tsx
+src/modules/forms/FormsCatalogPage.tsx
+src/modules/learning/LearningCatalogPage.tsx
+development data/lecture-work/_tmp_harvest_terms_ce.py
+development data/lecture-work/_tmp_harvest_terms_ce_report.md
+development data/lecture-work/muscle-pipeline/README.md
+development data/lecture-work/muscle-pipeline/SCHEMA.md
+development data/lecture-work/muscle-pipeline/QUESTION_CATALOG_v0.md
+development data/lecture-work/muscle-pipeline/INVENTORY.md
+development data/lecture-work/muscle-pipeline/STATUS.md
+development data/lecture-work/muscle-pipeline/cuts/.gitkeep
+development data/lecture-work/muscle-pipeline/resolutions/.gitkeep
+development data/lecture-work/muscle-pipeline/reports/.gitkeep
+development data/lecture-work/muscle-pipeline/pilots/.gitkeep
+development data/lecture-work/muscle-pipeline/cuts/s12-l01-pilot-10.md
+development data/lecture-work/muscle-pipeline/resolutions/s12-l01-pilot-10-placements.md
+development data/lecture-work/muscle-pipeline/reports/s12-l01-pilot-10-REPORT.md
+development data/lecture-work/muscle-pipeline/_tmp_validate_anchors.py
+development data/lecture-work/muscle-pipeline/_tmp_extract_cuts.py
+development data/lecture-work/muscle-pipeline/_tmp_write_pilot_d.py
+development data/lecture-work/muscle-pipeline/_tmp_blocks.json
+development data/lecture-work/muscle-pipeline/_tmp_summary.json
+development data/lecture-work/semantic-maps/subject-01/extracts/lecture-01/TEXT.md
+development data/lecture-work/semantic-maps/subject-01/extracts/lecture-01/SOURCE.md
+development data/lecture-work/muscle-pipeline/cuts/s01-l01-pilot-10.md
+development data/lecture-work/muscle-pipeline/resolutions/s01-l01-pilot-10-placements.md
+development data/lecture-work/muscle-pipeline/reports/s01-l01-pilot-10-REPORT.md
+src/mocks/data/technologyProcessesS01Pilot.ts
+src/mocks/data/subject01OpSituations.ts
+src/mocks/data/subject01OpSituationsPack2.ts
+src/mocks/data/subject02OpSituationsL03.ts
+src/mocks/data/environmentalSafetySituations.ts
+development data/lecture-work/muscle-pipeline/resolutions/s02-l03-cuts.md
+development data/lecture-work/semantic-maps/subject-02/extracts/lecture-03-from-pdf.txt
+src/mocks/data/technologyProcessesSituations.ts
+src/mocks/data/protectiveEquipmentSituations.ts
+src/mocks/data/workEnvironmentSituations.ts
+development data/lecture-work/muscle-pipeline/INSERT_RULES.md
+development data/lecture-work/muscle-pipeline/reports/s01-l01-pilot-10-REPORT.md
+development data/lecture-work/muscle-pipeline/resolutions/s01-op-pilot-5.md
+src/test/scaffolding.test.ts

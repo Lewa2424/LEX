@@ -1,0 +1,4994 @@
+{
+  "generatedAt": "2026-09-05T17:54:35.719620+00:00",
+  "sectionKey": "01_preparation_admission",
+  "sectionId": "preparation_admission",
+  "title": "Підготовка та допуск",
+  "discipline": [
+    "Кожна ситуація (2-й контур) = одна конкретна відповідь на робоче питання.",
+    "Не звалювати простині НПА в один підрозділ; дробити на окремі ситуації/підрозділи.",
+    "Пріоритет джерел: lecture > npa_or_standard > practice; test/duplicate — лише за потреби.",
+    "Оформлення журналів/бланків — дубль у розділ Документація, тут — процес допуску."
+  ],
+  "situations": [
+    {
+      "code": "1.1",
+      "title": "Інструктажі з охорони праці (вступний, первинний, повторний, позаплановий, цільовий)",
+      "candidateCount": 56,
+      "primary": [
+        {
+          "path": "12_Ведення документації та навчання з охорони праці/Ведення документації та навчання з охорони праці лекція 6.pptx",
+          "fileName": "Ведення документації та навчання з охорони праці лекція 6.pptx",
+          "subjectNum": 12,
+          "subjectId": "12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr",
+          "subjectTitle": "Ведення документації та навчання з охорони праці",
+          "kind": "lecture",
+          "hitCount": 32,
+          "anchorId": "instruktazh",
+          "anchorLabel": "Інструктажі",
+          "score": 132,
+          "wordCount": 1960,
+          "pages": 32,
+          "themes": [
+            {
+              "label": "Тема/лекція 6: Інструктажі",
+              "startPage": 1,
+              "endPage": 32,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "instruktazh"
+          ]
+        },
+        {
+          "path": "12_Ведення документації та навчання з охорони праці/Ведення документації та навчання з охорони праці лекція 5.pptx",
+          "fileName": "Ведення документації та навчання з охорони праці лекція 5.pptx",
+          "subjectNum": 12,
+          "subjectId": "12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr",
+          "subjectTitle": "Ведення документації та навчання з охорони праці",
+          "kind": "lecture",
+          "hitCount": 10,
+          "anchorId": "instruktazh",
+          "anchorLabel": "Інструктажі",
+          "score": 110,
+          "wordCount": 3884,
+          "pages": 50,
+          "themes": [
+            {
+              "label": "Тема/лекція 5: Навчання відповідальних осіб та робітників",
+              "startPage": 1,
+              "endPage": 50,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "instruktazh"
+          ]
+        },
+        {
+          "path": "12_Ведення документації та навчання з охорони праці/Ведення документації та навчання з охорони праці лекція12.pptx",
+          "fileName": "Ведення документації та навчання з охорони праці лекція12.pptx",
+          "subjectNum": 12,
+          "subjectId": "12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr",
+          "subjectTitle": "Ведення документації та навчання з охорони праці",
+          "kind": "lecture",
+          "hitCount": 6,
+          "anchorId": "instruktazh",
+          "anchorLabel": "Інструктажі",
+          "score": 106,
+          "wordCount": 4897,
+          "pages": 63,
+          "themes": [
+            {
+              "label": "Тема/лекція 12: Особливості оформлення нарядів-допусків",
+              "startPage": 1,
+              "endPage": 63,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "instruktazh"
+          ]
+        },
+        {
+          "path": "12_Ведення документації та навчання з охорони праці/Ведення документації та навчання з охорони праці лекція13.pptx",
+          "fileName": "Ведення документації та навчання з охорони праці лекція13.pptx",
+          "subjectNum": 12,
+          "subjectId": "12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr",
+          "subjectTitle": "Ведення документації та навчання з охорони праці",
+          "kind": "lecture",
+          "hitCount": 6,
+          "anchorId": "instruktazh",
+          "anchorLabel": "Інструктажі",
+          "score": 106,
+          "wordCount": 5059,
+          "pages": 65,
+          "themes": [
+            {
+              "label": "Тема/лекція 12: Особливості оформлення нарядів-допусків",
+              "startPage": 1,
+              "endPage": 65,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "instruktazh"
+          ]
+        },
+        {
+          "path": "12_Ведення документації та навчання з охорони праці/Ведення документації та навчання з охорони праці лекція 4.pptx",
+          "fileName": "Ведення документації та навчання з охорони праці лекція 4.pptx",
+          "subjectNum": 12,
+          "subjectId": "12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr",
+          "subjectTitle": "Ведення документації та навчання з охорони праці",
+          "kind": "lecture",
+          "hitCount": 5,
+          "anchorId": "instruktazh",
+          "anchorLabel": "Інструктажі",
+          "score": 105,
+          "wordCount": 2027,
+          "pages": 24,
+          "themes": [
+            {
+              "label": "Тема/лекція 4: Положення з охорони праці",
+              "startPage": 1,
+              "endPage": 24,
+              "volume": "medium"
+            }
+          ],
+          "anchors": [
+            "instruktazh"
+          ]
+        },
+        {
+          "path": "12_Ведення документації та навчання з охорони праці/Ведення документації та навчання з охорони праці лекція 1.pptx",
+          "fileName": "Ведення документації та навчання з охорони праці лекція 1.pptx",
+          "subjectNum": 12,
+          "subjectId": "12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr",
+          "subjectTitle": "Ведення документації та навчання з охорони праці",
+          "kind": "lecture",
+          "hitCount": 4,
+          "anchorId": "instruktazh",
+          "anchorLabel": "Інструктажі",
+          "score": 104,
+          "wordCount": 2645,
+          "pages": 48,
+          "themes": [
+            {
+              "label": "Тема/лекція 1: Нормативно-правова база регулювання ведення документації та навчання з охорони праці",
+              "startPage": 1,
+              "endPage": 48,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "instruktazh"
+          ]
+        },
+        {
+          "path": "9_Безпека праці та виробничих процесів/Лекція №1 ТРАВМАТИЗМ ТА ПРОФЕСІЙНІ ЗАХВОРЮВАННЯ.docx",
+          "fileName": "Лекція №1 ТРАВМАТИЗМ ТА ПРОФЕСІЙНІ ЗАХВОРЮВАННЯ.docx",
+          "subjectNum": 9,
+          "subjectId": "09_bezpeka-pratsi-ta-vyrobnychykh-protsesiv",
+          "subjectTitle": "Безпека праці та виробничих процесів",
+          "kind": "lecture",
+          "hitCount": 3,
+          "anchorId": "instruktazh",
+          "anchorLabel": "Інструктажі",
+          "score": 103,
+          "wordCount": 9676,
+          "pages": 7,
+          "themes": [
+            {
+              "label": "Весь файл (тема не детектована)",
+              "startPage": 1,
+              "endPage": 7,
+              "volume": null
+            }
+          ],
+          "anchors": [
+            "instruktazh"
+          ]
+        },
+        {
+          "path": "9_Безпека праці та виробничих процесів/Лекція №2.docx",
+          "fileName": "Лекція №2.docx",
+          "subjectNum": 9,
+          "subjectId": "09_bezpeka-pratsi-ta-vyrobnychykh-protsesiv",
+          "subjectTitle": "Безпека праці та виробничих процесів",
+          "kind": "lecture",
+          "hitCount": 3,
+          "anchorId": "instruktazh",
+          "anchorLabel": "Інструктажі",
+          "score": 103,
+          "wordCount": 7206,
+          "pages": 8,
+          "themes": [
+            {
+              "label": "Весь файл (тема не детектована)",
+              "startPage": 1,
+              "endPage": 8,
+              "volume": null
+            }
+          ],
+          "anchors": [
+            "instruktazh"
+          ]
+        },
+        {
+          "path": "9_Безпека праці та виробничих процесів/Лекція №3.docx",
+          "fileName": "Лекція №3.docx",
+          "subjectNum": 9,
+          "subjectId": "09_bezpeka-pratsi-ta-vyrobnychykh-protsesiv",
+          "subjectTitle": "Безпека праці та виробничих процесів",
+          "kind": "lecture",
+          "hitCount": 3,
+          "anchorId": "instruktazh",
+          "anchorLabel": "Інструктажі",
+          "score": 103,
+          "wordCount": 7206,
+          "pages": 8,
+          "themes": [
+            {
+              "label": "Весь файл (тема не детектована)",
+              "startPage": 1,
+              "endPage": 8,
+              "volume": null
+            }
+          ],
+          "anchors": [
+            "instruktazh"
+          ]
+        },
+        {
+          "path": "19_Ризик-орієнтований підхід до безпеки праці/Ризик лекція 5.pptx",
+          "fileName": "Ризик лекція 5.pptx",
+          "subjectNum": 19,
+          "subjectId": "19_ryzyk-oriientovanyi-pidkhid-do-bezpeky-pratsi",
+          "subjectTitle": "Ризик-орієнтований підхід до безпеки праці",
+          "kind": "lecture",
+          "hitCount": 3,
+          "anchorId": "instruktazh",
+          "anchorLabel": "Інструктажі",
+          "score": 103,
+          "wordCount": 5063,
+          "pages": 60,
+          "themes": [
+            {
+              "label": "Тема/лекція 5: Управління ризиками та заходи безпеки",
+              "startPage": 1,
+              "endPage": 1,
+              "volume": "thin"
+            },
+            {
+              "label": "Тема/лекція 4: Управління ризиками та заходи безпеки",
+              "startPage": 2,
+              "endPage": 60,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "instruktazh"
+          ]
+        },
+        {
+          "path": "12_Ведення документації та навчання з охорони праці/Ведення документації та навчання з охорони праці лекція 2.pptx",
+          "fileName": "Ведення документації та навчання з охорони праці лекція 2.pptx",
+          "subjectNum": 12,
+          "subjectId": "12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr",
+          "subjectTitle": "Ведення документації та навчання з охорони праці",
+          "kind": "lecture",
+          "hitCount": 2,
+          "anchorId": "instruktazh",
+          "anchorLabel": "Інструктажі",
+          "score": 102,
+          "wordCount": 2396,
+          "pages": 32,
+          "themes": [
+            {
+              "label": "Тема/лекція 2: Накази з охорони праці",
+              "startPage": 1,
+              "endPage": 32,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "instruktazh"
+          ]
+        },
+        {
+          "path": "12_Ведення документації та навчання з охорони праці/Ведення документації та навчання з охорони праці лекція 3.pptx",
+          "fileName": "Ведення документації та навчання з охорони праці лекція 3.pptx",
+          "subjectNum": 12,
+          "subjectId": "12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr",
+          "subjectTitle": "Ведення документації та навчання з охорони праці",
+          "kind": "lecture",
+          "hitCount": 2,
+          "anchorId": "instruktazh",
+          "anchorLabel": "Інструктажі",
+          "score": 102,
+          "wordCount": 2493,
+          "pages": 31,
+          "themes": [
+            {
+              "label": "Тема/лекція 3: Інструкції з охорони праці",
+              "startPage": 1,
+              "endPage": 31,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "instruktazh"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "path": "7_Засоби індивідуального захисту/Лекція 1.pdf",
+          "fileName": "Лекція 1.pdf",
+          "subjectNum": 7,
+          "subjectId": "07_zasoby-indyvidualnoho-zakhystu",
+          "subjectTitle": "Засоби індивідуального захисту",
+          "kind": "lecture",
+          "hitCount": 2,
+          "anchorId": "instruktazh",
+          "anchorLabel": "Інструктажі",
+          "score": 102,
+          "wordCount": 1044,
+          "pages": 16,
+          "themes": [
+            {
+              "label": "Тема/лекція 1: ЗАКОНОДАВЧЕ ТА",
+              "startPage": 1,
+              "endPage": 16,
+              "volume": "medium"
+            }
+          ],
+          "anchors": [
+            "instruktazh"
+          ]
+        },
+        {
+          "path": "19_Ризик-орієнтований підхід до безпеки праці/Ризик лекція 9_1.pptx",
+          "fileName": "Ризик лекція 9_1.pptx",
+          "subjectNum": 19,
+          "subjectId": "19_ryzyk-oriientovanyi-pidkhid-do-bezpeky-pratsi",
+          "subjectTitle": "Ризик-орієнтований підхід до безпеки праці",
+          "kind": "lecture",
+          "hitCount": 2,
+          "anchorId": "instruktazh",
+          "anchorLabel": "Інструктажі",
+          "score": 102,
+          "wordCount": 5346,
+          "pages": 62,
+          "themes": [
+            {
+              "label": "Тема/лекція 9: Перспективні напрямки впровадження ризик-менеджменту",
+              "startPage": 1,
+              "endPage": 62,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "instruktazh"
+          ]
+        },
+        {
+          "path": "12_Ведення документації та навчання з охорони праці/Ведення документації та навчання з охорони праці лекція9.pptx",
+          "fileName": "Ведення документації та навчання з охорони праці лекція9.pptx",
+          "subjectNum": 12,
+          "subjectId": "12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr",
+          "subjectTitle": "Ведення документації та навчання з охорони праці",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "instruktazh",
+          "anchorLabel": "Інструктажі",
+          "score": 101,
+          "wordCount": 2259,
+          "pages": 34,
+          "themes": [
+            {
+              "label": "Тема/лекція 9: Матеріали нещасних випадків",
+              "startPage": 1,
+              "endPage": 34,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "instruktazh"
+          ]
+        },
+        {
+          "path": "18_Гігієнічне нормування умов праці та стану довкілля/Гігієнічге нормавання_Лекція 1.pdf",
+          "fileName": "Гігієнічге нормавання_Лекція 1.pdf",
+          "subjectNum": 18,
+          "subjectId": "18_hihiienichne-normuvannia-umov-pratsi-ta-stanu-dovk",
+          "subjectTitle": "Гігієнічне нормування умов праці та стану довкілля",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "instruktazh",
+          "anchorLabel": "Інструктажі",
+          "score": 101,
+          "wordCount": 1139,
+          "pages": 15,
+          "themes": [
+            {
+              "label": "Весь файл (тема не детектована)",
+              "startPage": 1,
+              "endPage": 15,
+              "volume": null
+            }
+          ],
+          "anchors": [
+            "instruktazh"
+          ]
+        },
+        {
+          "path": "15_Ергономіка/Ергономіка Тема №6.pdf",
+          "fileName": "Ергономіка Тема №6.pdf",
+          "subjectNum": 15,
+          "subjectId": "15_erhonomika",
+          "subjectTitle": "Ергономіка",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "instruktazh",
+          "anchorLabel": "Інструктажі",
+          "score": 101,
+          "wordCount": 854,
+          "pages": 21,
+          "themes": [
+            {
+              "label": "Весь файл (тема не детектована)",
+              "startPage": 1,
+              "endPage": 21,
+              "volume": null
+            }
+          ],
+          "anchors": [
+            "instruktazh"
+          ]
+        },
+        {
+          "path": "15_Ергономіка/Ергономіка Тема №9.pdf",
+          "fileName": "Ергономіка Тема №9.pdf",
+          "subjectNum": 15,
+          "subjectId": "15_erhonomika",
+          "subjectTitle": "Ергономіка",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "instruktazh",
+          "anchorLabel": "Інструктажі",
+          "score": 101,
+          "wordCount": 1902,
+          "pages": 22,
+          "themes": [
+            {
+              "label": "Тема/лекція 9: Ергономічне оцінювання",
+              "startPage": 1,
+              "endPage": 22,
+              "volume": "medium"
+            }
+          ],
+          "anchors": [
+            "instruktazh"
+          ]
+        },
+        {
+          "path": "20_Пожежна та вибухова безпека/Конспект Лекція 1.docx",
+          "fileName": "Конспект Лекція 1.docx",
+          "subjectNum": 20,
+          "subjectId": "20_pozhezhna-ta-vybukhova-bezpeka",
+          "subjectTitle": "Пожежна та вибухова безпека",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "instruktazh",
+          "anchorLabel": "Інструктажі",
+          "score": 101,
+          "wordCount": 2687,
+          "pages": 4,
+          "themes": [
+            {
+              "label": "Тема/лекція 1: Основні поняття та визначення",
+              "startPage": 1,
+              "endPage": 4,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "instruktazh"
+          ]
+        },
+        {
+          "path": "6_Виробнича санітарія і гігієна праці/Конспект лекції 1.pdf",
+          "fileName": "Конспект лекції 1.pdf",
+          "subjectNum": 6,
+          "subjectId": "06_vyrobnycha-sanitariia-i-hihiiena-pratsi",
+          "subjectTitle": "Виробнича санітарія і гігієна праці",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "instruktazh",
+          "anchorLabel": "Інструктажі",
+          "score": 101,
+          "wordCount": 5638,
+          "pages": 29,
+          "themes": [
+            {
+              "label": "Тема/лекція 1: ЛЕКЦІЯ 1",
+              "startPage": 1,
+              "endPage": 29,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "instruktazh"
+          ]
+        },
+        {
+          "path": "6_Виробнича санітарія і гігієна праці/Конспект лекції 10.pdf",
+          "fileName": "Конспект лекції 10.pdf",
+          "subjectNum": 6,
+          "subjectId": "06_vyrobnycha-sanitariia-i-hihiiena-pratsi",
+          "subjectTitle": "Виробнича санітарія і гігієна праці",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "instruktazh",
+          "anchorLabel": "Інструктажі",
+          "score": 101,
+          "wordCount": 4996,
+          "pages": 26,
+          "themes": [
+            {
+              "label": "Тема/лекція 10: ЛЕКЦІЯ 10",
+              "startPage": 1,
+              "endPage": 26,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "instruktazh"
+          ]
+        },
+        {
+          "path": "3_Захист життя і здоров'я в надзвичайних ситуаціях/Конспект лекції 2.pdf",
+          "fileName": "Конспект лекції 2.pdf",
+          "subjectNum": 3,
+          "subjectId": "03_zakhyst-zhyttia-i-zdorovia-v-nadzvychainykh-sytuat",
+          "subjectTitle": "Захист життя і здоров'я в надзвичайних ситуаціях",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "instruktazh",
+          "anchorLabel": "Інструктажі",
+          "score": 101,
+          "wordCount": 5124,
+          "pages": 26,
+          "themes": [
+            {
+              "label": "Тема/лекція 2: ЛЕКЦІЯ 2",
+              "startPage": 1,
+              "endPage": 26,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "instruktazh"
+          ]
+        },
+        {
+          "path": "6_Виробнича санітарія і гігієна праці/Конспект лекції 4.pdf",
+          "fileName": "Конспект лекції 4.pdf",
+          "subjectNum": 6,
+          "subjectId": "06_vyrobnycha-sanitariia-i-hihiiena-pratsi",
+          "subjectTitle": "Виробнича санітарія і гігієна праці",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "instruktazh",
+          "anchorLabel": "Інструктажі",
+          "score": 101,
+          "wordCount": 4512,
+          "pages": 25,
+          "themes": [
+            {
+              "label": "Тема/лекція 4: ЛЕКЦІЯ 4",
+              "startPage": 1,
+              "endPage": 25,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "instruktazh"
+          ]
+        },
+        {
+          "path": "5_Безпека об'єктів та територій/Конспект лекції 6.pdf",
+          "fileName": "Конспект лекції 6.pdf",
+          "subjectNum": 5,
+          "subjectId": "05_bezpeka-obiektiv-ta-terytorii",
+          "subjectTitle": "Безпека об'єктів та територій",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "instruktazh",
+          "anchorLabel": "Інструктажі",
+          "score": 101,
+          "wordCount": 4305,
+          "pages": 22,
+          "themes": [
+            {
+              "label": "Тема/лекція 6: ЛЕКЦІЯ 6",
+              "startPage": 1,
+              "endPage": 22,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "instruktazh"
+          ]
+        },
+        {
+          "path": "6_Виробнича санітарія і гігієна праці/Конспект лекції 7.pdf",
+          "fileName": "Конспект лекції 7.pdf",
+          "subjectNum": 6,
+          "subjectId": "06_vyrobnycha-sanitariia-i-hihiiena-pratsi",
+          "subjectTitle": "Виробнича санітарія і гігієна праці",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "instruktazh",
+          "anchorLabel": "Інструктажі",
+          "score": 101,
+          "wordCount": 4431,
+          "pages": 27,
+          "themes": [
+            {
+              "label": "Тема/лекція 7: ЛЕКЦІЯ 7",
+              "startPage": 1,
+              "endPage": 27,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "instruktazh"
+          ]
+        },
+        {
+          "path": "5_Безпека об'єктів та територій/Конспект лекції 8.pdf",
+          "fileName": "Конспект лекції 8.pdf",
+          "subjectNum": 5,
+          "subjectId": "05_bezpeka-obiektiv-ta-terytorii",
+          "subjectTitle": "Безпека об'єктів та територій",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "instruktazh",
+          "anchorLabel": "Інструктажі",
+          "score": 101,
+          "wordCount": 7162,
+          "pages": 35,
+          "themes": [
+            {
+              "label": "Тема/лекція 8: ЛЕКЦІЯ 8",
+              "startPage": 1,
+              "endPage": 35,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "instruktazh"
+          ]
+        },
+        {
+          "path": "6_Виробнича санітарія і гігієна праці/Конспект лекції 8.pdf",
+          "fileName": "Конспект лекції 8.pdf",
+          "subjectNum": 6,
+          "subjectId": "06_vyrobnycha-sanitariia-i-hihiiena-pratsi",
+          "subjectTitle": "Виробнича санітарія і гігієна праці",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "instruktazh",
+          "anchorLabel": "Інструктажі",
+          "score": 101,
+          "wordCount": 5017,
+          "pages": 26,
+          "themes": [
+            {
+              "label": "Тема/лекція 8: ЛЕКЦІЯ 8",
+              "startPage": 1,
+              "endPage": 26,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "instruktazh"
+          ]
+        },
+        {
+          "path": "10_Розслідування аварій, аварійних ситуацій, інцидентів, нещасних випадків, професійних захворювань і невідповідностей на виробництві/ЛЕКЦ 6  РВ Спеціальне розслідування нещасних випадків 2 .docx",
+          "fileName": "ЛЕКЦ 6  РВ Спеціальне розслідування нещасних випадків 2 .docx",
+          "subjectNum": 10,
+          "subjectId": "10_rozsliduvannia-avarii-avariinykh-sytuatsii-intsyde",
+          "subjectTitle": "Розслідування аварій, аварійних ситуацій, інцидентів, нещасних випадків, професійних захворювань і невідповідностей на виробництві",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "instruktazh",
+          "anchorLabel": "Інструктажі",
+          "score": 101,
+          "wordCount": 1915,
+          "pages": 2,
+          "themes": [
+            {
+              "label": "Весь файл (тема не детектована)",
+              "startPage": 1,
+              "endPage": 2,
+              "volume": null
+            }
+          ],
+          "anchors": [
+            "instruktazh"
+          ]
+        },
+        {
+          "path": "10_Розслідування аварій, аварійних ситуацій, інцидентів, нещасних випадків, професійних захворювань і невідповідностей на виробництві/ЛЕКЦІЯ  9 Розслідування нещасних випадків з учасниками навчально.docx",
+          "fileName": "ЛЕКЦІЯ  9 Розслідування нещасних випадків з учасниками навчально.docx",
+          "subjectNum": 10,
+          "subjectId": "10_rozsliduvannia-avarii-avariinykh-sytuatsii-intsyde",
+          "subjectTitle": "Розслідування аварій, аварійних ситуацій, інцидентів, нещасних випадків, професійних захворювань і невідповідностей на виробництві",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "instruktazh",
+          "anchorLabel": "Інструктажі",
+          "score": 101,
+          "wordCount": 3220,
+          "pages": 4,
+          "themes": [
+            {
+              "label": "Тема/лекція 9: Розслідування нещасних випадків з учасниками навчально-виховного процесу",
+              "startPage": 1,
+              "endPage": 4,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "instruktazh"
+          ]
+        },
+        {
+          "path": "7_Засоби індивідуального захисту/Лекція 11.pdf",
+          "fileName": "Лекція 11.pdf",
+          "subjectNum": 7,
+          "subjectId": "07_zasoby-indyvidualnoho-zakhystu",
+          "subjectTitle": "Засоби індивідуального захисту",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "instruktazh",
+          "anchorLabel": "Інструктажі",
+          "score": 101,
+          "wordCount": 862,
+          "pages": 18,
+          "themes": [
+            {
+              "label": "Тема/лекція 11: Засоби",
+              "startPage": 1,
+              "endPage": 18,
+              "volume": "medium"
+            }
+          ],
+          "anchors": [
+            "instruktazh"
+          ]
+        }
+      ],
+      "questionHint": "Що потрібно знати / зробити щодо: Інструктажі з охорони праці (вступний, первинний, повторний, позаплановий, цільовий)?"
+    },
+    {
+      "code": "1.2",
+      "title": "Організація попередніх і періодичних медичних оглядів",
+      "candidateCount": 51,
+      "primary": [
+        {
+          "path": "12_Ведення документації та навчання з охорони праці/Ведення документації та навчання з охорони праці лекція8.pptx",
+          "fileName": "Ведення документації та навчання з охорони праці лекція8.pptx",
+          "subjectNum": 12,
+          "subjectId": "12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr",
+          "subjectTitle": "Ведення документації та навчання з охорони праці",
+          "kind": "lecture",
+          "hitCount": 36,
+          "anchorId": "medogliad",
+          "anchorLabel": "Медогляди",
+          "score": 136,
+          "wordCount": 2584,
+          "pages": 36,
+          "themes": [
+            {
+              "label": "Тема/лекція 8: Матеріали медоглядів",
+              "startPage": 1,
+              "endPage": 36,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "medogliad"
+          ]
+        },
+        {
+          "path": "11_Виробниче середовище та професійні захворювання/КОСТЮК ПРОФЕСІЙНІ ЗАХВОРЮВАННЯ.docx",
+          "fileName": "КОСТЮК ПРОФЕСІЙНІ ЗАХВОРЮВАННЯ.docx",
+          "subjectNum": 11,
+          "subjectId": "11_vyrobnyche-seredovyshche-ta-profesiini-zakhvoriuva",
+          "subjectTitle": "Виробниче середовище та професійні захворювання",
+          "kind": "lecture_candidate",
+          "hitCount": 55,
+          "anchorId": "medogliad",
+          "anchorLabel": "Медогляди",
+          "score": 110,
+          "wordCount": 129354,
+          "pages": 115,
+          "themes": [
+            {
+              "label": "Весь файл (тема не детектована)",
+              "startPage": 1,
+              "endPage": 115,
+              "volume": null
+            }
+          ],
+          "anchors": [
+            "medogliad"
+          ]
+        },
+        {
+          "path": "18_Гігієнічне нормування умов праці та стану довкілля/Гігієнічге нормавання_Лекція 1.pdf",
+          "fileName": "Гігієнічге нормавання_Лекція 1.pdf",
+          "subjectNum": 18,
+          "subjectId": "18_hihiienichne-normuvannia-umov-pratsi-ta-stanu-dovk",
+          "subjectTitle": "Гігієнічне нормування умов праці та стану довкілля",
+          "kind": "lecture",
+          "hitCount": 6,
+          "anchorId": "medogliad",
+          "anchorLabel": "Медогляди",
+          "score": 106,
+          "wordCount": 1139,
+          "pages": 15,
+          "themes": [
+            {
+              "label": "Весь файл (тема не детектована)",
+              "startPage": 1,
+              "endPage": 15,
+              "volume": null
+            }
+          ],
+          "anchors": [
+            "medogliad"
+          ]
+        },
+        {
+          "path": "21_Експертиза у сфері цивільної безпеки та охорони праці/Лекц 7 (Експ).pdf",
+          "fileName": "Лекц 7 (Експ).pdf",
+          "subjectNum": 21,
+          "subjectId": "21_ekspertyza-u-sferi-tsyvilnoi-bezpeky-ta-okhorony-p",
+          "subjectTitle": "Експертиза у сфері цивільної безпеки та охорони праці",
+          "kind": "lecture",
+          "hitCount": 5,
+          "anchorId": "medogliad",
+          "anchorLabel": "Медогляди",
+          "score": 105,
+          "wordCount": 14463,
+          "pages": 48,
+          "themes": [
+            {
+              "label": "Весь файл (тема не детектована)",
+              "startPage": 1,
+              "endPage": 48,
+              "volume": null
+            }
+          ],
+          "anchors": [
+            "medogliad"
+          ]
+        },
+        {
+          "path": "6_Виробнича санітарія і гігієна праці/Конспект лекції 1.pdf",
+          "fileName": "Конспект лекції 1.pdf",
+          "subjectNum": 6,
+          "subjectId": "06_vyrobnycha-sanitariia-i-hihiiena-pratsi",
+          "subjectTitle": "Виробнича санітарія і гігієна праці",
+          "kind": "lecture",
+          "hitCount": 4,
+          "anchorId": "medogliad",
+          "anchorLabel": "Медогляди",
+          "score": 104,
+          "wordCount": 5638,
+          "pages": 29,
+          "themes": [
+            {
+              "label": "Тема/лекція 1: ЛЕКЦІЯ 1",
+              "startPage": 1,
+              "endPage": 29,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "medogliad"
+          ]
+        },
+        {
+          "path": "9_Безпека праці та виробничих процесів/Лекція №1 ТРАВМАТИЗМ ТА ПРОФЕСІЙНІ ЗАХВОРЮВАННЯ.docx",
+          "fileName": "Лекція №1 ТРАВМАТИЗМ ТА ПРОФЕСІЙНІ ЗАХВОРЮВАННЯ.docx",
+          "subjectNum": 9,
+          "subjectId": "09_bezpeka-pratsi-ta-vyrobnychykh-protsesiv",
+          "subjectTitle": "Безпека праці та виробничих процесів",
+          "kind": "lecture",
+          "hitCount": 4,
+          "anchorId": "medogliad",
+          "anchorLabel": "Медогляди",
+          "score": 104,
+          "wordCount": 9676,
+          "pages": 7,
+          "themes": [
+            {
+              "label": "Весь файл (тема не детектована)",
+              "startPage": 1,
+              "endPage": 7,
+              "volume": null
+            }
+          ],
+          "anchors": [
+            "medogliad"
+          ]
+        },
+        {
+          "path": "21_Експертиза у сфері цивільної безпеки та охорони праці/Презентац л7 (Ек).pdf",
+          "fileName": "Презентац л7 (Ек).pdf",
+          "subjectNum": 21,
+          "subjectId": "21_ekspertyza-u-sferi-tsyvilnoi-bezpeky-ta-okhorony-p",
+          "subjectTitle": "Експертиза у сфері цивільної безпеки та охорони праці",
+          "kind": "lecture",
+          "hitCount": 4,
+          "anchorId": "medogliad",
+          "anchorLabel": "Медогляди",
+          "score": 104,
+          "wordCount": 3968,
+          "pages": 56,
+          "themes": [
+            {
+              "label": "Тема/лекція 7: Лекція 7",
+              "startPage": 1,
+              "endPage": 1,
+              "volume": "thin"
+            },
+            {
+              "label": "Тема/лекція 7: ЕКСПЕРТИЗА УМОВ ПРАЦІ. ГІГІЄНІЧНОЇ КЛАСИФІКАЦІЯ",
+              "startPage": 2,
+              "endPage": 56,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "medogliad"
+          ]
+        },
+        {
+          "path": "11_Виробниче середовище та професійні захворювання/ЛЕКЦІЯ  13ПЗ ПРОФЕСІЙНІ ХВОРОБИ  Кесона хвороба 1.docx",
+          "fileName": "ЛЕКЦІЯ  13ПЗ ПРОФЕСІЙНІ ХВОРОБИ  Кесона хвороба 1.docx",
+          "subjectNum": 11,
+          "subjectId": "11_vyrobnyche-seredovyshche-ta-profesiini-zakhvoriuva",
+          "subjectTitle": "Виробниче середовище та професійні захворювання",
+          "kind": "lecture",
+          "hitCount": 3,
+          "anchorId": "medogliad",
+          "anchorLabel": "Медогляди",
+          "score": 103,
+          "wordCount": 4646,
+          "pages": 3,
+          "themes": [
+            {
+              "label": "Тема/лекція 1: ЛЕКЦІЯ 1",
+              "startPage": 1,
+              "endPage": 3,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "medogliad"
+          ]
+        },
+        {
+          "path": "11_Виробниче середовище та професійні захворювання/ЛЕКЦІЯ 16 ПРОФЕСІЙНІ ХВОРОБИ , ЗУМОВЛЕНІ ВПЛИВОМ БІОЛОГІЧНИХ ФАКТОРІВ.docx",
+          "fileName": "ЛЕКЦІЯ 16 ПРОФЕСІЙНІ ХВОРОБИ , ЗУМОВЛЕНІ ВПЛИВОМ БІОЛОГІЧНИХ ФАКТОРІВ.docx",
+          "subjectNum": 11,
+          "subjectId": "11_vyrobnyche-seredovyshche-ta-profesiini-zakhvoriuva",
+          "subjectTitle": "Виробниче середовище та професійні захворювання",
+          "kind": "lecture",
+          "hitCount": 3,
+          "anchorId": "medogliad",
+          "anchorLabel": "Медогляди",
+          "score": 103,
+          "wordCount": 3285,
+          "pages": 4,
+          "themes": [
+            {
+              "label": "Тема/лекція 16: ПРОФЕСІЙНІ ХВОРОБИ, ЗУМОВЛЕНІ ВПЛИВОМ",
+              "startPage": 1,
+              "endPage": 4,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "medogliad"
+          ]
+        },
+        {
+          "path": "11_Виробниче середовище та професійні захворювання/ЛЕКЦІЯ 5       ЗАГАЛЬНІ ПИТАННЯ ПРОФЕСІЙНОЇ ПАТОЛОГІЇ.docx",
+          "fileName": "ЛЕКЦІЯ 5       ЗАГАЛЬНІ ПИТАННЯ ПРОФЕСІЙНОЇ ПАТОЛОГІЇ.docx",
+          "subjectNum": 11,
+          "subjectId": "11_vyrobnyche-seredovyshche-ta-profesiini-zakhvoriuva",
+          "subjectTitle": "Виробниче середовище та професійні захворювання",
+          "kind": "lecture",
+          "hitCount": 3,
+          "anchorId": "medogliad",
+          "anchorLabel": "Медогляди",
+          "score": 103,
+          "wordCount": 6000,
+          "pages": 5,
+          "themes": [
+            {
+              "label": "Тема/лекція 5: ЗАГАЛЬНІ ПИТАННЯ ПРОФЕСІЙНОЇ ПАТОЛОГІЇ:КЛАСИФІКАЦІЯ ТА СТРУКТУРА ПРОФЕСІЙНОЇ ЗАХВОРЮВАНОСТІ В УКРАЇНІ",
+              "startPage": 1,
+              "endPage": 5,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "medogliad"
+          ]
+        },
+        {
+          "path": "12_Ведення документації та навчання з охорони праці/Ведення документації та навчання з охорони праці лекція 1.pptx",
+          "fileName": "Ведення документації та навчання з охорони праці лекція 1.pptx",
+          "subjectNum": 12,
+          "subjectId": "12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr",
+          "subjectTitle": "Ведення документації та навчання з охорони праці",
+          "kind": "lecture",
+          "hitCount": 2,
+          "anchorId": "medogliad",
+          "anchorLabel": "Медогляди",
+          "score": 102,
+          "wordCount": 2645,
+          "pages": 48,
+          "themes": [
+            {
+              "label": "Тема/лекція 1: Нормативно-правова база регулювання ведення документації та навчання з охорони праці",
+              "startPage": 1,
+              "endPage": 48,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "medogliad"
+          ]
+        },
+        {
+          "path": "12_Ведення документації та навчання з охорони праці/Ведення документації та навчання з охорони праці лекція 4.pptx",
+          "fileName": "Ведення документації та навчання з охорони праці лекція 4.pptx",
+          "subjectNum": 12,
+          "subjectId": "12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr",
+          "subjectTitle": "Ведення документації та навчання з охорони праці",
+          "kind": "lecture",
+          "hitCount": 2,
+          "anchorId": "medogliad",
+          "anchorLabel": "Медогляди",
+          "score": 102,
+          "wordCount": 2027,
+          "pages": 24,
+          "themes": [
+            {
+              "label": "Тема/лекція 4: Положення з охорони праці",
+              "startPage": 1,
+              "endPage": 24,
+              "volume": "medium"
+            }
+          ],
+          "anchors": [
+            "medogliad"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "path": "6_Виробнича санітарія і гігієна праці/Конспект лекції 3.pdf",
+          "fileName": "Конспект лекції 3.pdf",
+          "subjectNum": 6,
+          "subjectId": "06_vyrobnycha-sanitariia-i-hihiiena-pratsi",
+          "subjectTitle": "Виробнича санітарія і гігієна праці",
+          "kind": "lecture",
+          "hitCount": 2,
+          "anchorId": "medogliad",
+          "anchorLabel": "Медогляди",
+          "score": 102,
+          "wordCount": 5764,
+          "pages": 28,
+          "themes": [
+            {
+              "label": "Тема/лекція 3: ЛЕКЦІЯ 3",
+              "startPage": 1,
+              "endPage": 28,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "medogliad"
+          ]
+        },
+        {
+          "path": "6_Виробнича санітарія і гігієна праці/Конспект лекції 6.pdf",
+          "fileName": "Конспект лекції 6.pdf",
+          "subjectNum": 6,
+          "subjectId": "06_vyrobnycha-sanitariia-i-hihiiena-pratsi",
+          "subjectTitle": "Виробнича санітарія і гігієна праці",
+          "kind": "lecture",
+          "hitCount": 2,
+          "anchorId": "medogliad",
+          "anchorLabel": "Медогляди",
+          "score": 102,
+          "wordCount": 5165,
+          "pages": 25,
+          "themes": [
+            {
+              "label": "Тема/лекція 6: ЛЕКЦІЯ 6",
+              "startPage": 1,
+              "endPage": 25,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "medogliad"
+          ]
+        },
+        {
+          "path": "3_Захист життя і здоров'я в надзвичайних ситуаціях/Конспект лекції 7.pdf",
+          "fileName": "Конспект лекції 7.pdf",
+          "subjectNum": 3,
+          "subjectId": "03_zakhyst-zhyttia-i-zdorovia-v-nadzvychainykh-sytuat",
+          "subjectTitle": "Захист життя і здоров'я в надзвичайних ситуаціях",
+          "kind": "lecture",
+          "hitCount": 2,
+          "anchorId": "medogliad",
+          "anchorLabel": "Медогляди",
+          "score": 102,
+          "wordCount": 7101,
+          "pages": 35,
+          "themes": [
+            {
+              "label": "Тема/лекція 7: ЛЕКЦІЯ 7",
+              "startPage": 1,
+              "endPage": 35,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "medogliad"
+          ]
+        },
+        {
+          "path": "11_Виробниче середовище та професійні захворювання/ЛЕКЦІЯ 9 ІНТОКСИКАЦІЇ.docx",
+          "fileName": "ЛЕКЦІЯ 9 ІНТОКСИКАЦІЇ.docx",
+          "subjectNum": 11,
+          "subjectId": "11_vyrobnyche-seredovyshche-ta-profesiini-zakhvoriuva",
+          "subjectTitle": "Виробниче середовище та професійні захворювання",
+          "kind": "lecture",
+          "hitCount": 2,
+          "anchorId": "medogliad",
+          "anchorLabel": "Медогляди",
+          "score": 102,
+          "wordCount": 3584,
+          "pages": 4,
+          "themes": [
+            {
+              "label": "Тема/лекція 9: ІНТОКСИКАЦІЇ, ЯКІ ВИНИКАЮТЬ В УМОВАХ СІЛЬСЬКОГО ГОСПОДАРСТВА (ІНТОКСИКАЦІЇ ПЕСТИЦИДАМИ)",
+              "startPage": 1,
+              "endPage": 4,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "medogliad"
+          ]
+        },
+        {
+          "path": "18_Гігієнічне нормування умов праці та стану довкілля/Лекція 15 Гігієнічна оцінка біологічних чинників виробничого процесу.pdf",
+          "fileName": "Лекція 15 Гігієнічна оцінка біологічних чинників виробничого процесу.pdf",
+          "subjectNum": 18,
+          "subjectId": "18_hihiienichne-normuvannia-umov-pratsi-ta-stanu-dovk",
+          "subjectTitle": "Гігієнічне нормування умов праці та стану довкілля",
+          "kind": "lecture",
+          "hitCount": 2,
+          "anchorId": "medogliad",
+          "anchorLabel": "Медогляди",
+          "score": 102,
+          "wordCount": 648,
+          "pages": 10,
+          "themes": [
+            {
+              "label": "Тема/лекція 15: Лекція 15",
+              "startPage": 1,
+              "endPage": 10,
+              "volume": "medium"
+            }
+          ],
+          "anchors": [
+            "medogliad"
+          ]
+        },
+        {
+          "path": "12_Ведення документації та навчання з охорони праці/Ведення документації та навчання з охорони праці лекція 3.pptx",
+          "fileName": "Ведення документації та навчання з охорони праці лекція 3.pptx",
+          "subjectNum": 12,
+          "subjectId": "12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr",
+          "subjectTitle": "Ведення документації та навчання з охорони праці",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "medogliad",
+          "anchorLabel": "Медогляди",
+          "score": 101,
+          "wordCount": 2493,
+          "pages": 31,
+          "themes": [
+            {
+              "label": "Тема/лекція 3: Інструкції з охорони праці",
+              "startPage": 1,
+              "endPage": 31,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "medogliad"
+          ]
+        },
+        {
+          "path": "12_Ведення документації та навчання з охорони праці/Ведення документації та навчання з охорони праці лекція11.pptx",
+          "fileName": "Ведення документації та навчання з охорони праці лекція11.pptx",
+          "subjectNum": 12,
+          "subjectId": "12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr",
+          "subjectTitle": "Ведення документації та навчання з охорони праці",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "medogliad",
+          "anchorLabel": "Медогляди",
+          "score": 101,
+          "wordCount": 4452,
+          "pages": 73,
+          "themes": [
+            {
+              "label": "Тема/лекція 11: Дозвільні документи",
+              "startPage": 1,
+              "endPage": 73,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "medogliad"
+          ]
+        },
+        {
+          "path": "12_Ведення документації та навчання з охорони праці/Ведення документації та навчання з охорони праці лекція9.pptx",
+          "fileName": "Ведення документації та навчання з охорони праці лекція9.pptx",
+          "subjectNum": 12,
+          "subjectId": "12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr",
+          "subjectTitle": "Ведення документації та навчання з охорони праці",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "medogliad",
+          "anchorLabel": "Медогляди",
+          "score": 101,
+          "wordCount": 2259,
+          "pages": 34,
+          "themes": [
+            {
+              "label": "Тема/лекція 9: Матеріали нещасних випадків",
+              "startPage": 1,
+              "endPage": 34,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "medogliad"
+          ]
+        },
+        {
+          "path": "5_Безпека об'єктів та територій/Конспект лекції 13.pdf",
+          "fileName": "Конспект лекції 13.pdf",
+          "subjectNum": 5,
+          "subjectId": "05_bezpeka-obiektiv-ta-terytorii",
+          "subjectTitle": "Безпека об'єктів та територій",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "medogliad",
+          "anchorLabel": "Медогляди",
+          "score": 101,
+          "wordCount": 5846,
+          "pages": 31,
+          "themes": [
+            {
+              "label": "Тема/лекція 13: ЛЕКЦІЯ 13",
+              "startPage": 1,
+              "endPage": 31,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "medogliad"
+          ]
+        },
+        {
+          "path": "6_Виробнича санітарія і гігієна праці/Конспект лекції 13.pdf",
+          "fileName": "Конспект лекції 13.pdf",
+          "subjectNum": 6,
+          "subjectId": "06_vyrobnycha-sanitariia-i-hihiiena-pratsi",
+          "subjectTitle": "Виробнича санітарія і гігієна праці",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "medogliad",
+          "anchorLabel": "Медогляди",
+          "score": 101,
+          "wordCount": 5449,
+          "pages": 27,
+          "themes": [
+            {
+              "label": "Тема/лекція 13: ЛЕКЦІЯ 13",
+              "startPage": 1,
+              "endPage": 17,
+              "volume": "high"
+            },
+            {
+              "label": "Тема/лекція 1: Гігієнічна оцінка умов праці",
+              "startPage": 18,
+              "endPage": 18,
+              "volume": "low"
+            },
+            {
+              "label": "Тема/лекція 2: Оцінка технічного та організаційного рівня робочого",
+              "startPage": 19,
+              "endPage": 19,
+              "volume": "low"
+            },
+            {
+              "label": "Тема/лекція 3: Атестація робочих місць",
+              "startPage": 20,
+              "endPage": 23,
+              "volume": "low"
+            },
+            {
+              "label": "Тема/лекція 4: Про заходи з поліпшення умов праці",
+              "startPage": 24,
+              "endPage": 27,
+              "volume": "low"
+            }
+          ],
+          "anchors": [
+            "medogliad"
+          ]
+        },
+        {
+          "path": "6_Виробнича санітарія і гігієна праці/Конспект лекції 4.pdf",
+          "fileName": "Конспект лекції 4.pdf",
+          "subjectNum": 6,
+          "subjectId": "06_vyrobnycha-sanitariia-i-hihiiena-pratsi",
+          "subjectTitle": "Виробнича санітарія і гігієна праці",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "medogliad",
+          "anchorLabel": "Медогляди",
+          "score": 101,
+          "wordCount": 4512,
+          "pages": 25,
+          "themes": [
+            {
+              "label": "Тема/лекція 4: ЛЕКЦІЯ 4",
+              "startPage": 1,
+              "endPage": 25,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "medogliad"
+          ]
+        },
+        {
+          "path": "6_Виробнича санітарія і гігієна праці/Конспект лекції 7.pdf",
+          "fileName": "Конспект лекції 7.pdf",
+          "subjectNum": 6,
+          "subjectId": "06_vyrobnycha-sanitariia-i-hihiiena-pratsi",
+          "subjectTitle": "Виробнича санітарія і гігієна праці",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "medogliad",
+          "anchorLabel": "Медогляди",
+          "score": 101,
+          "wordCount": 4431,
+          "pages": 27,
+          "themes": [
+            {
+              "label": "Тема/лекція 7: ЛЕКЦІЯ 7",
+              "startPage": 1,
+              "endPage": 27,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "medogliad"
+          ]
+        },
+        {
+          "path": "6_Виробнича санітарія і гігієна праці/Конспект лекції 8.pdf",
+          "fileName": "Конспект лекції 8.pdf",
+          "subjectNum": 6,
+          "subjectId": "06_vyrobnycha-sanitariia-i-hihiiena-pratsi",
+          "subjectTitle": "Виробнича санітарія і гігієна праці",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "medogliad",
+          "anchorLabel": "Медогляди",
+          "score": 101,
+          "wordCount": 5017,
+          "pages": 26,
+          "themes": [
+            {
+              "label": "Тема/лекція 8: ЛЕКЦІЯ 8",
+              "startPage": 1,
+              "endPage": 26,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "medogliad"
+          ]
+        },
+        {
+          "path": "6_Виробнича санітарія і гігієна праці/Конспект лекції 9.pdf",
+          "fileName": "Конспект лекції 9.pdf",
+          "subjectNum": 6,
+          "subjectId": "06_vyrobnycha-sanitariia-i-hihiiena-pratsi",
+          "subjectTitle": "Виробнича санітарія і гігієна праці",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "medogliad",
+          "anchorLabel": "Медогляди",
+          "score": 101,
+          "wordCount": 6517,
+          "pages": 33,
+          "themes": [
+            {
+              "label": "Тема/лекція 9: ЛЕКЦІЯ 9",
+              "startPage": 1,
+              "endPage": 33,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "medogliad"
+          ]
+        },
+        {
+          "path": "11_Виробниче середовище та професійні захворювання/ЛЕКЦІЯ  ПЗ  17 ПРОФ ОНКОЛОГІЯ.docx",
+          "fileName": "ЛЕКЦІЯ  ПЗ  17 ПРОФ ОНКОЛОГІЯ.docx",
+          "subjectNum": 11,
+          "subjectId": "11_vyrobnyche-seredovyshche-ta-profesiini-zakhvoriuva",
+          "subjectTitle": "Виробниче середовище та професійні захворювання",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "medogliad",
+          "anchorLabel": "Медогляди",
+          "score": 101,
+          "wordCount": 1571,
+          "pages": 2,
+          "themes": [
+            {
+              "label": "Тема/лекція 17: ПРОФЕСІЙНІ ОНКОЛОГІЧНІ ЗАХВОРЮВАННЯ",
+              "startPage": 1,
+              "endPage": 2,
+              "volume": "medium"
+            }
+          ],
+          "anchors": [
+            "medogliad"
+          ]
+        },
+        {
+          "path": "11_Виробниче середовище та професійні захворювання/ЛЕКЦІЯ 15 ПРОФЕСІЙНІ ХВОРОБИ.docx",
+          "fileName": "ЛЕКЦІЯ 15 ПРОФЕСІЙНІ ХВОРОБИ.docx",
+          "subjectNum": 11,
+          "subjectId": "11_vyrobnyche-seredovyshche-ta-profesiini-zakhvoriuva",
+          "subjectTitle": "Виробниче середовище та професійні захворювання",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "medogliad",
+          "anchorLabel": "Медогляди",
+          "score": 101,
+          "wordCount": 4123,
+          "pages": 3,
+          "themes": [
+            {
+              "label": "Тема/лекція 15: ПРОФЕСІЙНІ ХВОРОБИ, ЗУМОВЛЕНІ ФУНКЦІОНАЛЬНИМ ПЕРЕНАПРУЖЕННЯМ",
+              "startPage": 1,
+              "endPage": 3,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "medogliad"
+          ]
+        },
+        {
+          "path": "18_Гігієнічне нормування умов праці та стану довкілля/Лекція 12 Гігієнічні класи умов праці. Методи вивчення стану навколишнього виробничого середовища (продовження).docx",
+          "fileName": "Лекція 12 Гігієнічні класи умов праці. Методи вивчення стану навколишнього виробничого середовища (продовження).docx",
+          "subjectNum": 18,
+          "subjectId": "18_hihiienichne-normuvannia-umov-pratsi-ta-stanu-dovk",
+          "subjectTitle": "Гігієнічне нормування умов праці та стану довкілля",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "medogliad",
+          "anchorLabel": "Медогляди",
+          "score": 101,
+          "wordCount": 1262,
+          "pages": 2,
+          "themes": [
+            {
+              "label": "Тема/лекція 12: Лекція 12.",
+              "startPage": 1,
+              "endPage": 2,
+              "volume": "medium"
+            }
+          ],
+          "anchors": [
+            "medogliad"
+          ]
+        },
+        {
+          "path": "7_Засоби індивідуального захисту/Лекція 14.pdf",
+          "fileName": "Лекція 14.pdf",
+          "subjectNum": 7,
+          "subjectId": "07_zasoby-indyvidualnoho-zakhystu",
+          "subjectTitle": "Засоби індивідуального захисту",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "medogliad",
+          "anchorLabel": "Медогляди",
+          "score": 101,
+          "wordCount": 1612,
+          "pages": 20,
+          "themes": [
+            {
+              "label": "Тема/лекція 14: ЗАСОБИ",
+              "startPage": 1,
+              "endPage": 20,
+              "volume": "medium"
+            }
+          ],
+          "anchors": [
+            "medogliad"
+          ]
+        }
+      ],
+      "questionHint": "Що потрібно знати / зробити щодо: Організація попередніх і періодичних медичних оглядів?"
+    },
+    {
+      "code": "1.3",
+      "title": "Присвоєння I групи з електробезпеки неелектротехнічному персоналу",
+      "candidateCount": 14,
+      "primary": [
+        {
+          "path": "20_Пожежна та вибухова безпека/През_пожежна безпека 9.pptx",
+          "fileName": "През_пожежна безпека 9.pptx",
+          "subjectNum": 20,
+          "subjectId": "20_pozhezhna-ta-vybukhova-bezpeka",
+          "subjectTitle": "Пожежна та вибухова безпека",
+          "kind": "lecture",
+          "hitCount": 5,
+          "anchorId": "elektro_grupa",
+          "anchorLabel": "Групи з електробезпеки",
+          "score": 105,
+          "wordCount": 5259,
+          "pages": 63,
+          "themes": [
+            {
+              "label": "Тема/лекція 9: Пожежна безпека процесів механічної обробки твердих речовин та матеріалів",
+              "startPage": 1,
+              "endPage": 63,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "elektro_grupa"
+          ]
+        },
+        {
+          "path": "15_Ергономіка/лекція 13.pdf",
+          "fileName": "лекція 13.pdf",
+          "subjectNum": 15,
+          "subjectId": "15_erhonomika",
+          "subjectTitle": "Ергономіка",
+          "kind": "lecture",
+          "hitCount": 3,
+          "anchorId": "elektro_grupa",
+          "anchorLabel": "Групи з електробезпеки",
+          "score": 103,
+          "wordCount": 7281,
+          "pages": 17,
+          "themes": [
+            {
+              "label": "Весь файл (тема не детектована)",
+              "startPage": 1,
+              "endPage": 17,
+              "volume": null
+            }
+          ],
+          "anchors": [
+            "elektro_grupa"
+          ]
+        },
+        {
+          "path": "7_Засоби індивідуального захисту/Лекція 12.pdf",
+          "fileName": "Лекція 12.pdf",
+          "subjectNum": 7,
+          "subjectId": "07_zasoby-indyvidualnoho-zakhystu",
+          "subjectTitle": "Засоби індивідуального захисту",
+          "kind": "lecture",
+          "hitCount": 2,
+          "anchorId": "elektro_grupa",
+          "anchorLabel": "Групи з електробезпеки",
+          "score": 102,
+          "wordCount": 858,
+          "pages": 23,
+          "themes": [
+            {
+              "label": "Тема/лекція 12: ЗАСОБИ",
+              "startPage": 1,
+              "endPage": 23,
+              "volume": "medium"
+            }
+          ],
+          "anchors": [
+            "elektro_grupa"
+          ]
+        },
+        {
+          "path": "3_Захист життя і здоров'я в надзвичайних ситуаціях/Конспект лекції 14.pdf",
+          "fileName": "Конспект лекції 14.pdf",
+          "subjectNum": 3,
+          "subjectId": "03_zakhyst-zhyttia-i-zdorovia-v-nadzvychainykh-sytuat",
+          "subjectTitle": "Захист життя і здоров'я в надзвичайних ситуаціях",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "elektro_grupa",
+          "anchorLabel": "Групи з електробезпеки",
+          "score": 101,
+          "wordCount": 5831,
+          "pages": 28,
+          "themes": [
+            {
+              "label": "Тема/лекція 14: ЛЕКЦІЯ 14",
+              "startPage": 1,
+              "endPage": 28,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "elektro_grupa"
+          ]
+        },
+        {
+          "path": "3_Захист життя і здоров'я в надзвичайних ситуаціях/Конспект лекції 7.pdf",
+          "fileName": "Конспект лекції 7.pdf",
+          "subjectNum": 3,
+          "subjectId": "03_zakhyst-zhyttia-i-zdorovia-v-nadzvychainykh-sytuat",
+          "subjectTitle": "Захист життя і здоров'я в надзвичайних ситуаціях",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "elektro_grupa",
+          "anchorLabel": "Групи з електробезпеки",
+          "score": 101,
+          "wordCount": 7101,
+          "pages": 35,
+          "themes": [
+            {
+              "label": "Тема/лекція 7: ЛЕКЦІЯ 7",
+              "startPage": 1,
+              "endPage": 35,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "elektro_grupa"
+          ]
+        },
+        {
+          "path": "6_Виробнича санітарія і гігієна праці/Конспект лекції 9.pdf",
+          "fileName": "Конспект лекції 9.pdf",
+          "subjectNum": 6,
+          "subjectId": "06_vyrobnycha-sanitariia-i-hihiiena-pratsi",
+          "subjectTitle": "Виробнича санітарія і гігієна праці",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "elektro_grupa",
+          "anchorLabel": "Групи з електробезпеки",
+          "score": 101,
+          "wordCount": 6517,
+          "pages": 33,
+          "themes": [
+            {
+              "label": "Тема/лекція 9: ЛЕКЦІЯ 9",
+              "startPage": 1,
+              "endPage": 33,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "elektro_grupa"
+          ]
+        },
+        {
+          "path": "15_Ергономіка/лекція 2.pdf",
+          "fileName": "лекція 2.pdf",
+          "subjectNum": 15,
+          "subjectId": "15_erhonomika",
+          "subjectTitle": "Ергономіка",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "elektro_grupa",
+          "anchorLabel": "Групи з електробезпеки",
+          "score": 101,
+          "wordCount": 2290,
+          "pages": 11,
+          "themes": [
+            {
+              "label": "Тема/лекція 2: Механіка тіла – баланс між працею і відпочинком",
+              "startPage": 1,
+              "endPage": 11,
+              "volume": "medium"
+            }
+          ],
+          "anchors": [
+            "elektro_grupa"
+          ]
+        },
+        {
+          "path": "11_Виробниче середовище та професійні захворювання/КОСТЮК ПРОФЕСІЙНІ ЗАХВОРЮВАННЯ.docx",
+          "fileName": "КОСТЮК ПРОФЕСІЙНІ ЗАХВОРЮВАННЯ.docx",
+          "subjectNum": 11,
+          "subjectId": "11_vyrobnyche-seredovyshche-ta-profesiini-zakhvoriuva",
+          "subjectTitle": "Виробниче середовище та професійні захворювання",
+          "kind": "lecture_candidate",
+          "hitCount": 8,
+          "anchorId": "elektro_grupa",
+          "anchorLabel": "Групи з електробезпеки",
+          "score": 78,
+          "wordCount": 129354,
+          "pages": 115,
+          "themes": [
+            {
+              "label": "Весь файл (тема не детектована)",
+              "startPage": 1,
+              "endPage": 115,
+              "volume": null
+            }
+          ],
+          "anchors": [
+            "elektro_grupa"
+          ]
+        },
+        {
+          "path": "9_Безпека праці та виробничих процесів/Безпека елобладнання).pptx",
+          "fileName": "Безпека елобладнання).pptx",
+          "subjectNum": 9,
+          "subjectId": "09_bezpeka-pratsi-ta-vyrobnychykh-protsesiv",
+          "subjectTitle": "Безпека праці та виробничих процесів",
+          "kind": "lecture_candidate",
+          "hitCount": 2,
+          "anchorId": "elektro_grupa",
+          "anchorLabel": "Групи з електробезпеки",
+          "score": 72,
+          "wordCount": 2219,
+          "pages": 21,
+          "themes": [
+            {
+              "label": "Весь файл (тема не детектована)",
+              "startPage": 1,
+              "endPage": 21,
+              "volume": null
+            }
+          ],
+          "anchors": [
+            "elektro_grupa"
+          ]
+        },
+        {
+          "path": "17_Безпека експлуатації інженерних мереж та споруд/БЕІМС_Л_11.pptx",
+          "fileName": "БЕІМС_Л_11.pptx",
+          "subjectNum": 17,
+          "subjectId": "17_bezpeka-ekspluatatsii-inzhenernykh-merezh-ta-sporu",
+          "subjectTitle": "Безпека експлуатації інженерних мереж та споруд",
+          "kind": "lecture_candidate",
+          "hitCount": 1,
+          "anchorId": "elektro_grupa",
+          "anchorLabel": "Групи з електробезпеки",
+          "score": 71,
+          "wordCount": 3041,
+          "pages": 29,
+          "themes": [
+            {
+              "label": "Тема/лекція 4: 3",
+              "startPage": 1,
+              "endPage": 29,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "elektro_grupa"
+          ]
+        },
+        {
+          "path": "13_Безпека праці та виробничих процесів/Кодекс законів про працю України - Кодекс України № 322-VIII від 10.12.1971 - d23605-20250101.pdf",
+          "fileName": "Кодекс законів про працю України - Кодекс України № 322-VIII від 10.12.1971 - d23605-20250101.pdf",
+          "subjectNum": 13,
+          "subjectId": "13_bezpeka-pratsi-ta-vyrobnychykh-protsesiv",
+          "subjectTitle": "Безпека праці та виробничих процесів",
+          "kind": "npa_or_standard",
+          "hitCount": 5,
+          "anchorId": "elektro_grupa",
+          "anchorLabel": "Групи з електробезпеки",
+          "score": 45,
+          "wordCount": 48030,
+          "pages": 137,
+          "themes": [
+            {
+              "label": "Весь файл (тема не детектована)",
+              "startPage": 1,
+              "endPage": 137,
+              "volume": null
+            }
+          ],
+          "anchors": [
+            "elektro_grupa"
+          ]
+        },
+        {
+          "path": "13_Безпека праці та виробничих процесів/Про затвердження Типового положення про порядок проведення… - Наказ № 15 від 26.01.2005 - d166273-20241025.pdf",
+          "fileName": "Про затвердження Типового положення про порядок проведення… - Наказ № 15 від 26.01.2005 - d166273-20241025.pdf",
+          "subjectNum": 13,
+          "subjectId": "13_bezpeka-pratsi-ta-vyrobnychykh-protsesiv",
+          "subjectTitle": "Безпека праці та виробничих процесів",
+          "kind": "npa_or_standard",
+          "hitCount": 3,
+          "anchorId": "elektro_grupa",
+          "anchorLabel": "Групи з електробезпеки",
+          "score": 43,
+          "wordCount": 9726,
+          "pages": 35,
+          "themes": [
+            {
+              "label": "Тема/лекція 1: Законодавство України про охорону праці. Основні положення Закону України",
+              "startPage": 22,
+              "endPage": 23,
+              "volume": "low"
+            },
+            {
+              "label": "Тема/лекція 2: ОРГАНІЗАЦІЯ РОБОТИ З ОХОРОНИ ПРАЦІ",
+              "startPage": 24,
+              "endPage": 24,
+              "volume": "low"
+            },
+            {
+              "label": "Тема/лекція 3: ВИБУХОНЕБЕЗПЕКА ВИРОБНИЦТВ І ВИБУХОЗАХИСТ",
+              "startPage": 25,
+              "endPage": 26,
+              "volume": "low"
+            },
+            {
+              "label": "Тема/лекція 4: ПОЖЕЖНА БЕЗПЕКА",
+              "startPage": 27,
+              "endPage": 27,
+              "volume": "low"
+            },
+            {
+              "label": "Тема/лекція 5: ЕЛЕКТРОБЕЗПЕКА",
+              "startPage": 28,
+              "endPage": 28,
+              "volume": "low"
+            },
+            {
+              "label": "Тема/лекція 6: ГІГІЄНА ПРАЦІ. МЕДИЧНІ ОГЛЯДИ. ПРОФІЛАКТИКА ПРОФЕСІЙНИХ",
+              "startPage": 29,
+              "endPage": 29,
+              "volume": "low"
+            },
+            {
+              "label": "Тема/лекція 8: ПСИХОСОЦІАЛЬНА ПІДТРИМКА ТА ПЕРША",
+              "startPage": 30,
+              "endPage": 30,
+              "volume": "low"
+            },
+            {
+              "label": "Тема/лекція 9: УПРАВЛІННЯ РОБОТАМИ З ПРОФІЛАКТИКИ ТА ЛІКВІДАЦІЇ НАСЛІДКІВ",
+              "startPage": 31,
+              "endPage": 35,
+              "volume": "medium"
+            }
+          ],
+          "anchors": [
+            "elektro_grupa"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "path": "11_Виробниче середовище та професійні захворювання/ЗАКОН 12178 УКРАЇНИ про МСЕК 1.docx",
+          "fileName": "ЗАКОН 12178 УКРАЇНИ про МСЕК 1.docx",
+          "subjectNum": 11,
+          "subjectId": "11_vyrobnyche-seredovyshche-ta-profesiini-zakhvoriuva",
+          "subjectTitle": "Виробниче середовище та професійні захворювання",
+          "kind": "npa_or_standard",
+          "hitCount": 2,
+          "anchorId": "elektro_grupa",
+          "anchorLabel": "Групи з електробезпеки",
+          "score": 42,
+          "wordCount": 11553,
+          "pages": 11,
+          "themes": [
+            {
+              "label": "Весь файл (тема не детектована)",
+              "startPage": 1,
+              "endPage": 11,
+              "volume": null
+            }
+          ],
+          "anchors": [
+            "elektro_grupa"
+          ]
+        },
+        {
+          "path": "11_Виробниче середовище та професійні захворювання/ЗАКОН 12178 УКРАЇНИ про МСЕК.docx",
+          "fileName": "ЗАКОН 12178 УКРАЇНИ про МСЕК.docx",
+          "subjectNum": 11,
+          "subjectId": "11_vyrobnyche-seredovyshche-ta-profesiini-zakhvoriuva",
+          "subjectTitle": "Виробниче середовище та професійні захворювання",
+          "kind": "npa_or_standard",
+          "hitCount": 2,
+          "anchorId": "elektro_grupa",
+          "anchorLabel": "Групи з електробезпеки",
+          "score": 42,
+          "wordCount": 11553,
+          "pages": 11,
+          "themes": [
+            {
+              "label": "Весь файл (тема не детектована)",
+              "startPage": 1,
+              "endPage": 11,
+              "volume": null
+            }
+          ],
+          "anchors": [
+            "elektro_grupa"
+          ]
+        }
+      ],
+      "questionHint": "Що потрібно знати / зробити щодо: Присвоєння I групи з електробезпеки неелектротехнічному персоналу?"
+    },
+    {
+      "code": "1.4",
+      "title": "Спеціальне навчання та перевірка знань з питань охорони праці",
+      "candidateCount": 31,
+      "primary": [
+        {
+          "path": "12_Ведення документації та навчання з охорони праці/Ведення документації та навчання з охорони праці лекція 5.pptx",
+          "fileName": "Ведення документації та навчання з охорони праці лекція 5.pptx",
+          "subjectNum": 12,
+          "subjectId": "12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr",
+          "subjectTitle": "Ведення документації та навчання з охорони праці",
+          "kind": "lecture",
+          "hitCount": 47,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 140,
+          "wordCount": 3884,
+          "pages": 50,
+          "themes": [
+            {
+              "label": "Тема/лекція 5: Навчання відповідальних осіб та робітників",
+              "startPage": 1,
+              "endPage": 50,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "12_Ведення документації та навчання з охорони праці/Ведення документації та навчання з охорони праці лекція 6.pptx",
+          "fileName": "Ведення документації та навчання з охорони праці лекція 6.pptx",
+          "subjectNum": 12,
+          "subjectId": "12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr",
+          "subjectTitle": "Ведення документації та навчання з охорони праці",
+          "kind": "lecture",
+          "hitCount": 10,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 110,
+          "wordCount": 1960,
+          "pages": 32,
+          "themes": [
+            {
+              "label": "Тема/лекція 6: Інструктажі",
+              "startPage": 1,
+              "endPage": 32,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "12_Ведення документації та навчання з охорони праці/Ведення документації та навчання з охорони праці лекція 4.pptx",
+          "fileName": "Ведення документації та навчання з охорони праці лекція 4.pptx",
+          "subjectNum": 12,
+          "subjectId": "12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr",
+          "subjectTitle": "Ведення документації та навчання з охорони праці",
+          "kind": "lecture",
+          "hitCount": 4,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 104,
+          "wordCount": 2027,
+          "pages": 24,
+          "themes": [
+            {
+              "label": "Тема/лекція 4: Положення з охорони праці",
+              "startPage": 1,
+              "endPage": 24,
+              "volume": "medium"
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "9_Безпека праці та виробничих процесів/Лекція №2.docx",
+          "fileName": "Лекція №2.docx",
+          "subjectNum": 9,
+          "subjectId": "09_bezpeka-pratsi-ta-vyrobnychykh-protsesiv",
+          "subjectTitle": "Безпека праці та виробничих процесів",
+          "kind": "lecture",
+          "hitCount": 4,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 104,
+          "wordCount": 7206,
+          "pages": 8,
+          "themes": [
+            {
+              "label": "Весь файл (тема не детектована)",
+              "startPage": 1,
+              "endPage": 8,
+              "volume": null
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "9_Безпека праці та виробничих процесів/Лекція №3.docx",
+          "fileName": "Лекція №3.docx",
+          "subjectNum": 9,
+          "subjectId": "09_bezpeka-pratsi-ta-vyrobnychykh-protsesiv",
+          "subjectTitle": "Безпека праці та виробничих процесів",
+          "kind": "lecture",
+          "hitCount": 4,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 104,
+          "wordCount": 7206,
+          "pages": 8,
+          "themes": [
+            {
+              "label": "Весь файл (тема не детектована)",
+              "startPage": 1,
+              "endPage": 8,
+              "volume": null
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "12_Ведення документації та навчання з охорони праці/Ведення документації та навчання з охорони праці лекція 3.pptx",
+          "fileName": "Ведення документації та навчання з охорони праці лекція 3.pptx",
+          "subjectNum": 12,
+          "subjectId": "12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr",
+          "subjectTitle": "Ведення документації та навчання з охорони праці",
+          "kind": "lecture",
+          "hitCount": 3,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 103,
+          "wordCount": 2493,
+          "pages": 31,
+          "themes": [
+            {
+              "label": "Тема/лекція 3: Інструкції з охорони праці",
+              "startPage": 1,
+              "endPage": 31,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "12_Ведення документації та навчання з охорони праці/Ведення документації та навчання з охорони праці лекція 1.pptx",
+          "fileName": "Ведення документації та навчання з охорони праці лекція 1.pptx",
+          "subjectNum": 12,
+          "subjectId": "12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr",
+          "subjectTitle": "Ведення документації та навчання з охорони праці",
+          "kind": "lecture",
+          "hitCount": 2,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 102,
+          "wordCount": 2645,
+          "pages": 48,
+          "themes": [
+            {
+              "label": "Тема/лекція 1: Нормативно-правова база регулювання ведення документації та навчання з охорони праці",
+              "startPage": 1,
+              "endPage": 48,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "12_Ведення документації та навчання з охорони праці/Ведення документації та навчання з охорони праці лекція 2.pptx",
+          "fileName": "Ведення документації та навчання з охорони праці лекція 2.pptx",
+          "subjectNum": 12,
+          "subjectId": "12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr",
+          "subjectTitle": "Ведення документації та навчання з охорони праці",
+          "kind": "lecture",
+          "hitCount": 2,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 102,
+          "wordCount": 2396,
+          "pages": 32,
+          "themes": [
+            {
+              "label": "Тема/лекція 2: Накази з охорони праці",
+              "startPage": 1,
+              "endPage": 32,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "12_Ведення документації та навчання з охорони праці/Ведення документації та навчання з охорони праці лекція11.pptx",
+          "fileName": "Ведення документації та навчання з охорони праці лекція11.pptx",
+          "subjectNum": 12,
+          "subjectId": "12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr",
+          "subjectTitle": "Ведення документації та навчання з охорони праці",
+          "kind": "lecture",
+          "hitCount": 2,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 102,
+          "wordCount": 4452,
+          "pages": 73,
+          "themes": [
+            {
+              "label": "Тема/лекція 11: Дозвільні документи",
+              "startPage": 1,
+              "endPage": 73,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "5_Безпека об'єктів та територій/Конспект лекції 8.pdf",
+          "fileName": "Конспект лекції 8.pdf",
+          "subjectNum": 5,
+          "subjectId": "05_bezpeka-obiektiv-ta-terytorii",
+          "subjectTitle": "Безпека об'єктів та територій",
+          "kind": "lecture",
+          "hitCount": 2,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 102,
+          "wordCount": 7162,
+          "pages": 35,
+          "themes": [
+            {
+              "label": "Тема/лекція 8: ЛЕКЦІЯ 8",
+              "startPage": 1,
+              "endPage": 35,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "9_Безпека праці та виробничих процесів/Лекція №1 ТРАВМАТИЗМ ТА ПРОФЕСІЙНІ ЗАХВОРЮВАННЯ.docx",
+          "fileName": "Лекція №1 ТРАВМАТИЗМ ТА ПРОФЕСІЙНІ ЗАХВОРЮВАННЯ.docx",
+          "subjectNum": 9,
+          "subjectId": "09_bezpeka-pratsi-ta-vyrobnychykh-protsesiv",
+          "subjectTitle": "Безпека праці та виробничих процесів",
+          "kind": "lecture",
+          "hitCount": 2,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 102,
+          "wordCount": 9676,
+          "pages": 7,
+          "themes": [
+            {
+              "label": "Весь файл (тема не детектована)",
+              "startPage": 1,
+              "endPage": 7,
+              "volume": null
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "18_Гігієнічне нормування умов праці та стану довкілля/Гігієнічге нормавання_Лекція 1.pdf",
+          "fileName": "Гігієнічге нормавання_Лекція 1.pdf",
+          "subjectNum": 18,
+          "subjectId": "18_hihiienichne-normuvannia-umov-pratsi-ta-stanu-dovk",
+          "subjectTitle": "Гігієнічне нормування умов праці та стану довкілля",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 101,
+          "wordCount": 1139,
+          "pages": 15,
+          "themes": [
+            {
+              "label": "Весь файл (тема не детектована)",
+              "startPage": 1,
+              "endPage": 15,
+              "volume": null
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "path": "5_Безпека об'єктів та територій/Конспект лекції 10.pdf",
+          "fileName": "Конспект лекції 10.pdf",
+          "subjectNum": 5,
+          "subjectId": "05_bezpeka-obiektiv-ta-terytorii",
+          "subjectTitle": "Безпека об'єктів та територій",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 101,
+          "wordCount": 3729,
+          "pages": 22,
+          "themes": [
+            {
+              "label": "Тема/лекція 10: ЛЕКЦІЯ 10",
+              "startPage": 1,
+              "endPage": 22,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "5_Безпека об'єктів та територій/Конспект лекції 6.pdf",
+          "fileName": "Конспект лекції 6.pdf",
+          "subjectNum": 5,
+          "subjectId": "05_bezpeka-obiektiv-ta-terytorii",
+          "subjectTitle": "Безпека об'єктів та територій",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 101,
+          "wordCount": 4305,
+          "pages": 22,
+          "themes": [
+            {
+              "label": "Тема/лекція 6: ЛЕКЦІЯ 6",
+              "startPage": 1,
+              "endPage": 22,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "6_Виробнича санітарія і гігієна праці/Конспект лекції 7.pdf",
+          "fileName": "Конспект лекції 7.pdf",
+          "subjectNum": 6,
+          "subjectId": "06_vyrobnycha-sanitariia-i-hihiiena-pratsi",
+          "subjectTitle": "Виробнича санітарія і гігієна праці",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 101,
+          "wordCount": 4431,
+          "pages": 27,
+          "themes": [
+            {
+              "label": "Тема/лекція 7: ЛЕКЦІЯ 7",
+              "startPage": 1,
+              "endPage": 27,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "10_Розслідування аварій, аварійних ситуацій, інцидентів, нещасних випадків, професійних захворювань і невідповідностей на виробництві/ЛЕКЦІЯ  9 Розслідування нещасних випадків з учасниками навчально.docx",
+          "fileName": "ЛЕКЦІЯ  9 Розслідування нещасних випадків з учасниками навчально.docx",
+          "subjectNum": 10,
+          "subjectId": "10_rozsliduvannia-avarii-avariinykh-sytuatsii-intsyde",
+          "subjectTitle": "Розслідування аварій, аварійних ситуацій, інцидентів, нещасних випадків, професійних захворювань і невідповідностей на виробництві",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 101,
+          "wordCount": 3220,
+          "pages": 4,
+          "themes": [
+            {
+              "label": "Тема/лекція 9: Розслідування нещасних випадків з учасниками навчально-виховного процесу",
+              "startPage": 1,
+              "endPage": 4,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "21_Експертиза у сфері цивільної безпеки та охорони праці/Лекц 5 (Експ).pdf",
+          "fileName": "Лекц 5 (Експ).pdf",
+          "subjectNum": 21,
+          "subjectId": "21_ekspertyza-u-sferi-tsyvilnoi-bezpeky-ta-okhorony-p",
+          "subjectTitle": "Експертиза у сфері цивільної безпеки та охорони праці",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 101,
+          "wordCount": 4448,
+          "pages": 15,
+          "themes": [
+            {
+              "label": "Тема/лекція 5: ПОРЯДОК ВИДАЧІ ДОЗВОЛІВ НА ВИКОНАННЯ РОБІТ",
+              "startPage": 1,
+              "endPage": 15,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "20_Пожежна та вибухова безпека/През_пожежна безпека 9.pptx",
+          "fileName": "През_пожежна безпека 9.pptx",
+          "subjectNum": 20,
+          "subjectId": "20_pozhezhna-ta-vybukhova-bezpeka",
+          "subjectTitle": "Пожежна та вибухова безпека",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 101,
+          "wordCount": 5259,
+          "pages": 63,
+          "themes": [
+            {
+              "label": "Тема/лекція 9: Пожежна безпека процесів механічної обробки твердих речовин та матеріалів",
+              "startPage": 1,
+              "endPage": 63,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "19_Ризик-орієнтований підхід до безпеки праці/Ризик лекція10.pptx",
+          "fileName": "Ризик лекція10.pptx",
+          "subjectNum": 19,
+          "subjectId": "19_ryzyk-oriientovanyi-pidkhid-do-bezpeky-pratsi",
+          "subjectTitle": "Ризик-орієнтований підхід до безпеки праці",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 101,
+          "wordCount": 6000,
+          "pages": 63,
+          "themes": [
+            {
+              "label": "Тема/лекція 10: Аналіз аварійного ризику. ПЛАС. Види техногенних небезпек",
+              "startPage": 1,
+              "endPage": 63,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "12_Ведення документації та навчання з охорони праці/СУОП.docx",
+          "fileName": "СУОП.docx",
+          "subjectNum": 12,
+          "subjectId": "12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr",
+          "subjectTitle": "Ведення документації та навчання з охорони праці",
+          "kind": "lecture_candidate",
+          "hitCount": 2,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 72,
+          "wordCount": 9479,
+          "pages": 10,
+          "themes": [
+            {
+              "label": "Весь файл (тема не детектована)",
+              "startPage": 1,
+              "endPage": 10,
+              "volume": null
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "16_Цивільний захист та радіаційна безпека/ЦЗтаРБ Т2_Л3 (8.10).pptx",
+          "fileName": "ЦЗтаРБ Т2_Л3 (8.10).pptx",
+          "subjectNum": 16,
+          "subjectId": "16_tsyvilnyi-zakhyst-ta-radiatsiina-bezpeka",
+          "subjectTitle": "Цивільний захист та радіаційна безпека",
+          "kind": "lecture_candidate",
+          "hitCount": 2,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 72,
+          "wordCount": 2406,
+          "pages": 27,
+          "themes": [
+            {
+              "label": "Тема/лекція 2: ПЛАНУВАННЯ ЗАХОДІВ ЦИВІЛЬНОГО ЗАХИСТУ. ЗАХИСТ НАСЕЛЕННЯ І ТЕРИТОРІЙ ВІД НАДЗВИЧАЙНИХ СИТУАЦІЙ",
+              "startPage": 1,
+              "endPage": 27,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "16_Цивільний захист та радіаційна безпека/ЦЗтаРБ Т2_Л4 (15.10).pptx",
+          "fileName": "ЦЗтаРБ Т2_Л4 (15.10).pptx",
+          "subjectNum": 16,
+          "subjectId": "16_tsyvilnyi-zakhyst-ta-radiatsiina-bezpeka",
+          "subjectTitle": "Цивільний захист та радіаційна безпека",
+          "kind": "lecture_candidate",
+          "hitCount": 2,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 72,
+          "wordCount": 3176,
+          "pages": 32,
+          "themes": [
+            {
+              "label": "Тема/лекція 2: ПЛАНУВАННЯ ЗАХОДІВ ЦИВІЛЬНОГО ЗАХИСТУ. ЗАХИСТ НАСЕЛЕННЯ І ТЕРИТОРІЙ ВІД НАДЗВИЧАЙНИХ СИТУАЦІЙ",
+              "startPage": 1,
+              "endPage": 26,
+              "volume": "high"
+            },
+            {
+              "label": "Тема/лекція 1: Стисла характеристика об'єкта (Особливості, шо вплива­ють на організацію і ведення ЦЗ)",
+              "startPage": 27,
+              "endPage": 32,
+              "volume": "low"
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "10_Розслідування аварій, аварійних ситуацій, інцидентів, нещасних випадків, професійних захворювань і невідповідностей на виробництві/pr2 prichini.docx",
+          "fileName": "pr2 prichini.docx",
+          "subjectNum": 10,
+          "subjectId": "10_rozsliduvannia-avarii-avariinykh-sytuatsii-intsyde",
+          "subjectTitle": "Розслідування аварій, аварійних ситуацій, інцидентів, нещасних випадків, професійних захворювань і невідповідностей на виробництві",
+          "kind": "lecture_candidate",
+          "hitCount": 1,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 71,
+          "wordCount": 1796,
+          "pages": 2,
+          "themes": [
+            {
+              "label": "Весь файл (тема не детектована)",
+              "startPage": 1,
+              "endPage": 2,
+              "volume": null
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "17_Безпека експлуатації інженерних мереж та споруд/БЕІМС_Л_11.pptx",
+          "fileName": "БЕІМС_Л_11.pptx",
+          "subjectNum": 17,
+          "subjectId": "17_bezpeka-ekspluatatsii-inzhenernykh-merezh-ta-sporu",
+          "subjectTitle": "Безпека експлуатації інженерних мереж та споруд",
+          "kind": "lecture_candidate",
+          "hitCount": 1,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 71,
+          "wordCount": 3041,
+          "pages": 29,
+          "themes": [
+            {
+              "label": "Тема/лекція 4: 3",
+              "startPage": 1,
+              "endPage": 29,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "9_Безпека праці та виробничих процесів/Безпека елобладнання).pptx",
+          "fileName": "Безпека елобладнання).pptx",
+          "subjectNum": 9,
+          "subjectId": "09_bezpeka-pratsi-ta-vyrobnychykh-protsesiv",
+          "subjectTitle": "Безпека праці та виробничих процесів",
+          "kind": "lecture_candidate",
+          "hitCount": 1,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 71,
+          "wordCount": 2219,
+          "pages": 21,
+          "themes": [
+            {
+              "label": "Весь файл (тема не детектована)",
+              "startPage": 1,
+              "endPage": 21,
+              "volume": null
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "10_Розслідування аварій, аварійних ситуацій, інцидентів, нещасних випадків, професійних захворювань і невідповідностей на виробництві/Л 8 НВ   РОСЛІДУВАННЯ НЕЩАСНИХ  випадків невиробничого  характеру.docx",
+          "fileName": "Л 8 НВ   РОСЛІДУВАННЯ НЕЩАСНИХ  випадків невиробничого  характеру.docx",
+          "subjectNum": 10,
+          "subjectId": "10_rozsliduvannia-avarii-avariinykh-sytuatsii-intsyde",
+          "subjectTitle": "Розслідування аварій, аварійних ситуацій, інцидентів, нещасних випадків, професійних захворювань і невідповідностей на виробництві",
+          "kind": "lecture_candidate",
+          "hitCount": 1,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 71,
+          "wordCount": 5390,
+          "pages": 8,
+          "themes": [
+            {
+              "label": "Тема/лекція 8: РОЗСЛІДУВАННЯ ТА ОБЛІК НЕЩАСНИХ ВИПАДКІВ НЕВИРОБНИЧОГО ХАРАКТЕРУ",
+              "startPage": 1,
+              "endPage": 8,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "10_Розслідування аварій, аварійних ситуацій, інцидентів, нещасних випадків, професійних захворювань і невідповідностей на виробництві/ПОРЯДОК 433 ЗТ.docx",
+          "fileName": "ПОРЯДОК 433 ЗТ.docx",
+          "subjectNum": 10,
+          "subjectId": "10_rozsliduvannia-avarii-avariinykh-sytuatsii-intsyde",
+          "subjectTitle": "Розслідування аварій, аварійних ситуацій, інцидентів, нещасних випадків, професійних захворювань і невідповідностей на виробництві",
+          "kind": "lecture_candidate",
+          "hitCount": 1,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 71,
+          "wordCount": 2702,
+          "pages": 4,
+          "themes": [
+            {
+              "label": "Весь файл (тема не детектована)",
+              "startPage": 1,
+              "endPage": 4,
+              "volume": null
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "10_Розслідування аварій, аварійних ситуацій, інцидентів, нещасних випадків, професійних захворювань і невідповідностей на виробництві/Приклад виконання.docx",
+          "fileName": "Приклад виконання.docx",
+          "subjectNum": 10,
+          "subjectId": "10_rozsliduvannia-avarii-avariinykh-sytuatsii-intsyde",
+          "subjectTitle": "Розслідування аварій, аварійних ситуацій, інцидентів, нещасних випадків, професійних захворювань і невідповідностей на виробництві",
+          "kind": "lecture_candidate",
+          "hitCount": 1,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 71,
+          "wordCount": 383,
+          "pages": 1,
+          "themes": [
+            {
+              "label": "Весь файл (тема не детектована)",
+              "startPage": 1,
+              "endPage": 1,
+              "volume": null
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "13_Безпека праці та виробничих процесів/Про затвердження Типового положення про порядок проведення… - Наказ № 15 від 26.01.2005 - d166273-20241025.pdf",
+          "fileName": "Про затвердження Типового положення про порядок проведення… - Наказ № 15 від 26.01.2005 - d166273-20241025.pdf",
+          "subjectNum": 13,
+          "subjectId": "13_bezpeka-pratsi-ta-vyrobnychykh-protsesiv",
+          "subjectTitle": "Безпека праці та виробничих процесів",
+          "kind": "npa_or_standard",
+          "hitCount": 22,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 62,
+          "wordCount": 9726,
+          "pages": 35,
+          "themes": [
+            {
+              "label": "Тема/лекція 1: Законодавство України про охорону праці. Основні положення Закону України",
+              "startPage": 22,
+              "endPage": 23,
+              "volume": "low"
+            },
+            {
+              "label": "Тема/лекція 2: ОРГАНІЗАЦІЯ РОБОТИ З ОХОРОНИ ПРАЦІ",
+              "startPage": 24,
+              "endPage": 24,
+              "volume": "low"
+            },
+            {
+              "label": "Тема/лекція 3: ВИБУХОНЕБЕЗПЕКА ВИРОБНИЦТВ І ВИБУХОЗАХИСТ",
+              "startPage": 25,
+              "endPage": 26,
+              "volume": "low"
+            },
+            {
+              "label": "Тема/лекція 4: ПОЖЕЖНА БЕЗПЕКА",
+              "startPage": 27,
+              "endPage": 27,
+              "volume": "low"
+            },
+            {
+              "label": "Тема/лекція 5: ЕЛЕКТРОБЕЗПЕКА",
+              "startPage": 28,
+              "endPage": 28,
+              "volume": "low"
+            },
+            {
+              "label": "Тема/лекція 6: ГІГІЄНА ПРАЦІ. МЕДИЧНІ ОГЛЯДИ. ПРОФІЛАКТИКА ПРОФЕСІЙНИХ",
+              "startPage": 29,
+              "endPage": 29,
+              "volume": "low"
+            },
+            {
+              "label": "Тема/лекція 8: ПСИХОСОЦІАЛЬНА ПІДТРИМКА ТА ПЕРША",
+              "startPage": 30,
+              "endPage": 30,
+              "volume": "low"
+            },
+            {
+              "label": "Тема/лекція 9: УПРАВЛІННЯ РОБОТАМИ З ПРОФІЛАКТИКИ ТА ЛІКВІДАЦІЇ НАСЛІДКІВ",
+              "startPage": 31,
+              "endPage": 35,
+              "volume": "medium"
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "13_Безпека праці та виробничих процесів/Кодекс законів про працю України - Кодекс України № 322-VIII від 10.12.1971 - d23605-20250101.pdf",
+          "fileName": "Кодекс законів про працю України - Кодекс України № 322-VIII від 10.12.1971 - d23605-20250101.pdf",
+          "subjectNum": 13,
+          "subjectId": "13_bezpeka-pratsi-ta-vyrobnychykh-protsesiv",
+          "subjectTitle": "Безпека праці та виробничих процесів",
+          "kind": "npa_or_standard",
+          "hitCount": 1,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 41,
+          "wordCount": 48030,
+          "pages": 137,
+          "themes": [
+            {
+              "label": "Весь файл (тема не детектована)",
+              "startPage": 1,
+              "endPage": 137,
+              "volume": null
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        }
+      ],
+      "questionHint": "Що потрібно знати / зробити щодо: Спеціальне навчання та перевірка знань з питань охорони праці?"
+    },
+    {
+      "code": "1.5",
+      "title": "Навчання та перевірка знань посадових осіб з питань охорони праці",
+      "candidateCount": 31,
+      "primary": [
+        {
+          "path": "12_Ведення документації та навчання з охорони праці/Ведення документації та навчання з охорони праці лекція 5.pptx",
+          "fileName": "Ведення документації та навчання з охорони праці лекція 5.pptx",
+          "subjectNum": 12,
+          "subjectId": "12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr",
+          "subjectTitle": "Ведення документації та навчання з охорони праці",
+          "kind": "lecture",
+          "hitCount": 47,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 140,
+          "wordCount": 3884,
+          "pages": 50,
+          "themes": [
+            {
+              "label": "Тема/лекція 5: Навчання відповідальних осіб та робітників",
+              "startPage": 1,
+              "endPage": 50,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "12_Ведення документації та навчання з охорони праці/Ведення документації та навчання з охорони праці лекція 6.pptx",
+          "fileName": "Ведення документації та навчання з охорони праці лекція 6.pptx",
+          "subjectNum": 12,
+          "subjectId": "12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr",
+          "subjectTitle": "Ведення документації та навчання з охорони праці",
+          "kind": "lecture",
+          "hitCount": 10,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 110,
+          "wordCount": 1960,
+          "pages": 32,
+          "themes": [
+            {
+              "label": "Тема/лекція 6: Інструктажі",
+              "startPage": 1,
+              "endPage": 32,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "12_Ведення документації та навчання з охорони праці/Ведення документації та навчання з охорони праці лекція 4.pptx",
+          "fileName": "Ведення документації та навчання з охорони праці лекція 4.pptx",
+          "subjectNum": 12,
+          "subjectId": "12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr",
+          "subjectTitle": "Ведення документації та навчання з охорони праці",
+          "kind": "lecture",
+          "hitCount": 4,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 104,
+          "wordCount": 2027,
+          "pages": 24,
+          "themes": [
+            {
+              "label": "Тема/лекція 4: Положення з охорони праці",
+              "startPage": 1,
+              "endPage": 24,
+              "volume": "medium"
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "9_Безпека праці та виробничих процесів/Лекція №2.docx",
+          "fileName": "Лекція №2.docx",
+          "subjectNum": 9,
+          "subjectId": "09_bezpeka-pratsi-ta-vyrobnychykh-protsesiv",
+          "subjectTitle": "Безпека праці та виробничих процесів",
+          "kind": "lecture",
+          "hitCount": 4,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 104,
+          "wordCount": 7206,
+          "pages": 8,
+          "themes": [
+            {
+              "label": "Весь файл (тема не детектована)",
+              "startPage": 1,
+              "endPage": 8,
+              "volume": null
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "9_Безпека праці та виробничих процесів/Лекція №3.docx",
+          "fileName": "Лекція №3.docx",
+          "subjectNum": 9,
+          "subjectId": "09_bezpeka-pratsi-ta-vyrobnychykh-protsesiv",
+          "subjectTitle": "Безпека праці та виробничих процесів",
+          "kind": "lecture",
+          "hitCount": 4,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 104,
+          "wordCount": 7206,
+          "pages": 8,
+          "themes": [
+            {
+              "label": "Весь файл (тема не детектована)",
+              "startPage": 1,
+              "endPage": 8,
+              "volume": null
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "12_Ведення документації та навчання з охорони праці/Ведення документації та навчання з охорони праці лекція 3.pptx",
+          "fileName": "Ведення документації та навчання з охорони праці лекція 3.pptx",
+          "subjectNum": 12,
+          "subjectId": "12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr",
+          "subjectTitle": "Ведення документації та навчання з охорони праці",
+          "kind": "lecture",
+          "hitCount": 3,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 103,
+          "wordCount": 2493,
+          "pages": 31,
+          "themes": [
+            {
+              "label": "Тема/лекція 3: Інструкції з охорони праці",
+              "startPage": 1,
+              "endPage": 31,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "12_Ведення документації та навчання з охорони праці/Ведення документації та навчання з охорони праці лекція 1.pptx",
+          "fileName": "Ведення документації та навчання з охорони праці лекція 1.pptx",
+          "subjectNum": 12,
+          "subjectId": "12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr",
+          "subjectTitle": "Ведення документації та навчання з охорони праці",
+          "kind": "lecture",
+          "hitCount": 2,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 102,
+          "wordCount": 2645,
+          "pages": 48,
+          "themes": [
+            {
+              "label": "Тема/лекція 1: Нормативно-правова база регулювання ведення документації та навчання з охорони праці",
+              "startPage": 1,
+              "endPage": 48,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "12_Ведення документації та навчання з охорони праці/Ведення документації та навчання з охорони праці лекція 2.pptx",
+          "fileName": "Ведення документації та навчання з охорони праці лекція 2.pptx",
+          "subjectNum": 12,
+          "subjectId": "12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr",
+          "subjectTitle": "Ведення документації та навчання з охорони праці",
+          "kind": "lecture",
+          "hitCount": 2,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 102,
+          "wordCount": 2396,
+          "pages": 32,
+          "themes": [
+            {
+              "label": "Тема/лекція 2: Накази з охорони праці",
+              "startPage": 1,
+              "endPage": 32,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "12_Ведення документації та навчання з охорони праці/Ведення документації та навчання з охорони праці лекція11.pptx",
+          "fileName": "Ведення документації та навчання з охорони праці лекція11.pptx",
+          "subjectNum": 12,
+          "subjectId": "12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr",
+          "subjectTitle": "Ведення документації та навчання з охорони праці",
+          "kind": "lecture",
+          "hitCount": 2,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 102,
+          "wordCount": 4452,
+          "pages": 73,
+          "themes": [
+            {
+              "label": "Тема/лекція 11: Дозвільні документи",
+              "startPage": 1,
+              "endPage": 73,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "5_Безпека об'єктів та територій/Конспект лекції 8.pdf",
+          "fileName": "Конспект лекції 8.pdf",
+          "subjectNum": 5,
+          "subjectId": "05_bezpeka-obiektiv-ta-terytorii",
+          "subjectTitle": "Безпека об'єктів та територій",
+          "kind": "lecture",
+          "hitCount": 2,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 102,
+          "wordCount": 7162,
+          "pages": 35,
+          "themes": [
+            {
+              "label": "Тема/лекція 8: ЛЕКЦІЯ 8",
+              "startPage": 1,
+              "endPage": 35,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "9_Безпека праці та виробничих процесів/Лекція №1 ТРАВМАТИЗМ ТА ПРОФЕСІЙНІ ЗАХВОРЮВАННЯ.docx",
+          "fileName": "Лекція №1 ТРАВМАТИЗМ ТА ПРОФЕСІЙНІ ЗАХВОРЮВАННЯ.docx",
+          "subjectNum": 9,
+          "subjectId": "09_bezpeka-pratsi-ta-vyrobnychykh-protsesiv",
+          "subjectTitle": "Безпека праці та виробничих процесів",
+          "kind": "lecture",
+          "hitCount": 2,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 102,
+          "wordCount": 9676,
+          "pages": 7,
+          "themes": [
+            {
+              "label": "Весь файл (тема не детектована)",
+              "startPage": 1,
+              "endPage": 7,
+              "volume": null
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "18_Гігієнічне нормування умов праці та стану довкілля/Гігієнічге нормавання_Лекція 1.pdf",
+          "fileName": "Гігієнічге нормавання_Лекція 1.pdf",
+          "subjectNum": 18,
+          "subjectId": "18_hihiienichne-normuvannia-umov-pratsi-ta-stanu-dovk",
+          "subjectTitle": "Гігієнічне нормування умов праці та стану довкілля",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 101,
+          "wordCount": 1139,
+          "pages": 15,
+          "themes": [
+            {
+              "label": "Весь файл (тема не детектована)",
+              "startPage": 1,
+              "endPage": 15,
+              "volume": null
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "path": "5_Безпека об'єктів та територій/Конспект лекції 10.pdf",
+          "fileName": "Конспект лекції 10.pdf",
+          "subjectNum": 5,
+          "subjectId": "05_bezpeka-obiektiv-ta-terytorii",
+          "subjectTitle": "Безпека об'єктів та територій",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 101,
+          "wordCount": 3729,
+          "pages": 22,
+          "themes": [
+            {
+              "label": "Тема/лекція 10: ЛЕКЦІЯ 10",
+              "startPage": 1,
+              "endPage": 22,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "5_Безпека об'єктів та територій/Конспект лекції 6.pdf",
+          "fileName": "Конспект лекції 6.pdf",
+          "subjectNum": 5,
+          "subjectId": "05_bezpeka-obiektiv-ta-terytorii",
+          "subjectTitle": "Безпека об'єктів та територій",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 101,
+          "wordCount": 4305,
+          "pages": 22,
+          "themes": [
+            {
+              "label": "Тема/лекція 6: ЛЕКЦІЯ 6",
+              "startPage": 1,
+              "endPage": 22,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "6_Виробнича санітарія і гігієна праці/Конспект лекції 7.pdf",
+          "fileName": "Конспект лекції 7.pdf",
+          "subjectNum": 6,
+          "subjectId": "06_vyrobnycha-sanitariia-i-hihiiena-pratsi",
+          "subjectTitle": "Виробнича санітарія і гігієна праці",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 101,
+          "wordCount": 4431,
+          "pages": 27,
+          "themes": [
+            {
+              "label": "Тема/лекція 7: ЛЕКЦІЯ 7",
+              "startPage": 1,
+              "endPage": 27,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "10_Розслідування аварій, аварійних ситуацій, інцидентів, нещасних випадків, професійних захворювань і невідповідностей на виробництві/ЛЕКЦІЯ  9 Розслідування нещасних випадків з учасниками навчально.docx",
+          "fileName": "ЛЕКЦІЯ  9 Розслідування нещасних випадків з учасниками навчально.docx",
+          "subjectNum": 10,
+          "subjectId": "10_rozsliduvannia-avarii-avariinykh-sytuatsii-intsyde",
+          "subjectTitle": "Розслідування аварій, аварійних ситуацій, інцидентів, нещасних випадків, професійних захворювань і невідповідностей на виробництві",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 101,
+          "wordCount": 3220,
+          "pages": 4,
+          "themes": [
+            {
+              "label": "Тема/лекція 9: Розслідування нещасних випадків з учасниками навчально-виховного процесу",
+              "startPage": 1,
+              "endPage": 4,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "21_Експертиза у сфері цивільної безпеки та охорони праці/Лекц 5 (Експ).pdf",
+          "fileName": "Лекц 5 (Експ).pdf",
+          "subjectNum": 21,
+          "subjectId": "21_ekspertyza-u-sferi-tsyvilnoi-bezpeky-ta-okhorony-p",
+          "subjectTitle": "Експертиза у сфері цивільної безпеки та охорони праці",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 101,
+          "wordCount": 4448,
+          "pages": 15,
+          "themes": [
+            {
+              "label": "Тема/лекція 5: ПОРЯДОК ВИДАЧІ ДОЗВОЛІВ НА ВИКОНАННЯ РОБІТ",
+              "startPage": 1,
+              "endPage": 15,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "20_Пожежна та вибухова безпека/През_пожежна безпека 9.pptx",
+          "fileName": "През_пожежна безпека 9.pptx",
+          "subjectNum": 20,
+          "subjectId": "20_pozhezhna-ta-vybukhova-bezpeka",
+          "subjectTitle": "Пожежна та вибухова безпека",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 101,
+          "wordCount": 5259,
+          "pages": 63,
+          "themes": [
+            {
+              "label": "Тема/лекція 9: Пожежна безпека процесів механічної обробки твердих речовин та матеріалів",
+              "startPage": 1,
+              "endPage": 63,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "19_Ризик-орієнтований підхід до безпеки праці/Ризик лекція10.pptx",
+          "fileName": "Ризик лекція10.pptx",
+          "subjectNum": 19,
+          "subjectId": "19_ryzyk-oriientovanyi-pidkhid-do-bezpeky-pratsi",
+          "subjectTitle": "Ризик-орієнтований підхід до безпеки праці",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 101,
+          "wordCount": 6000,
+          "pages": 63,
+          "themes": [
+            {
+              "label": "Тема/лекція 10: Аналіз аварійного ризику. ПЛАС. Види техногенних небезпек",
+              "startPage": 1,
+              "endPage": 63,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "12_Ведення документації та навчання з охорони праці/СУОП.docx",
+          "fileName": "СУОП.docx",
+          "subjectNum": 12,
+          "subjectId": "12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr",
+          "subjectTitle": "Ведення документації та навчання з охорони праці",
+          "kind": "lecture_candidate",
+          "hitCount": 2,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 72,
+          "wordCount": 9479,
+          "pages": 10,
+          "themes": [
+            {
+              "label": "Весь файл (тема не детектована)",
+              "startPage": 1,
+              "endPage": 10,
+              "volume": null
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "16_Цивільний захист та радіаційна безпека/ЦЗтаРБ Т2_Л3 (8.10).pptx",
+          "fileName": "ЦЗтаРБ Т2_Л3 (8.10).pptx",
+          "subjectNum": 16,
+          "subjectId": "16_tsyvilnyi-zakhyst-ta-radiatsiina-bezpeka",
+          "subjectTitle": "Цивільний захист та радіаційна безпека",
+          "kind": "lecture_candidate",
+          "hitCount": 2,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 72,
+          "wordCount": 2406,
+          "pages": 27,
+          "themes": [
+            {
+              "label": "Тема/лекція 2: ПЛАНУВАННЯ ЗАХОДІВ ЦИВІЛЬНОГО ЗАХИСТУ. ЗАХИСТ НАСЕЛЕННЯ І ТЕРИТОРІЙ ВІД НАДЗВИЧАЙНИХ СИТУАЦІЙ",
+              "startPage": 1,
+              "endPage": 27,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "16_Цивільний захист та радіаційна безпека/ЦЗтаРБ Т2_Л4 (15.10).pptx",
+          "fileName": "ЦЗтаРБ Т2_Л4 (15.10).pptx",
+          "subjectNum": 16,
+          "subjectId": "16_tsyvilnyi-zakhyst-ta-radiatsiina-bezpeka",
+          "subjectTitle": "Цивільний захист та радіаційна безпека",
+          "kind": "lecture_candidate",
+          "hitCount": 2,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 72,
+          "wordCount": 3176,
+          "pages": 32,
+          "themes": [
+            {
+              "label": "Тема/лекція 2: ПЛАНУВАННЯ ЗАХОДІВ ЦИВІЛЬНОГО ЗАХИСТУ. ЗАХИСТ НАСЕЛЕННЯ І ТЕРИТОРІЙ ВІД НАДЗВИЧАЙНИХ СИТУАЦІЙ",
+              "startPage": 1,
+              "endPage": 26,
+              "volume": "high"
+            },
+            {
+              "label": "Тема/лекція 1: Стисла характеристика об'єкта (Особливості, шо вплива­ють на організацію і ведення ЦЗ)",
+              "startPage": 27,
+              "endPage": 32,
+              "volume": "low"
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "10_Розслідування аварій, аварійних ситуацій, інцидентів, нещасних випадків, професійних захворювань і невідповідностей на виробництві/pr2 prichini.docx",
+          "fileName": "pr2 prichini.docx",
+          "subjectNum": 10,
+          "subjectId": "10_rozsliduvannia-avarii-avariinykh-sytuatsii-intsyde",
+          "subjectTitle": "Розслідування аварій, аварійних ситуацій, інцидентів, нещасних випадків, професійних захворювань і невідповідностей на виробництві",
+          "kind": "lecture_candidate",
+          "hitCount": 1,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 71,
+          "wordCount": 1796,
+          "pages": 2,
+          "themes": [
+            {
+              "label": "Весь файл (тема не детектована)",
+              "startPage": 1,
+              "endPage": 2,
+              "volume": null
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "17_Безпека експлуатації інженерних мереж та споруд/БЕІМС_Л_11.pptx",
+          "fileName": "БЕІМС_Л_11.pptx",
+          "subjectNum": 17,
+          "subjectId": "17_bezpeka-ekspluatatsii-inzhenernykh-merezh-ta-sporu",
+          "subjectTitle": "Безпека експлуатації інженерних мереж та споруд",
+          "kind": "lecture_candidate",
+          "hitCount": 1,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 71,
+          "wordCount": 3041,
+          "pages": 29,
+          "themes": [
+            {
+              "label": "Тема/лекція 4: 3",
+              "startPage": 1,
+              "endPage": 29,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "9_Безпека праці та виробничих процесів/Безпека елобладнання).pptx",
+          "fileName": "Безпека елобладнання).pptx",
+          "subjectNum": 9,
+          "subjectId": "09_bezpeka-pratsi-ta-vyrobnychykh-protsesiv",
+          "subjectTitle": "Безпека праці та виробничих процесів",
+          "kind": "lecture_candidate",
+          "hitCount": 1,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 71,
+          "wordCount": 2219,
+          "pages": 21,
+          "themes": [
+            {
+              "label": "Весь файл (тема не детектована)",
+              "startPage": 1,
+              "endPage": 21,
+              "volume": null
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "10_Розслідування аварій, аварійних ситуацій, інцидентів, нещасних випадків, професійних захворювань і невідповідностей на виробництві/Л 8 НВ   РОСЛІДУВАННЯ НЕЩАСНИХ  випадків невиробничого  характеру.docx",
+          "fileName": "Л 8 НВ   РОСЛІДУВАННЯ НЕЩАСНИХ  випадків невиробничого  характеру.docx",
+          "subjectNum": 10,
+          "subjectId": "10_rozsliduvannia-avarii-avariinykh-sytuatsii-intsyde",
+          "subjectTitle": "Розслідування аварій, аварійних ситуацій, інцидентів, нещасних випадків, професійних захворювань і невідповідностей на виробництві",
+          "kind": "lecture_candidate",
+          "hitCount": 1,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 71,
+          "wordCount": 5390,
+          "pages": 8,
+          "themes": [
+            {
+              "label": "Тема/лекція 8: РОЗСЛІДУВАННЯ ТА ОБЛІК НЕЩАСНИХ ВИПАДКІВ НЕВИРОБНИЧОГО ХАРАКТЕРУ",
+              "startPage": 1,
+              "endPage": 8,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "10_Розслідування аварій, аварійних ситуацій, інцидентів, нещасних випадків, професійних захворювань і невідповідностей на виробництві/ПОРЯДОК 433 ЗТ.docx",
+          "fileName": "ПОРЯДОК 433 ЗТ.docx",
+          "subjectNum": 10,
+          "subjectId": "10_rozsliduvannia-avarii-avariinykh-sytuatsii-intsyde",
+          "subjectTitle": "Розслідування аварій, аварійних ситуацій, інцидентів, нещасних випадків, професійних захворювань і невідповідностей на виробництві",
+          "kind": "lecture_candidate",
+          "hitCount": 1,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 71,
+          "wordCount": 2702,
+          "pages": 4,
+          "themes": [
+            {
+              "label": "Весь файл (тема не детектована)",
+              "startPage": 1,
+              "endPage": 4,
+              "volume": null
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "10_Розслідування аварій, аварійних ситуацій, інцидентів, нещасних випадків, професійних захворювань і невідповідностей на виробництві/Приклад виконання.docx",
+          "fileName": "Приклад виконання.docx",
+          "subjectNum": 10,
+          "subjectId": "10_rozsliduvannia-avarii-avariinykh-sytuatsii-intsyde",
+          "subjectTitle": "Розслідування аварій, аварійних ситуацій, інцидентів, нещасних випадків, професійних захворювань і невідповідностей на виробництві",
+          "kind": "lecture_candidate",
+          "hitCount": 1,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 71,
+          "wordCount": 383,
+          "pages": 1,
+          "themes": [
+            {
+              "label": "Весь файл (тема не детектована)",
+              "startPage": 1,
+              "endPage": 1,
+              "volume": null
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "13_Безпека праці та виробничих процесів/Про затвердження Типового положення про порядок проведення… - Наказ № 15 від 26.01.2005 - d166273-20241025.pdf",
+          "fileName": "Про затвердження Типового положення про порядок проведення… - Наказ № 15 від 26.01.2005 - d166273-20241025.pdf",
+          "subjectNum": 13,
+          "subjectId": "13_bezpeka-pratsi-ta-vyrobnychykh-protsesiv",
+          "subjectTitle": "Безпека праці та виробничих процесів",
+          "kind": "npa_or_standard",
+          "hitCount": 22,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 62,
+          "wordCount": 9726,
+          "pages": 35,
+          "themes": [
+            {
+              "label": "Тема/лекція 1: Законодавство України про охорону праці. Основні положення Закону України",
+              "startPage": 22,
+              "endPage": 23,
+              "volume": "low"
+            },
+            {
+              "label": "Тема/лекція 2: ОРГАНІЗАЦІЯ РОБОТИ З ОХОРОНИ ПРАЦІ",
+              "startPage": 24,
+              "endPage": 24,
+              "volume": "low"
+            },
+            {
+              "label": "Тема/лекція 3: ВИБУХОНЕБЕЗПЕКА ВИРОБНИЦТВ І ВИБУХОЗАХИСТ",
+              "startPage": 25,
+              "endPage": 26,
+              "volume": "low"
+            },
+            {
+              "label": "Тема/лекція 4: ПОЖЕЖНА БЕЗПЕКА",
+              "startPage": 27,
+              "endPage": 27,
+              "volume": "low"
+            },
+            {
+              "label": "Тема/лекція 5: ЕЛЕКТРОБЕЗПЕКА",
+              "startPage": 28,
+              "endPage": 28,
+              "volume": "low"
+            },
+            {
+              "label": "Тема/лекція 6: ГІГІЄНА ПРАЦІ. МЕДИЧНІ ОГЛЯДИ. ПРОФІЛАКТИКА ПРОФЕСІЙНИХ",
+              "startPage": 29,
+              "endPage": 29,
+              "volume": "low"
+            },
+            {
+              "label": "Тема/лекція 8: ПСИХОСОЦІАЛЬНА ПІДТРИМКА ТА ПЕРША",
+              "startPage": 30,
+              "endPage": 30,
+              "volume": "low"
+            },
+            {
+              "label": "Тема/лекція 9: УПРАВЛІННЯ РОБОТАМИ З ПРОФІЛАКТИКИ ТА ЛІКВІДАЦІЇ НАСЛІДКІВ",
+              "startPage": 31,
+              "endPage": 35,
+              "volume": "medium"
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        },
+        {
+          "path": "13_Безпека праці та виробничих процесів/Кодекс законів про працю України - Кодекс України № 322-VIII від 10.12.1971 - d23605-20250101.pdf",
+          "fileName": "Кодекс законів про працю України - Кодекс України № 322-VIII від 10.12.1971 - d23605-20250101.pdf",
+          "subjectNum": 13,
+          "subjectId": "13_bezpeka-pratsi-ta-vyrobnychykh-protsesiv",
+          "subjectTitle": "Безпека праці та виробничих процесів",
+          "kind": "npa_or_standard",
+          "hitCount": 1,
+          "anchorId": "navchannia_op",
+          "anchorLabel": "Навчання / перевірка знань з ОП",
+          "score": 41,
+          "wordCount": 48030,
+          "pages": 137,
+          "themes": [
+            {
+              "label": "Весь файл (тема не детектована)",
+              "startPage": 1,
+              "endPage": 137,
+              "volume": null
+            }
+          ],
+          "anchors": [
+            "navchannia_op"
+          ]
+        }
+      ],
+      "questionHint": "Що потрібно знати / зробити щодо: Навчання та перевірка знань посадових осіб з питань охорони праці?"
+    },
+    {
+      "code": "1.6",
+      "title": "Стажування (дублювання) і допуск до самостійної роботи",
+      "candidateCount": 13,
+      "primary": [
+        {
+          "path": "12_Ведення документації та навчання з охорони праці/Ведення документації та навчання з охорони праці лекція 5.pptx",
+          "fileName": "Ведення документації та навчання з охорони праці лекція 5.pptx",
+          "subjectNum": 12,
+          "subjectId": "12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr",
+          "subjectTitle": "Ведення документації та навчання з охорони праці",
+          "kind": "lecture",
+          "hitCount": 11,
+          "anchorId": "stazhuvannia",
+          "anchorLabel": "Стажування / дублювання",
+          "score": 111,
+          "wordCount": 3884,
+          "pages": 50,
+          "themes": [
+            {
+              "label": "Тема/лекція 5: Навчання відповідальних осіб та робітників",
+              "startPage": 1,
+              "endPage": 50,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "stazhuvannia"
+          ]
+        },
+        {
+          "path": "12_Ведення документації та навчання з охорони праці/Ведення документації та навчання з охорони праці лекція 6.pptx",
+          "fileName": "Ведення документації та навчання з охорони праці лекція 6.pptx",
+          "subjectNum": 12,
+          "subjectId": "12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr",
+          "subjectTitle": "Ведення документації та навчання з охорони праці",
+          "kind": "lecture",
+          "hitCount": 2,
+          "anchorId": "stazhuvannia",
+          "anchorLabel": "Стажування / дублювання",
+          "score": 102,
+          "wordCount": 1960,
+          "pages": 32,
+          "themes": [
+            {
+              "label": "Тема/лекція 6: Інструктажі",
+              "startPage": 1,
+              "endPage": 32,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "stazhuvannia"
+          ]
+        },
+        {
+          "path": "3_Захист життя і здоров'я в надзвичайних ситуаціях/Конспект лекції 5.pdf",
+          "fileName": "Конспект лекції 5.pdf",
+          "subjectNum": 3,
+          "subjectId": "03_zakhyst-zhyttia-i-zdorovia-v-nadzvychainykh-sytuat",
+          "subjectTitle": "Захист життя і здоров'я в надзвичайних ситуаціях",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "stazhuvannia",
+          "anchorLabel": "Стажування / дублювання",
+          "score": 101,
+          "wordCount": 3899,
+          "pages": 20,
+          "themes": [
+            {
+              "label": "Тема/лекція 5: ЛЕКЦІЯ 5",
+              "startPage": 1,
+              "endPage": 20,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "stazhuvannia"
+          ]
+        },
+        {
+          "path": "11_Виробниче середовище та професійні захворювання/ЛЕКЦІЯ 5       ЗАГАЛЬНІ ПИТАННЯ ПРОФЕСІЙНОЇ ПАТОЛОГІЇ.docx",
+          "fileName": "ЛЕКЦІЯ 5       ЗАГАЛЬНІ ПИТАННЯ ПРОФЕСІЙНОЇ ПАТОЛОГІЇ.docx",
+          "subjectNum": 11,
+          "subjectId": "11_vyrobnyche-seredovyshche-ta-profesiini-zakhvoriuva",
+          "subjectTitle": "Виробниче середовище та професійні захворювання",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "stazhuvannia",
+          "anchorLabel": "Стажування / дублювання",
+          "score": 101,
+          "wordCount": 6000,
+          "pages": 5,
+          "themes": [
+            {
+              "label": "Тема/лекція 5: ЗАГАЛЬНІ ПИТАННЯ ПРОФЕСІЙНОЇ ПАТОЛОГІЇ:КЛАСИФІКАЦІЯ ТА СТРУКТУРА ПРОФЕСІЙНОЇ ЗАХВОРЮВАНОСТІ В УКРАЇНІ",
+              "startPage": 1,
+              "endPage": 5,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "stazhuvannia"
+          ]
+        },
+        {
+          "path": "9_Безпека праці та виробничих процесів/Лекція №2.docx",
+          "fileName": "Лекція №2.docx",
+          "subjectNum": 9,
+          "subjectId": "09_bezpeka-pratsi-ta-vyrobnychykh-protsesiv",
+          "subjectTitle": "Безпека праці та виробничих процесів",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "stazhuvannia",
+          "anchorLabel": "Стажування / дублювання",
+          "score": 101,
+          "wordCount": 7206,
+          "pages": 8,
+          "themes": [
+            {
+              "label": "Весь файл (тема не детектована)",
+              "startPage": 1,
+              "endPage": 8,
+              "volume": null
+            }
+          ],
+          "anchors": [
+            "stazhuvannia"
+          ]
+        },
+        {
+          "path": "9_Безпека праці та виробничих процесів/Лекція №3.docx",
+          "fileName": "Лекція №3.docx",
+          "subjectNum": 9,
+          "subjectId": "09_bezpeka-pratsi-ta-vyrobnychykh-protsesiv",
+          "subjectTitle": "Безпека праці та виробничих процесів",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "stazhuvannia",
+          "anchorLabel": "Стажування / дублювання",
+          "score": 101,
+          "wordCount": 7206,
+          "pages": 8,
+          "themes": [
+            {
+              "label": "Весь файл (тема не детектована)",
+              "startPage": 1,
+              "endPage": 8,
+              "volume": null
+            }
+          ],
+          "anchors": [
+            "stazhuvannia"
+          ]
+        },
+        {
+          "path": "4_Правове регулювання трудових відносин, безпеки праці та соціального забезпечення/Презентація Т12.pdf",
+          "fileName": "Презентація Т12.pdf",
+          "subjectNum": 4,
+          "subjectId": "04_pravove-rehuliuvannia-trudovykh-vidnosyn-bezpeky-p",
+          "subjectTitle": "Правове регулювання трудових відносин, безпеки праці та соціального забезпечення",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "stazhuvannia",
+          "anchorLabel": "Стажування / дублювання",
+          "score": 101,
+          "wordCount": 4299,
+          "pages": 33,
+          "themes": [
+            {
+              "label": "Тема/лекція 12: Нагляд і контроль за дотриманням",
+              "startPage": 1,
+              "endPage": 33,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "stazhuvannia"
+          ]
+        },
+        {
+          "path": "19_Ризик-орієнтований підхід до безпеки праці/Ризик лекція 9_1.pptx",
+          "fileName": "Ризик лекція 9_1.pptx",
+          "subjectNum": 19,
+          "subjectId": "19_ryzyk-oriientovanyi-pidkhid-do-bezpeky-pratsi",
+          "subjectTitle": "Ризик-орієнтований підхід до безпеки праці",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "stazhuvannia",
+          "anchorLabel": "Стажування / дублювання",
+          "score": 101,
+          "wordCount": 5346,
+          "pages": 62,
+          "themes": [
+            {
+              "label": "Тема/лекція 9: Перспективні напрямки впровадження ризик-менеджменту",
+              "startPage": 1,
+              "endPage": 62,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "stazhuvannia"
+          ]
+        },
+        {
+          "path": "10_Розслідування аварій, аварійних ситуацій, інцидентів, нещасних випадків, професійних захворювань і невідповідностей на виробництві/Normat.docx",
+          "fileName": "Normat.docx",
+          "subjectNum": 10,
+          "subjectId": "10_rozsliduvannia-avarii-avariinykh-sytuatsii-intsyde",
+          "subjectTitle": "Розслідування аварій, аварійних ситуацій, інцидентів, нещасних випадків, професійних захворювань і невідповідностей на виробництві",
+          "kind": "lecture_candidate",
+          "hitCount": 1,
+          "anchorId": "stazhuvannia",
+          "anchorLabel": "Стажування / дублювання",
+          "score": 71,
+          "wordCount": 3652,
+          "pages": 4,
+          "themes": [
+            {
+              "label": "Весь файл (тема не детектована)",
+              "startPage": 1,
+              "endPage": 4,
+              "volume": null
+            }
+          ],
+          "anchors": [
+            "stazhuvannia"
+          ]
+        },
+        {
+          "path": "14_Безпека та техногенний ризик в надзвичайних ситуаціях/БтаТРвНС_Т8_Л16.pdf",
+          "fileName": "БтаТРвНС_Т8_Л16.pdf",
+          "subjectNum": 14,
+          "subjectId": "14_bezpeka-ta-tekhnohennyi-ryzyk-v-nadzvychainykh-syt",
+          "subjectTitle": "Безпека та техногенний ризик в надзвичайних ситуаціях",
+          "kind": "lecture_candidate",
+          "hitCount": 1,
+          "anchorId": "stazhuvannia",
+          "anchorLabel": "Стажування / дублювання",
+          "score": 71,
+          "wordCount": 7472,
+          "pages": 58,
+          "themes": [
+            {
+              "label": "Тема/лекція 8: ОРГАНІЗАЦІЯ ЗАХИСТУ",
+              "startPage": 1,
+              "endPage": 58,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "stazhuvannia"
+          ]
+        },
+        {
+          "path": "11_Виробниче середовище та професійні захворювання/КОСТЮК ПРОФЕСІЙНІ ЗАХВОРЮВАННЯ.docx",
+          "fileName": "КОСТЮК ПРОФЕСІЙНІ ЗАХВОРЮВАННЯ.docx",
+          "subjectNum": 11,
+          "subjectId": "11_vyrobnyche-seredovyshche-ta-profesiini-zakhvoriuva",
+          "subjectTitle": "Виробниче середовище та професійні захворювання",
+          "kind": "lecture_candidate",
+          "hitCount": 1,
+          "anchorId": "stazhuvannia",
+          "anchorLabel": "Стажування / дублювання",
+          "score": 71,
+          "wordCount": 129354,
+          "pages": 115,
+          "themes": [
+            {
+              "label": "Весь файл (тема не детектована)",
+              "startPage": 1,
+              "endPage": 115,
+              "volume": null
+            }
+          ],
+          "anchors": [
+            "stazhuvannia"
+          ]
+        },
+        {
+          "path": "13_Безпека праці та виробничих процесів/Про затвердження Типового положення про порядок проведення… - Наказ № 15 від 26.01.2005 - d166273-20241025.pdf",
+          "fileName": "Про затвердження Типового положення про порядок проведення… - Наказ № 15 від 26.01.2005 - d166273-20241025.pdf",
+          "subjectNum": 13,
+          "subjectId": "13_bezpeka-pratsi-ta-vyrobnychykh-protsesiv",
+          "subjectTitle": "Безпека праці та виробничих процесів",
+          "kind": "npa_or_standard",
+          "hitCount": 4,
+          "anchorId": "stazhuvannia",
+          "anchorLabel": "Стажування / дублювання",
+          "score": 44,
+          "wordCount": 9726,
+          "pages": 35,
+          "themes": [
+            {
+              "label": "Тема/лекція 1: Законодавство України про охорону праці. Основні положення Закону України",
+              "startPage": 22,
+              "endPage": 23,
+              "volume": "low"
+            },
+            {
+              "label": "Тема/лекція 2: ОРГАНІЗАЦІЯ РОБОТИ З ОХОРОНИ ПРАЦІ",
+              "startPage": 24,
+              "endPage": 24,
+              "volume": "low"
+            },
+            {
+              "label": "Тема/лекція 3: ВИБУХОНЕБЕЗПЕКА ВИРОБНИЦТВ І ВИБУХОЗАХИСТ",
+              "startPage": 25,
+              "endPage": 26,
+              "volume": "low"
+            },
+            {
+              "label": "Тема/лекція 4: ПОЖЕЖНА БЕЗПЕКА",
+              "startPage": 27,
+              "endPage": 27,
+              "volume": "low"
+            },
+            {
+              "label": "Тема/лекція 5: ЕЛЕКТРОБЕЗПЕКА",
+              "startPage": 28,
+              "endPage": 28,
+              "volume": "low"
+            },
+            {
+              "label": "Тема/лекція 6: ГІГІЄНА ПРАЦІ. МЕДИЧНІ ОГЛЯДИ. ПРОФІЛАКТИКА ПРОФЕСІЙНИХ",
+              "startPage": 29,
+              "endPage": 29,
+              "volume": "low"
+            },
+            {
+              "label": "Тема/лекція 8: ПСИХОСОЦІАЛЬНА ПІДТРИМКА ТА ПЕРША",
+              "startPage": 30,
+              "endPage": 30,
+              "volume": "low"
+            },
+            {
+              "label": "Тема/лекція 9: УПРАВЛІННЯ РОБОТАМИ З ПРОФІЛАКТИКИ ТА ЛІКВІДАЦІЇ НАСЛІДКІВ",
+              "startPage": 31,
+              "endPage": 35,
+              "volume": "medium"
+            }
+          ],
+          "anchors": [
+            "stazhuvannia"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "path": "13_Безпека праці та виробничих процесів/Кодекс законів про працю України - Кодекс України № 322-VIII від 10.12.1971 - d23605-20250101.pdf",
+          "fileName": "Кодекс законів про працю України - Кодекс України № 322-VIII від 10.12.1971 - d23605-20250101.pdf",
+          "subjectNum": 13,
+          "subjectId": "13_bezpeka-pratsi-ta-vyrobnychykh-protsesiv",
+          "subjectTitle": "Безпека праці та виробничих процесів",
+          "kind": "npa_or_standard",
+          "hitCount": 1,
+          "anchorId": "stazhuvannia",
+          "anchorLabel": "Стажування / дублювання",
+          "score": 41,
+          "wordCount": 48030,
+          "pages": 137,
+          "themes": [
+            {
+              "label": "Весь файл (тема не детектована)",
+              "startPage": 1,
+              "endPage": 137,
+              "volume": null
+            }
+          ],
+          "anchors": [
+            "stazhuvannia"
+          ]
+        }
+      ],
+      "questionHint": "Що потрібно знати / зробити щодо: Стажування (дублювання) і допуск до самостійної роботи?"
+    },
+    {
+      "code": "1.7",
+      "title": "Оформлення та застосування наряду-допуску",
+      "candidateCount": 3,
+      "primary": [
+        {
+          "path": "12_Ведення документації та навчання з охорони праці/Ведення документації та навчання з охорони праці лекція13.pptx",
+          "fileName": "Ведення документації та навчання з охорони праці лекція13.pptx",
+          "subjectNum": 12,
+          "subjectId": "12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr",
+          "subjectTitle": "Ведення документації та навчання з охорони праці",
+          "kind": "lecture",
+          "hitCount": 47,
+          "anchorId": "nariad",
+          "anchorLabel": "Наряд-допуск",
+          "score": 140,
+          "wordCount": 5059,
+          "pages": 65,
+          "themes": [
+            {
+              "label": "Тема/лекція 12: Особливості оформлення нарядів-допусків",
+              "startPage": 1,
+              "endPage": 65,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "nariad"
+          ]
+        },
+        {
+          "path": "12_Ведення документації та навчання з охорони праці/Ведення документації та навчання з охорони праці лекція12.pptx",
+          "fileName": "Ведення документації та навчання з охорони праці лекція12.pptx",
+          "subjectNum": 12,
+          "subjectId": "12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr",
+          "subjectTitle": "Ведення документації та навчання з охорони праці",
+          "kind": "lecture",
+          "hitCount": 45,
+          "anchorId": "nariad",
+          "anchorLabel": "Наряд-допуск",
+          "score": 140,
+          "wordCount": 4897,
+          "pages": 63,
+          "themes": [
+            {
+              "label": "Тема/лекція 12: Особливості оформлення нарядів-допусків",
+              "startPage": 1,
+              "endPage": 63,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "nariad"
+          ]
+        },
+        {
+          "path": "13_Безпека праці та виробничих процесів/Про затвердження Типового положення про порядок проведення… - Наказ № 15 від 26.01.2005 - d166273-20241025.pdf",
+          "fileName": "Про затвердження Типового положення про порядок проведення… - Наказ № 15 від 26.01.2005 - d166273-20241025.pdf",
+          "subjectNum": 13,
+          "subjectId": "13_bezpeka-pratsi-ta-vyrobnychykh-protsesiv",
+          "subjectTitle": "Безпека праці та виробничих процесів",
+          "kind": "npa_or_standard",
+          "hitCount": 2,
+          "anchorId": "nariad",
+          "anchorLabel": "Наряд-допуск",
+          "score": 42,
+          "wordCount": 9726,
+          "pages": 35,
+          "themes": [
+            {
+              "label": "Тема/лекція 1: Законодавство України про охорону праці. Основні положення Закону України",
+              "startPage": 22,
+              "endPage": 23,
+              "volume": "low"
+            },
+            {
+              "label": "Тема/лекція 2: ОРГАНІЗАЦІЯ РОБОТИ З ОХОРОНИ ПРАЦІ",
+              "startPage": 24,
+              "endPage": 24,
+              "volume": "low"
+            },
+            {
+              "label": "Тема/лекція 3: ВИБУХОНЕБЕЗПЕКА ВИРОБНИЦТВ І ВИБУХОЗАХИСТ",
+              "startPage": 25,
+              "endPage": 26,
+              "volume": "low"
+            },
+            {
+              "label": "Тема/лекція 4: ПОЖЕЖНА БЕЗПЕКА",
+              "startPage": 27,
+              "endPage": 27,
+              "volume": "low"
+            },
+            {
+              "label": "Тема/лекція 5: ЕЛЕКТРОБЕЗПЕКА",
+              "startPage": 28,
+              "endPage": 28,
+              "volume": "low"
+            },
+            {
+              "label": "Тема/лекція 6: ГІГІЄНА ПРАЦІ. МЕДИЧНІ ОГЛЯДИ. ПРОФІЛАКТИКА ПРОФЕСІЙНИХ",
+              "startPage": 29,
+              "endPage": 29,
+              "volume": "low"
+            },
+            {
+              "label": "Тема/лекція 8: ПСИХОСОЦІАЛЬНА ПІДТРИМКА ТА ПЕРША",
+              "startPage": 30,
+              "endPage": 30,
+              "volume": "low"
+            },
+            {
+              "label": "Тема/лекція 9: УПРАВЛІННЯ РОБОТАМИ З ПРОФІЛАКТИКИ ТА ЛІКВІДАЦІЇ НАСЛІДКІВ",
+              "startPage": 31,
+              "endPage": 35,
+              "volume": "medium"
+            }
+          ],
+          "anchors": [
+            "nariad"
+          ]
+        }
+      ],
+      "secondary": [],
+      "questionHint": "Що потрібно знати / зробити щодо: Оформлення та застосування наряду-допуску?"
+    },
+    {
+      "code": "1.8",
+      "title": "Підготовчі обов’язки роботодавця перед допуском працівника",
+      "candidateCount": 14,
+      "primary": [
+        {
+          "path": "4_Правове регулювання трудових відносин, безпеки праці та соціального забезпечення/Презентація Т 2.pdf",
+          "fileName": "Презентація Т 2.pdf",
+          "subjectNum": 4,
+          "subjectId": "04_pravove-rehuliuvannia-trudovykh-vidnosyn-bezpeky-p",
+          "subjectTitle": "Правове регулювання трудових відносин, безпеки праці та соціального забезпечення",
+          "kind": "lecture",
+          "hitCount": 2,
+          "anchorId": "oboviazky_robotodavtsia",
+          "anchorLabel": "Обовʼязки роботодавця",
+          "score": 102,
+          "wordCount": 3404,
+          "pages": 33,
+          "themes": [
+            {
+              "label": "Весь файл (тема не детектована)",
+              "startPage": 1,
+              "endPage": 33,
+              "volume": null
+            }
+          ],
+          "anchors": [
+            "oboviazky_robotodavtsia"
+          ]
+        },
+        {
+          "path": "12_Ведення документації та навчання з охорони праці/Ведення документації та навчання з охорони праці лекція 1.pptx",
+          "fileName": "Ведення документації та навчання з охорони праці лекція 1.pptx",
+          "subjectNum": 12,
+          "subjectId": "12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr",
+          "subjectTitle": "Ведення документації та навчання з охорони праці",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "oboviazky_robotodavtsia",
+          "anchorLabel": "Обовʼязки роботодавця",
+          "score": 101,
+          "wordCount": 2645,
+          "pages": 48,
+          "themes": [
+            {
+              "label": "Тема/лекція 1: Нормативно-правова база регулювання ведення документації та навчання з охорони праці",
+              "startPage": 1,
+              "endPage": 48,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "oboviazky_robotodavtsia"
+          ]
+        },
+        {
+          "path": "12_Ведення документації та навчання з охорони праці/Ведення документації та навчання з охорони праці лекція8.pptx",
+          "fileName": "Ведення документації та навчання з охорони праці лекція8.pptx",
+          "subjectNum": 12,
+          "subjectId": "12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr",
+          "subjectTitle": "Ведення документації та навчання з охорони праці",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "oboviazky_robotodavtsia",
+          "anchorLabel": "Обовʼязки роботодавця",
+          "score": 101,
+          "wordCount": 2584,
+          "pages": 36,
+          "themes": [
+            {
+              "label": "Тема/лекція 8: Матеріали медоглядів",
+              "startPage": 1,
+              "endPage": 36,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "oboviazky_robotodavtsia"
+          ]
+        },
+        {
+          "path": "6_Виробнича санітарія і гігієна праці/Конспект лекції 13.pdf",
+          "fileName": "Конспект лекції 13.pdf",
+          "subjectNum": 6,
+          "subjectId": "06_vyrobnycha-sanitariia-i-hihiiena-pratsi",
+          "subjectTitle": "Виробнича санітарія і гігієна праці",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "oboviazky_robotodavtsia",
+          "anchorLabel": "Обовʼязки роботодавця",
+          "score": 101,
+          "wordCount": 5449,
+          "pages": 27,
+          "themes": [
+            {
+              "label": "Тема/лекція 13: ЛЕКЦІЯ 13",
+              "startPage": 1,
+              "endPage": 17,
+              "volume": "high"
+            },
+            {
+              "label": "Тема/лекція 1: Гігієнічна оцінка умов праці",
+              "startPage": 18,
+              "endPage": 18,
+              "volume": "low"
+            },
+            {
+              "label": "Тема/лекція 2: Оцінка технічного та організаційного рівня робочого",
+              "startPage": 19,
+              "endPage": 19,
+              "volume": "low"
+            },
+            {
+              "label": "Тема/лекція 3: Атестація робочих місць",
+              "startPage": 20,
+              "endPage": 23,
+              "volume": "low"
+            },
+            {
+              "label": "Тема/лекція 4: Про заходи з поліпшення умов праці",
+              "startPage": 24,
+              "endPage": 27,
+              "volume": "low"
+            }
+          ],
+          "anchors": [
+            "oboviazky_robotodavtsia"
+          ]
+        },
+        {
+          "path": "6_Виробнича санітарія і гігієна праці/Конспект лекції 14.pdf",
+          "fileName": "Конспект лекції 14.pdf",
+          "subjectNum": 6,
+          "subjectId": "06_vyrobnycha-sanitariia-i-hihiiena-pratsi",
+          "subjectTitle": "Виробнича санітарія і гігієна праці",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "oboviazky_robotodavtsia",
+          "anchorLabel": "Обовʼязки роботодавця",
+          "score": 101,
+          "wordCount": 5587,
+          "pages": 28,
+          "themes": [
+            {
+              "label": "Тема/лекція 14: ЛЕКЦІЯ 14",
+              "startPage": 1,
+              "endPage": 28,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "oboviazky_robotodavtsia"
+          ]
+        },
+        {
+          "path": "6_Виробнича санітарія і гігієна праці/Конспект лекції 3.pdf",
+          "fileName": "Конспект лекції 3.pdf",
+          "subjectNum": 6,
+          "subjectId": "06_vyrobnycha-sanitariia-i-hihiiena-pratsi",
+          "subjectTitle": "Виробнича санітарія і гігієна праці",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "oboviazky_robotodavtsia",
+          "anchorLabel": "Обовʼязки роботодавця",
+          "score": 101,
+          "wordCount": 5764,
+          "pages": 28,
+          "themes": [
+            {
+              "label": "Тема/лекція 3: ЛЕКЦІЯ 3",
+              "startPage": 1,
+              "endPage": 28,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "oboviazky_robotodavtsia"
+          ]
+        },
+        {
+          "path": "6_Виробнича санітарія і гігієна праці/Конспект лекції 4.pdf",
+          "fileName": "Конспект лекції 4.pdf",
+          "subjectNum": 6,
+          "subjectId": "06_vyrobnycha-sanitariia-i-hihiiena-pratsi",
+          "subjectTitle": "Виробнича санітарія і гігієна праці",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "oboviazky_robotodavtsia",
+          "anchorLabel": "Обовʼязки роботодавця",
+          "score": 101,
+          "wordCount": 4512,
+          "pages": 25,
+          "themes": [
+            {
+              "label": "Тема/лекція 4: ЛЕКЦІЯ 4",
+              "startPage": 1,
+              "endPage": 25,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "oboviazky_robotodavtsia"
+          ]
+        },
+        {
+          "path": "9_Безпека праці та виробничих процесів/Лекція №1 ТРАВМАТИЗМ ТА ПРОФЕСІЙНІ ЗАХВОРЮВАННЯ.docx",
+          "fileName": "Лекція №1 ТРАВМАТИЗМ ТА ПРОФЕСІЙНІ ЗАХВОРЮВАННЯ.docx",
+          "subjectNum": 9,
+          "subjectId": "09_bezpeka-pratsi-ta-vyrobnychykh-protsesiv",
+          "subjectTitle": "Безпека праці та виробничих процесів",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "oboviazky_robotodavtsia",
+          "anchorLabel": "Обовʼязки роботодавця",
+          "score": 101,
+          "wordCount": 9676,
+          "pages": 7,
+          "themes": [
+            {
+              "label": "Весь файл (тема не детектована)",
+              "startPage": 1,
+              "endPage": 7,
+              "volume": null
+            }
+          ],
+          "anchors": [
+            "oboviazky_robotodavtsia"
+          ]
+        },
+        {
+          "path": "19_Ризик-орієнтований підхід до безпеки праці/Ризик лекція 2.pptx",
+          "fileName": "Ризик лекція 2.pptx",
+          "subjectNum": 19,
+          "subjectId": "19_ryzyk-oriientovanyi-pidkhid-do-bezpeky-pratsi",
+          "subjectTitle": "Ризик-орієнтований підхід до безпеки праці",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "oboviazky_robotodavtsia",
+          "anchorLabel": "Обовʼязки роботодавця",
+          "score": 101,
+          "wordCount": 3852,
+          "pages": 52,
+          "themes": [
+            {
+              "label": "Тема/лекція 2: Суть та види ризиків",
+              "startPage": 1,
+              "endPage": 52,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "oboviazky_robotodavtsia"
+          ]
+        },
+        {
+          "path": "10_Розслідування аварій, аварійних ситуацій, інцидентів, нещасних випадків, професійних захворювань і невідповідностей на виробництві/Normat.docx",
+          "fileName": "Normat.docx",
+          "subjectNum": 10,
+          "subjectId": "10_rozsliduvannia-avarii-avariinykh-sytuatsii-intsyde",
+          "subjectTitle": "Розслідування аварій, аварійних ситуацій, інцидентів, нещасних випадків, професійних захворювань і невідповідностей на виробництві",
+          "kind": "lecture_candidate",
+          "hitCount": 2,
+          "anchorId": "oboviazky_robotodavtsia",
+          "anchorLabel": "Обовʼязки роботодавця",
+          "score": 72,
+          "wordCount": 3652,
+          "pages": 4,
+          "themes": [
+            {
+              "label": "Весь файл (тема не детектована)",
+              "startPage": 1,
+              "endPage": 4,
+              "volume": null
+            }
+          ],
+          "anchors": [
+            "oboviazky_robotodavtsia"
+          ]
+        },
+        {
+          "path": "12_Ведення документації та навчання з охорони праці/СУОП.docx",
+          "fileName": "СУОП.docx",
+          "subjectNum": 12,
+          "subjectId": "12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr",
+          "subjectTitle": "Ведення документації та навчання з охорони праці",
+          "kind": "lecture_candidate",
+          "hitCount": 2,
+          "anchorId": "oboviazky_robotodavtsia",
+          "anchorLabel": "Обовʼязки роботодавця",
+          "score": 72,
+          "wordCount": 9479,
+          "pages": 10,
+          "themes": [
+            {
+              "label": "Весь файл (тема не детектована)",
+              "startPage": 1,
+              "endPage": 10,
+              "volume": null
+            }
+          ],
+          "anchors": [
+            "oboviazky_robotodavtsia"
+          ]
+        },
+        {
+          "path": "14_Безпека та техногенний ризик в надзвичайних ситуаціях/Т1_Л1.pdf",
+          "fileName": "Т1_Л1.pdf",
+          "subjectNum": 14,
+          "subjectId": "14_bezpeka-ta-tekhnohennyi-ryzyk-v-nadzvychainykh-syt",
+          "subjectTitle": "Безпека та техногенний ризик в надзвичайних ситуаціях",
+          "kind": "lecture_candidate",
+          "hitCount": 1,
+          "anchorId": "oboviazky_robotodavtsia",
+          "anchorLabel": "Обовʼязки роботодавця",
+          "score": 71,
+          "wordCount": 3283,
+          "pages": 25,
+          "themes": [
+            {
+              "label": "Тема/лекція 1: НОРМАТИВНО-ПРАВОВЕ",
+              "startPage": 1,
+              "endPage": 25,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "oboviazky_robotodavtsia"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "path": "13_Безпека праці та виробничих процесів/Кодекс законів про працю України - Кодекс України № 322-VIII від 10.12.1971 - d23605-20250101.pdf",
+          "fileName": "Кодекс законів про працю України - Кодекс України № 322-VIII від 10.12.1971 - d23605-20250101.pdf",
+          "subjectNum": 13,
+          "subjectId": "13_bezpeka-pratsi-ta-vyrobnychykh-protsesiv",
+          "subjectTitle": "Безпека праці та виробничих процесів",
+          "kind": "npa_or_standard",
+          "hitCount": 4,
+          "anchorId": "oboviazky_robotodavtsia",
+          "anchorLabel": "Обовʼязки роботодавця",
+          "score": 44,
+          "wordCount": 48030,
+          "pages": 137,
+          "themes": [
+            {
+              "label": "Весь файл (тема не детектована)",
+              "startPage": 1,
+              "endPage": 137,
+              "volume": null
+            }
+          ],
+          "anchors": [
+            "oboviazky_robotodavtsia"
+          ]
+        },
+        {
+          "path": "13_Безпека праці та виробничих процесів/Про затвердження Типового положення про порядок проведення… - Наказ № 15 від 26.01.2005 - d166273-20241025.pdf",
+          "fileName": "Про затвердження Типового положення про порядок проведення… - Наказ № 15 від 26.01.2005 - d166273-20241025.pdf",
+          "subjectNum": 13,
+          "subjectId": "13_bezpeka-pratsi-ta-vyrobnychykh-protsesiv",
+          "subjectTitle": "Безпека праці та виробничих процесів",
+          "kind": "npa_or_standard",
+          "hitCount": 1,
+          "anchorId": "oboviazky_robotodavtsia",
+          "anchorLabel": "Обовʼязки роботодавця",
+          "score": 41,
+          "wordCount": 9726,
+          "pages": 35,
+          "themes": [
+            {
+              "label": "Тема/лекція 1: Законодавство України про охорону праці. Основні положення Закону України",
+              "startPage": 22,
+              "endPage": 23,
+              "volume": "low"
+            },
+            {
+              "label": "Тема/лекція 2: ОРГАНІЗАЦІЯ РОБОТИ З ОХОРОНИ ПРАЦІ",
+              "startPage": 24,
+              "endPage": 24,
+              "volume": "low"
+            },
+            {
+              "label": "Тема/лекція 3: ВИБУХОНЕБЕЗПЕКА ВИРОБНИЦТВ І ВИБУХОЗАХИСТ",
+              "startPage": 25,
+              "endPage": 26,
+              "volume": "low"
+            },
+            {
+              "label": "Тема/лекція 4: ПОЖЕЖНА БЕЗПЕКА",
+              "startPage": 27,
+              "endPage": 27,
+              "volume": "low"
+            },
+            {
+              "label": "Тема/лекція 5: ЕЛЕКТРОБЕЗПЕКА",
+              "startPage": 28,
+              "endPage": 28,
+              "volume": "low"
+            },
+            {
+              "label": "Тема/лекція 6: ГІГІЄНА ПРАЦІ. МЕДИЧНІ ОГЛЯДИ. ПРОФІЛАКТИКА ПРОФЕСІЙНИХ",
+              "startPage": 29,
+              "endPage": 29,
+              "volume": "low"
+            },
+            {
+              "label": "Тема/лекція 8: ПСИХОСОЦІАЛЬНА ПІДТРИМКА ТА ПЕРША",
+              "startPage": 30,
+              "endPage": 30,
+              "volume": "low"
+            },
+            {
+              "label": "Тема/лекція 9: УПРАВЛІННЯ РОБОТАМИ З ПРОФІЛАКТИКИ ТА ЛІКВІДАЦІЇ НАСЛІДКІВ",
+              "startPage": 31,
+              "endPage": 35,
+              "volume": "medium"
+            }
+          ],
+          "anchors": [
+            "oboviazky_robotodavtsia"
+          ]
+        }
+      ],
+      "questionHint": "Що потрібно знати / зробити щодо: Підготовчі обов’язки роботодавця перед допуском працівника?"
+    },
+    {
+      "code": "1.9",
+      "title": "Підготовчі обов’язки працівника перед початком роботи",
+      "candidateCount": 17,
+      "primary": [
+        {
+          "path": "12_Ведення документації та навчання з охорони праці/Ведення документації та навчання з охорони праці лекція 5.pptx",
+          "fileName": "Ведення документації та навчання з охорони праці лекція 5.pptx",
+          "subjectNum": 12,
+          "subjectId": "12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr",
+          "subjectTitle": "Ведення документації та навчання з охорони праці",
+          "kind": "lecture",
+          "hitCount": 3,
+          "anchorId": "oboviazky_pracivnyka",
+          "anchorLabel": "Обовʼязки працівника",
+          "score": 103,
+          "wordCount": 3884,
+          "pages": 50,
+          "themes": [
+            {
+              "label": "Тема/лекція 5: Навчання відповідальних осіб та робітників",
+              "startPage": 1,
+              "endPage": 50,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "oboviazky_pracivnyka"
+          ]
+        },
+        {
+          "path": "12_Ведення документації та навчання з охорони праці/Ведення документації та навчання з охорони праці лекція 3.pptx",
+          "fileName": "Ведення документації та навчання з охорони праці лекція 3.pptx",
+          "subjectNum": 12,
+          "subjectId": "12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr",
+          "subjectTitle": "Ведення документації та навчання з охорони праці",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "oboviazky_pracivnyka",
+          "anchorLabel": "Обовʼязки працівника",
+          "score": 101,
+          "wordCount": 2493,
+          "pages": 31,
+          "themes": [
+            {
+              "label": "Тема/лекція 3: Інструкції з охорони праці",
+              "startPage": 1,
+              "endPage": 31,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "oboviazky_pracivnyka"
+          ]
+        },
+        {
+          "path": "12_Ведення документації та навчання з охорони праці/Ведення документації та навчання з охорони праці лекція12.pptx",
+          "fileName": "Ведення документації та навчання з охорони праці лекція12.pptx",
+          "subjectNum": 12,
+          "subjectId": "12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr",
+          "subjectTitle": "Ведення документації та навчання з охорони праці",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "oboviazky_pracivnyka",
+          "anchorLabel": "Обовʼязки працівника",
+          "score": 101,
+          "wordCount": 4897,
+          "pages": 63,
+          "themes": [
+            {
+              "label": "Тема/лекція 12: Особливості оформлення нарядів-допусків",
+              "startPage": 1,
+              "endPage": 63,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "oboviazky_pracivnyka"
+          ]
+        },
+        {
+          "path": "12_Ведення документації та навчання з охорони праці/Ведення документації та навчання з охорони праці лекція13.pptx",
+          "fileName": "Ведення документації та навчання з охорони праці лекція13.pptx",
+          "subjectNum": 12,
+          "subjectId": "12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr",
+          "subjectTitle": "Ведення документації та навчання з охорони праці",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "oboviazky_pracivnyka",
+          "anchorLabel": "Обовʼязки працівника",
+          "score": 101,
+          "wordCount": 5059,
+          "pages": 65,
+          "themes": [
+            {
+              "label": "Тема/лекція 12: Особливості оформлення нарядів-допусків",
+              "startPage": 1,
+              "endPage": 65,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "oboviazky_pracivnyka"
+          ]
+        },
+        {
+          "path": "12_Ведення документації та навчання з охорони праці/Ведення документації та навчання з охорони праці лекція8.pptx",
+          "fileName": "Ведення документації та навчання з охорони праці лекція8.pptx",
+          "subjectNum": 12,
+          "subjectId": "12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr",
+          "subjectTitle": "Ведення документації та навчання з охорони праці",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "oboviazky_pracivnyka",
+          "anchorLabel": "Обовʼязки працівника",
+          "score": 101,
+          "wordCount": 2584,
+          "pages": 36,
+          "themes": [
+            {
+              "label": "Тема/лекція 8: Матеріали медоглядів",
+              "startPage": 1,
+              "endPage": 36,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "oboviazky_pracivnyka"
+          ]
+        },
+        {
+          "path": "6_Виробнича санітарія і гігієна праці/Конспект лекції 4.pdf",
+          "fileName": "Конспект лекції 4.pdf",
+          "subjectNum": 6,
+          "subjectId": "06_vyrobnycha-sanitariia-i-hihiiena-pratsi",
+          "subjectTitle": "Виробнича санітарія і гігієна праці",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "oboviazky_pracivnyka",
+          "anchorLabel": "Обовʼязки працівника",
+          "score": 101,
+          "wordCount": 4512,
+          "pages": 25,
+          "themes": [
+            {
+              "label": "Тема/лекція 4: ЛЕКЦІЯ 4",
+              "startPage": 1,
+              "endPage": 25,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "oboviazky_pracivnyka"
+          ]
+        },
+        {
+          "path": "5_Безпека об'єктів та територій/Конспект лекції 6.pdf",
+          "fileName": "Конспект лекції 6.pdf",
+          "subjectNum": 5,
+          "subjectId": "05_bezpeka-obiektiv-ta-terytorii",
+          "subjectTitle": "Безпека об'єктів та територій",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "oboviazky_pracivnyka",
+          "anchorLabel": "Обовʼязки працівника",
+          "score": 101,
+          "wordCount": 4305,
+          "pages": 22,
+          "themes": [
+            {
+              "label": "Тема/лекція 6: ЛЕКЦІЯ 6",
+              "startPage": 1,
+              "endPage": 22,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "oboviazky_pracivnyka"
+          ]
+        },
+        {
+          "path": "9_Безпека праці та виробничих процесів/Лекція №1 ТРАВМАТИЗМ ТА ПРОФЕСІЙНІ ЗАХВОРЮВАННЯ.docx",
+          "fileName": "Лекція №1 ТРАВМАТИЗМ ТА ПРОФЕСІЙНІ ЗАХВОРЮВАННЯ.docx",
+          "subjectNum": 9,
+          "subjectId": "09_bezpeka-pratsi-ta-vyrobnychykh-protsesiv",
+          "subjectTitle": "Безпека праці та виробничих процесів",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "oboviazky_pracivnyka",
+          "anchorLabel": "Обовʼязки працівника",
+          "score": 101,
+          "wordCount": 9676,
+          "pages": 7,
+          "themes": [
+            {
+              "label": "Весь файл (тема не детектована)",
+              "startPage": 1,
+              "endPage": 7,
+              "volume": null
+            }
+          ],
+          "anchors": [
+            "oboviazky_pracivnyka"
+          ]
+        },
+        {
+          "path": "4_Правове регулювання трудових відносин, безпеки праці та соціального забезпечення/Презентація Т 2.pdf",
+          "fileName": "Презентація Т 2.pdf",
+          "subjectNum": 4,
+          "subjectId": "04_pravove-rehuliuvannia-trudovykh-vidnosyn-bezpeky-p",
+          "subjectTitle": "Правове регулювання трудових відносин, безпеки праці та соціального забезпечення",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "oboviazky_pracivnyka",
+          "anchorLabel": "Обовʼязки працівника",
+          "score": 101,
+          "wordCount": 3404,
+          "pages": 33,
+          "themes": [
+            {
+              "label": "Весь файл (тема не детектована)",
+              "startPage": 1,
+              "endPage": 33,
+              "volume": null
+            }
+          ],
+          "anchors": [
+            "oboviazky_pracivnyka"
+          ]
+        },
+        {
+          "path": "19_Ризик-орієнтований підхід до безпеки праці/Ризик лекція 2.pptx",
+          "fileName": "Ризик лекція 2.pptx",
+          "subjectNum": 19,
+          "subjectId": "19_ryzyk-oriientovanyi-pidkhid-do-bezpeky-pratsi",
+          "subjectTitle": "Ризик-орієнтований підхід до безпеки праці",
+          "kind": "lecture",
+          "hitCount": 1,
+          "anchorId": "oboviazky_pracivnyka",
+          "anchorLabel": "Обовʼязки працівника",
+          "score": 101,
+          "wordCount": 3852,
+          "pages": 52,
+          "themes": [
+            {
+              "label": "Тема/лекція 2: Суть та види ризиків",
+              "startPage": 1,
+              "endPage": 52,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "oboviazky_pracivnyka"
+          ]
+        },
+        {
+          "path": "16_Цивільний захист та радіаційна безпека/ЦЗтаРБ Т1_Л2 (1.10).pptx",
+          "fileName": "ЦЗтаРБ Т1_Л2 (1.10).pptx",
+          "subjectNum": 16,
+          "subjectId": "16_tsyvilnyi-zakhyst-ta-radiatsiina-bezpeka",
+          "subjectTitle": "Цивільний захист та радіаційна безпека",
+          "kind": "lecture_candidate",
+          "hitCount": 2,
+          "anchorId": "oboviazky_pracivnyka",
+          "anchorLabel": "Обовʼязки працівника",
+          "score": 72,
+          "wordCount": 3504,
+          "pages": 40,
+          "themes": [
+            {
+              "label": "Тема/лекція 1: ПРАВОВЕ РЕГУЛЮВАННЯ ЦИВІЛЬНОГО ЗАХИСТУ УКРАЇНИ",
+              "startPage": 1,
+              "endPage": 40,
+              "volume": "high"
+            }
+          ],
+          "anchors": [
+            "oboviazky_pracivnyka"
+          ]
+        },
+        {
+          "path": "10_Розслідування аварій, аварійних ситуацій, інцидентів, нещасних випадків, професійних захворювань і невідповідностей на виробництві/1 kadmin.docx",
+          "fileName": "1 kadmin.docx",
+          "subjectNum": 10,
+          "subjectId": "10_rozsliduvannia-avarii-avariinykh-sytuatsii-intsyde",
+          "subjectTitle": "Розслідування аварій, аварійних ситуацій, інцидентів, нещасних випадків, професійних захворювань і невідповідностей на виробництві",
+          "kind": "lecture_candidate",
+          "hitCount": 1,
+          "anchorId": "oboviazky_pracivnyka",
+          "anchorLabel": "Обовʼязки працівника",
+          "score": 71,
+          "wordCount": 21517,
+          "pages": 22,
+          "themes": [
+            {
+              "label": "Весь файл (тема не детектована)",
+              "startPage": 1,
+              "endPage": 22,
+              "volume": null
+            }
+          ],
+          "anchors": [
+            "oboviazky_pracivnyka"
+          ]
+        }
+      ],
+      "secondary": [
+        {
+          "path": "6_Виробнича санітарія і гігієна праці/ПР/Рекомендації щодо оцінки напруженості праці.pdf",
+          "fileName": "Рекомендації щодо оцінки напруженості праці.pdf",
+          "subjectNum": 6,
+          "subjectId": "06_vyrobnycha-sanitariia-i-hihiiena-pratsi",
+          "subjectTitle": "Виробнича санітарія і гігієна праці",
+          "kind": "lecture_candidate",
+          "hitCount": 1,
+          "anchorId": "oboviazky_pracivnyka",
+          "anchorLabel": "Обовʼязки працівника",
+          "score": 71,
+          "wordCount": 7006,
+          "pages": 34,
+          "themes": [
+            {
+              "label": "Весь файл (тема не детектована)",
+              "startPage": 1,
+              "endPage": 34,
+              "volume": null
+            }
+          ],
+          "anchors": [
+            "oboviazky_pracivnyka"
+          ]
+        },
+        {
+          "path": "12_Ведення документації та навчання з охорони праці/СУОП.docx",
+          "fileName": "СУОП.docx",
+          "subjectNum": 12,
+          "subjectId": "12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr",
+          "subjectTitle": "Ведення документації та навчання з охорони праці",
+          "kind": "lecture_candidate",
+          "hitCount": 1,
+          "anchorId": "oboviazky_pracivnyka",
+          "anchorLabel": "Обовʼязки працівника",
+          "score": 71,
+          "wordCount": 9479,
+          "pages": 10,
+          "themes": [
+            {
+              "label": "Весь файл (тема не детектована)",
+              "startPage": 1,
+              "endPage": 10,
+              "volume": null
+            }
+          ],
+          "anchors": [
+            "oboviazky_pracivnyka"
+          ]
+        },
+        {
+          "path": "13_Безпека праці та виробничих процесів/Тренінг ЗТ_МІП_2025 1.pdf",
+          "fileName": "Тренінг ЗТ_МІП_2025 1.pdf",
+          "subjectNum": 13,
+          "subjectId": "13_bezpeka-pratsi-ta-vyrobnychykh-protsesiv",
+          "subjectTitle": "Безпека праці та виробничих процесів",
+          "kind": "lecture_candidate",
+          "hitCount": 1,
+          "anchorId": "oboviazky_pracivnyka",
+          "anchorLabel": "Обовʼязки працівника",
+          "score": 71,
+          "wordCount": 14720,
+          "pages": 223,
+          "themes": [
+            {
+              "label": "Весь файл (тема не детектована)",
+              "startPage": 1,
+              "endPage": 223,
+              "volume": null
+            }
+          ],
+          "anchors": [
+            "oboviazky_pracivnyka"
+          ]
+        },
+        {
+          "path": "13_Безпека праці та виробничих процесів/Про затвердження Типового положення про порядок проведення… - Наказ № 15 від 26.01.2005 - d166273-20241025.pdf",
+          "fileName": "Про затвердження Типового положення про порядок проведення… - Наказ № 15 від 26.01.2005 - d166273-20241025.pdf",
+          "subjectNum": 13,
+          "subjectId": "13_bezpeka-pratsi-ta-vyrobnychykh-protsesiv",
+          "subjectTitle": "Безпека праці та виробничих процесів",
+          "kind": "npa_or_standard",
+          "hitCount": 3,
+          "anchorId": "oboviazky_pracivnyka",
+          "anchorLabel": "Обовʼязки працівника",
+          "score": 43,
+          "wordCount": 9726,
+          "pages": 35,
+          "themes": [
+            {
+              "label": "Тема/лекція 1: Законодавство України про охорону праці. Основні положення Закону України",
+              "startPage": 22,
+              "endPage": 23,
+              "volume": "low"
+            },
+            {
+              "label": "Тема/лекція 2: ОРГАНІЗАЦІЯ РОБОТИ З ОХОРОНИ ПРАЦІ",
+              "startPage": 24,
+              "endPage": 24,
+              "volume": "low"
+            },
+            {
+              "label": "Тема/лекція 3: ВИБУХОНЕБЕЗПЕКА ВИРОБНИЦТВ І ВИБУХОЗАХИСТ",
+              "startPage": 25,
+              "endPage": 26,
+              "volume": "low"
+            },
+            {
+              "label": "Тема/лекція 4: ПОЖЕЖНА БЕЗПЕКА",
+              "startPage": 27,
+              "endPage": 27,
+              "volume": "low"
+            },
+            {
+              "label": "Тема/лекція 5: ЕЛЕКТРОБЕЗПЕКА",
+              "startPage": 28,
+              "endPage": 28,
+              "volume": "low"
+            },
+            {
+              "label": "Тема/лекція 6: ГІГІЄНА ПРАЦІ. МЕДИЧНІ ОГЛЯДИ. ПРОФІЛАКТИКА ПРОФЕСІЙНИХ",
+              "startPage": 29,
+              "endPage": 29,
+              "volume": "low"
+            },
+            {
+              "label": "Тема/лекція 8: ПСИХОСОЦІАЛЬНА ПІДТРИМКА ТА ПЕРША",
+              "startPage": 30,
+              "endPage": 30,
+              "volume": "low"
+            },
+            {
+              "label": "Тема/лекція 9: УПРАВЛІННЯ РОБОТАМИ З ПРОФІЛАКТИКИ ТА ЛІКВІДАЦІЇ НАСЛІДКІВ",
+              "startPage": 31,
+              "endPage": 35,
+              "volume": "medium"
+            }
+          ],
+          "anchors": [
+            "oboviazky_pracivnyka"
+          ]
+        },
+        {
+          "path": "13_Безпека праці та виробничих процесів/Кодекс законів про працю України - Кодекс України № 322-VIII від 10.12.1971 - d23605-20250101.pdf",
+          "fileName": "Кодекс законів про працю України - Кодекс України № 322-VIII від 10.12.1971 - d23605-20250101.pdf",
+          "subjectNum": 13,
+          "subjectId": "13_bezpeka-pratsi-ta-vyrobnychykh-protsesiv",
+          "subjectTitle": "Безпека праці та виробничих процесів",
+          "kind": "npa_or_standard",
+          "hitCount": 2,
+          "anchorId": "oboviazky_pracivnyka",
+          "anchorLabel": "Обовʼязки працівника",
+          "score": 42,
+          "wordCount": 48030,
+          "pages": 137,
+          "themes": [
+            {
+              "label": "Весь файл (тема не детектована)",
+              "startPage": 1,
+              "endPage": 137,
+              "volume": null
+            }
+          ],
+          "anchors": [
+            "oboviazky_pracivnyka"
+          ]
+        }
+      ],
+      "questionHint": "Що потрібно знати / зробити щодо: Підготовчі обов’язки працівника перед початком роботи?"
+    }
+  ]
+}

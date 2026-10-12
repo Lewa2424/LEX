@@ -1,0 +1,26 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env
+.env.local
+.env.*.local
+!.env.example
+playwright-report/
+test-results/
+.supabase/
+supabase/.branches
+supabase/.temp
+*.pem
+.vscode/*
+!.vscode/extensions.json
+
+# Сырые лекции PDF/PPTX (~700MB) — не в git; карты/extract в lecture-work можно
+development data/Lessons/
+
+# Временные артефакты агентов
+tmp_*.json
+development data/lecture-work/muscle-pipeline/_tmp_*
+development data/lecture-work/_tmp_*

@@ -1,0 +1,4751 @@
+{
+  "generatedAt": "2026-09-04T18:47:36.060323+00:00",
+  "schemaVersion": 1,
+  "summarySource": "heuristic",
+  "subject": {
+    "num": 9,
+    "title": "Безпека праці та виробничих процесів",
+    "id": "09_bezpeka-pratsi-ta-vyrobnychykh-protsesiv",
+    "folderName": "9_Безпека праці та виробничих процесів"
+  },
+  "stats": {
+    "files": 9,
+    "byKind": {
+      "lecture_candidate": 1,
+      "lecture": 8
+    },
+    "totalWords": 40760,
+    "extractErrors": 0
+  },
+  "suggestedSections": [
+    {
+      "sectionId": "documentation",
+      "title": "Документація та облік",
+      "score": 49,
+      "confidence": "high"
+    },
+    {
+      "sectionId": "working_conditions",
+      "title": "Умови праці та фактори",
+      "score": 38,
+      "confidence": "high"
+    },
+    {
+      "sectionId": "preparation_admission",
+      "title": "Підготовка та допуск",
+      "score": 32,
+      "confidence": "high"
+    },
+    {
+      "sectionId": "hazardous_work",
+      "title": "Небезпечні роботи та устаткування",
+      "score": 30,
+      "confidence": "high"
+    },
+    {
+      "sectionId": "ppe_protection",
+      "title": "ЗІЗ та колективний захист",
+      "score": 20,
+      "confidence": "high"
+    },
+    {
+      "sectionId": "risk_monitoring",
+      "title": "Ризики, моніторинг, прогнозування",
+      "score": 7,
+      "confidence": "low"
+    },
+    {
+      "sectionId": "rights_regulation",
+      "title": "Права, обовʼязки, регулювання",
+      "score": 2,
+      "confidence": "low"
+    }
+  ],
+  "files": [
+    {
+      "path": "9_Безпека праці та виробничих процесів/Безпека елобладнання).pptx",
+      "fileName": "Безпека елобладнання).pptx",
+      "ext": ".pptx",
+      "sizeBytes": 973473,
+      "kind": "lecture_candidate",
+      "kindConfidence": "medium",
+      "kindReasons": [
+        "default_candidate"
+      ],
+      "extract": {
+        "format": ".pptx",
+        "extractor": "python-pptx",
+        "error": null
+      },
+      "signals": {
+        "npaMentions": 1,
+        "formMentions": 0,
+        "roleMentions": 1,
+        "algorithmMentions": 0,
+        "charCount": 16980,
+        "wordCount": 2219,
+        "pageCount": 21,
+        "emptyPages": 1
+      },
+      "themes": [
+        {
+          "num": "?",
+          "title": "(без явного заголовка теми)",
+          "startPage": 1,
+          "endPage": 21,
+          "label": "Весь файл (тема не детектована)",
+          "detection": "fallback_whole_file",
+          "anchors": [
+            {
+              "id": "elektro_grupa",
+              "label": "Групи з електробезпеки",
+              "hitPages": [
+                1,
+                6
+              ],
+              "hitCount": 2,
+              "samples": [
+                "Електробезпека. Основні положення"
+              ],
+              "suggestedSituations": [
+                {
+                  "code": "1.3",
+                  "title": "Присвоєння I групи з електробезпеки неелектротехнічному персоналу",
+                  "sectionId": "preparation_admission",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "navchannia_op",
+              "label": "Навчання / перевірка знань з ОП",
+              "hitPages": [
+                6
+              ],
+              "hitCount": 1,
+              "samples": [],
+              "suggestedSituations": [
+                {
+                  "code": "1.4",
+                  "title": "Спеціальне навчання та перевірка знань з питань охорони праці",
+                  "sectionId": "preparation_admission",
+                  "confidence": "high",
+                  "note": null
+                },
+                {
+                  "code": "1.5",
+                  "title": "Навчання та перевірка знань посадових осіб з питань охорони праці",
+                  "sectionId": "preparation_admission",
+                  "confidence": "high",
+                  "note": null
+                },
+                {
+                  "code": "2.8",
+                  "title": "Протоколи (відомості) перевірки знань з питань ОП",
+                  "sectionId": "documentation",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "vibratsiia",
+              "label": "Вібрація",
+              "hitPages": [
+                14
+              ],
+              "hitCount": 1,
+              "samples": [],
+              "suggestedSituations": [
+                {
+                  "code": "4.6",
+                  "title": "Вентиляція виробничих приміщень",
+                  "sectionId": "working_conditions",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "vantazh",
+              "label": "Вантажопідіймальні",
+              "hitPages": [
+                15,
+                16
+              ],
+              "hitCount": 2,
+              "samples": [
+                "гнучкі екрановані кабелі"
+              ],
+              "suggestedSituations": [
+                {
+                  "code": "6.3",
+                  "title": "Роботи на висоті",
+                  "sectionId": "hazardous_work",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "elektroustanovky",
+              "label": "Електроустановки",
+              "hitPages": [
+                1,
+                2,
+                6
+              ],
+              "hitCount": 3,
+              "samples": [
+                "Електробезпека. Основні положення",
+                "Електроустановки повинні відповідати вимогам Правил пристрою електроустановок"
+              ],
+              "suggestedSituations": [
+                {
+                  "code": "6.4",
+                  "title": "Вантажопідіймальні роботи та крани / механізми",
+                  "sectionId": "hazardous_work",
+                  "confidence": "high",
+                  "note": null
+                },
+                {
+                  "code": "1.3",
+                  "title": "Присвоєння I групи з електробезпеки неелектротехнічному персоналу",
+                  "sectionId": "preparation_admission",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "pozhezha",
+              "label": "Пожежна безпека",
+              "hitPages": [
+                2,
+                3,
+                4,
+                5,
+                10,
+                11,
+                13,
+                17,
+                19
+              ],
+              "hitCount": 9,
+              "samples": [
+                "Електроустаткування по виконанню підрозділяється на загальнопромислове і рудникове електроустаткування, яке по рівню вибухозахисту має чотири виконання:",
+                "Забезпечення  вибухозахисту"
+              ],
+              "suggestedSituations": [
+                {
+                  "code": "12.1",
+                  "title": null,
+                  "sectionId": null,
+                  "confidence": "low",
+                  "note": "situation_row_missing_in_HIERARCHY"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "anchors": [
+        {
+          "id": "elektro_grupa",
+          "label": "Групи з електробезпеки",
+          "hitPages": [
+            1,
+            6
+          ],
+          "hitCount": 2,
+          "samples": [
+            "Електробезпека. Основні положення"
+          ],
+          "suggestedSituations": [
+            {
+              "code": "1.3",
+              "title": "Присвоєння I групи з електробезпеки неелектротехнічному персоналу",
+              "sectionId": "preparation_admission",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "navchannia_op",
+          "label": "Навчання / перевірка знань з ОП",
+          "hitPages": [
+            6
+          ],
+          "hitCount": 1,
+          "samples": [],
+          "suggestedSituations": [
+            {
+              "code": "1.4",
+              "title": "Спеціальне навчання та перевірка знань з питань охорони праці",
+              "sectionId": "preparation_admission",
+              "confidence": "high",
+              "note": null
+            },
+            {
+              "code": "1.5",
+              "title": "Навчання та перевірка знань посадових осіб з питань охорони праці",
+              "sectionId": "preparation_admission",
+              "confidence": "high",
+              "note": null
+            },
+            {
+              "code": "2.8",
+              "title": "Протоколи (відомості) перевірки знань з питань ОП",
+              "sectionId": "documentation",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "vibratsiia",
+          "label": "Вібрація",
+          "hitPages": [
+            14
+          ],
+          "hitCount": 1,
+          "samples": [],
+          "suggestedSituations": [
+            {
+              "code": "4.6",
+              "title": "Вентиляція виробничих приміщень",
+              "sectionId": "working_conditions",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "vantazh",
+          "label": "Вантажопідіймальні",
+          "hitPages": [
+            15,
+            16
+          ],
+          "hitCount": 2,
+          "samples": [
+            "гнучкі екрановані кабелі"
+          ],
+          "suggestedSituations": [
+            {
+              "code": "6.3",
+              "title": "Роботи на висоті",
+              "sectionId": "hazardous_work",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "elektroustanovky",
+          "label": "Електроустановки",
+          "hitPages": [
+            1,
+            2,
+            6
+          ],
+          "hitCount": 3,
+          "samples": [
+            "Електробезпека. Основні положення",
+            "Електроустановки повинні відповідати вимогам Правил пристрою електроустановок"
+          ],
+          "suggestedSituations": [
+            {
+              "code": "6.4",
+              "title": "Вантажопідіймальні роботи та крани / механізми",
+              "sectionId": "hazardous_work",
+              "confidence": "high",
+              "note": null
+            },
+            {
+              "code": "1.3",
+              "title": "Присвоєння I групи з електробезпеки неелектротехнічному персоналу",
+              "sectionId": "preparation_admission",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "pozhezha",
+          "label": "Пожежна безпека",
+          "hitPages": [
+            2,
+            3,
+            4,
+            5,
+            10,
+            11,
+            13,
+            17,
+            19
+          ],
+          "hitCount": 9,
+          "samples": [
+            "Електроустаткування по виконанню підрозділяється на загальнопромислове і рудникове електроустаткування, яке по рівню вибухозахисту має чотири виконання:",
+            "Забезпечення  вибухозахисту"
+          ],
+          "suggestedSituations": [
+            {
+              "code": "12.1",
+              "title": null,
+              "sectionId": null,
+              "confidence": "low",
+              "note": "situation_row_missing_in_HIERARCHY"
+            }
+          ]
+        }
+      ],
+      "suggestedSections": [
+        {
+          "sectionId": "hazardous_work",
+          "title": "Небезпечні роботи та устаткування",
+          "score": 5,
+          "confidence": "high"
+        },
+        {
+          "sectionId": "preparation_admission",
+          "title": "Підготовка та допуск",
+          "score": 5,
+          "confidence": "high"
+        },
+        {
+          "sectionId": "working_conditions",
+          "title": "Умови праці та фактори",
+          "score": 3,
+          "confidence": "medium"
+        },
+        {
+          "sectionId": "documentation",
+          "title": "Документація та облік",
+          "score": 1,
+          "confidence": "low"
+        }
+      ],
+      "needsReview": true
+    },
+    {
+      "path": "9_Безпека праці та виробничих процесів/Лекція 4(продовження).docx",
+      "fileName": "Лекція 4(продовження).docx",
+      "ext": ".docx",
+      "sizeBytes": 507787,
+      "kind": "lecture",
+      "kindConfidence": "high",
+      "kindReasons": [
+        "filename"
+      ],
+      "extract": {
+        "format": ".docx",
+        "extractor": "python-docx",
+        "error": null
+      },
+      "signals": {
+        "npaMentions": 0,
+        "formMentions": 0,
+        "roleMentions": 1,
+        "algorithmMentions": 1,
+        "charCount": 40977,
+        "wordCount": 5340,
+        "pageCount": 5,
+        "emptyPages": 0
+      },
+      "themes": [
+        {
+          "num": "4",
+          "title": "(продовження)",
+          "startPage": 1,
+          "endPage": 5,
+          "label": "Тема/лекція 4: (продовження)",
+          "detection": "header_regex",
+          "pageCount": 5,
+          "wordCount": 5340,
+          "volume": "high",
+          "anchors": [
+            {
+              "id": "povitria",
+              "label": "Повітря робочої зони",
+              "hitPages": [
+                1,
+                2,
+                3
+              ],
+              "hitCount": 3,
+              "samples": [],
+              "suggestedSituations": [
+                {
+                  "code": "4.8",
+                  "title": "Шум на виробництві: нормування, контроль, захист",
+                  "sectionId": "working_conditions",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "vantazh",
+              "label": "Вантажопідіймальні",
+              "hitPages": [
+                4
+              ],
+              "hitCount": 1,
+              "samples": [],
+              "suggestedSituations": [
+                {
+                  "code": "6.3",
+                  "title": "Роботи на висоті",
+                  "sectionId": "hazardous_work",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "pozhezha",
+              "label": "Пожежна безпека",
+              "hitPages": [
+                1,
+                2,
+                3,
+                4,
+                5
+              ],
+              "hitCount": 5,
+              "samples": [
+                "схему пожежно-зрошувального трубопроводу;"
+              ],
+              "suggestedSituations": [
+                {
+                  "code": "12.1",
+                  "title": null,
+                  "sectionId": null,
+                  "confidence": "low",
+                  "note": "situation_row_missing_in_HIERARCHY"
+                }
+              ]
+            }
+          ],
+          "suggestedSituations": [
+            {
+              "code": "12.1",
+              "title": null,
+              "sectionId": null,
+              "confidence": "low",
+              "note": "situation_row_missing_in_HIERARCHY",
+              "score": 5
+            },
+            {
+              "code": "4.8",
+              "title": "Шум на виробництві: нормування, контроль, захист",
+              "sectionId": "working_conditions",
+              "confidence": "high",
+              "note": null,
+              "score": 3
+            },
+            {
+              "code": "6.3",
+              "title": "Роботи на висоті",
+              "sectionId": "hazardous_work",
+              "confidence": "high",
+              "note": null,
+              "score": 1
+            }
+          ],
+          "needsReview": false
+        }
+      ],
+      "anchors": [
+        {
+          "id": "povitria",
+          "label": "Повітря робочої зони",
+          "hitPages": [
+            1,
+            2,
+            3
+          ],
+          "hitCount": 3,
+          "samples": [],
+          "suggestedSituations": [
+            {
+              "code": "4.8",
+              "title": "Шум на виробництві: нормування, контроль, захист",
+              "sectionId": "working_conditions",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "vantazh",
+          "label": "Вантажопідіймальні",
+          "hitPages": [
+            4
+          ],
+          "hitCount": 1,
+          "samples": [],
+          "suggestedSituations": [
+            {
+              "code": "6.3",
+              "title": "Роботи на висоті",
+              "sectionId": "hazardous_work",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "pozhezha",
+          "label": "Пожежна безпека",
+          "hitPages": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "hitCount": 5,
+          "samples": [
+            "схему пожежно-зрошувального трубопроводу;"
+          ],
+          "suggestedSituations": [
+            {
+              "code": "12.1",
+              "title": null,
+              "sectionId": null,
+              "confidence": "low",
+              "note": "situation_row_missing_in_HIERARCHY"
+            }
+          ]
+        }
+      ],
+      "suggestedSections": [
+        {
+          "sectionId": "working_conditions",
+          "title": "Умови праці та фактори",
+          "score": 4,
+          "confidence": "medium"
+        },
+        {
+          "sectionId": "hazardous_work",
+          "title": "Небезпечні роботи та устаткування",
+          "score": 3,
+          "confidence": "medium"
+        }
+      ],
+      "needsReview": false
+    },
+    {
+      "path": "9_Безпека праці та виробничих процесів/Лекція 9 Пилова небезпека.pptx",
+      "fileName": "Лекція 9 Пилова небезпека.pptx",
+      "ext": ".pptx",
+      "sizeBytes": 10768873,
+      "kind": "lecture",
+      "kindConfidence": "high",
+      "kindReasons": [
+        "filename"
+      ],
+      "extract": {
+        "format": ".pptx",
+        "extractor": "python-pptx",
+        "error": null
+      },
+      "signals": {
+        "npaMentions": 2,
+        "formMentions": 0,
+        "roleMentions": 3,
+        "algorithmMentions": 1,
+        "charCount": 8606,
+        "wordCount": 1173,
+        "pageCount": 17,
+        "emptyPages": 1
+      },
+      "themes": [
+        {
+          "num": "9",
+          "title": "Лекція 9",
+          "startPage": 1,
+          "endPage": 17,
+          "label": "Тема/лекція 9: Лекція 9",
+          "detection": "header_regex",
+          "pageCount": 17,
+          "wordCount": 1173,
+          "volume": "medium",
+          "anchors": [
+            {
+              "id": "mikroklimat",
+              "label": "Мікроклімат",
+              "hitPages": [
+                13
+              ],
+              "hitCount": 1,
+              "samples": [],
+              "suggestedSituations": [
+                {
+                  "code": "4.4",
+                  "title": "Мікроклімат виробничих приміщень",
+                  "sectionId": "working_conditions",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "povitria",
+              "label": "Повітря робочої зони",
+              "hitPages": [
+                13,
+                16
+              ],
+              "hitCount": 2,
+              "samples": [
+                "Приклад локалізації джерела аерозолів та пиловідсмоктування"
+              ],
+              "suggestedSituations": [
+                {
+                  "code": "4.8",
+                  "title": "Шум на виробництві: нормування, контроль, захист",
+                  "sectionId": "working_conditions",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "siz",
+              "label": "ЗІЗ",
+              "hitPages": [
+                13,
+                14,
+                16
+              ],
+              "hitCount": 3,
+              "samples": [],
+              "suggestedSituations": [
+                {
+                  "code": "5.1",
+                  "title": "Забезпечення працівників ЗІЗ: норми, видача, облік",
+                  "sectionId": "ppe_protection",
+                  "confidence": "high",
+                  "note": null
+                },
+                {
+                  "code": "5.2",
+                  "title": "Підбір ЗІЗ за шкідливим / небезпечним фактором",
+                  "sectionId": "ppe_protection",
+                  "confidence": "high",
+                  "note": null
+                },
+                {
+                  "code": "5.3",
+                  "title": "Захист голови (каски, шоломи)",
+                  "sectionId": "ppe_protection",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            }
+          ],
+          "suggestedSituations": [
+            {
+              "code": "5.1",
+              "title": "Забезпечення працівників ЗІЗ: норми, видача, облік",
+              "sectionId": "ppe_protection",
+              "confidence": "high",
+              "note": null,
+              "score": 3
+            },
+            {
+              "code": "5.2",
+              "title": "Підбір ЗІЗ за шкідливим / небезпечним фактором",
+              "sectionId": "ppe_protection",
+              "confidence": "high",
+              "note": null,
+              "score": 3
+            },
+            {
+              "code": "5.3",
+              "title": "Захист голови (каски, шоломи)",
+              "sectionId": "ppe_protection",
+              "confidence": "high",
+              "note": null,
+              "score": 3
+            },
+            {
+              "code": "4.8",
+              "title": "Шум на виробництві: нормування, контроль, захист",
+              "sectionId": "working_conditions",
+              "confidence": "high",
+              "note": null,
+              "score": 2
+            },
+            {
+              "code": "4.4",
+              "title": "Мікроклімат виробничих приміщень",
+              "sectionId": "working_conditions",
+              "confidence": "high",
+              "note": null,
+              "score": 1
+            }
+          ],
+          "needsReview": false
+        }
+      ],
+      "anchors": [
+        {
+          "id": "mikroklimat",
+          "label": "Мікроклімат",
+          "hitPages": [
+            13
+          ],
+          "hitCount": 1,
+          "samples": [],
+          "suggestedSituations": [
+            {
+              "code": "4.4",
+              "title": "Мікроклімат виробничих приміщень",
+              "sectionId": "working_conditions",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "povitria",
+          "label": "Повітря робочої зони",
+          "hitPages": [
+            13,
+            16
+          ],
+          "hitCount": 2,
+          "samples": [
+            "Приклад локалізації джерела аерозолів та пиловідсмоктування"
+          ],
+          "suggestedSituations": [
+            {
+              "code": "4.8",
+              "title": "Шум на виробництві: нормування, контроль, захист",
+              "sectionId": "working_conditions",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "siz",
+          "label": "ЗІЗ",
+          "hitPages": [
+            13,
+            14,
+            16
+          ],
+          "hitCount": 3,
+          "samples": [],
+          "suggestedSituations": [
+            {
+              "code": "5.1",
+              "title": "Забезпечення працівників ЗІЗ: норми, видача, облік",
+              "sectionId": "ppe_protection",
+              "confidence": "high",
+              "note": null
+            },
+            {
+              "code": "5.2",
+              "title": "Підбір ЗІЗ за шкідливим / небезпечним фактором",
+              "sectionId": "ppe_protection",
+              "confidence": "high",
+              "note": null
+            },
+            {
+              "code": "5.3",
+              "title": "Захист голови (каски, шоломи)",
+              "sectionId": "ppe_protection",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        }
+      ],
+      "suggestedSections": [
+        {
+          "sectionId": "ppe_protection",
+          "title": "ЗІЗ та колективний захист",
+          "score": 6,
+          "confidence": "high"
+        },
+        {
+          "sectionId": "working_conditions",
+          "title": "Умови праці та фактори",
+          "score": 4,
+          "confidence": "medium"
+        },
+        {
+          "sectionId": "hazardous_work",
+          "title": "Небезпечні роботи та устаткування",
+          "score": 2,
+          "confidence": "medium"
+        }
+      ],
+      "needsReview": false
+    },
+    {
+      "path": "9_Безпека праці та виробничих процесів/Лекція №1 ТРАВМАТИЗМ ТА ПРОФЕСІЙНІ ЗАХВОРЮВАННЯ.docx",
+      "fileName": "Лекція №1 ТРАВМАТИЗМ ТА ПРОФЕСІЙНІ ЗАХВОРЮВАННЯ.docx",
+      "ext": ".docx",
+      "sizeBytes": 292002,
+      "kind": "lecture",
+      "kindConfidence": "high",
+      "kindReasons": [
+        "filename"
+      ],
+      "extract": {
+        "format": ".docx",
+        "extractor": "python-docx",
+        "error": null
+      },
+      "signals": {
+        "npaMentions": 6,
+        "formMentions": 17,
+        "roleMentions": 90,
+        "algorithmMentions": 6,
+        "charCount": 78765,
+        "wordCount": 9676,
+        "pageCount": 7,
+        "emptyPages": 0
+      },
+      "themes": [
+        {
+          "num": "?",
+          "title": "(без явного заголовка теми)",
+          "startPage": 1,
+          "endPage": 7,
+          "label": "Весь файл (тема не детектована)",
+          "detection": "fallback_whole_file",
+          "anchors": [
+            {
+              "id": "instruktazh",
+              "label": "Інструктажі",
+              "hitPages": [
+                4,
+                5,
+                6
+              ],
+              "hitCount": 3,
+              "samples": [
+                "- копії документів про проходження потерпілим навчання та інструктажів з питань охорони праці;",
+                "При аналізі причин травматизму слід мати на увазі і такі випадки, коли робітники, що пройшли інструктаж, не дотримуються встановлених правил охорони праці."
+              ],
+              "suggestedSituations": [
+                {
+                  "code": "1.1",
+                  "title": "Інструктажі з охорони праці (вступний, первинний, повторний, позаплановий, цільовий)",
+                  "sectionId": "preparation_admission",
+                  "confidence": "high",
+                  "note": null
+                },
+                {
+                  "code": "2.5",
+                  "title": "Журнал реєстрації вступного інструктажу",
+                  "sectionId": "documentation",
+                  "confidence": "high",
+                  "note": null
+                },
+                {
+                  "code": "2.6",
+                  "title": "Журнал реєстрації інструктажів на робочому місці",
+                  "sectionId": "documentation",
+                  "confidence": "high",
+                  "note": null
+                },
+                {
+                  "code": "2.7",
+                  "title": "Програми навчання та інструктажів",
+                  "sectionId": "documentation",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "medogliad",
+              "label": "Медогляди",
+              "hitPages": [
+                2,
+                4,
+                5,
+                7
+              ],
+              "hitCount": 4,
+              "samples": [
+                "- інформація про проходження потерпілим первинного та періодичного медичного огляду;"
+              ],
+              "suggestedSituations": [
+                {
+                  "code": "1.2",
+                  "title": "Організація попередніх і періодичних медичних оглядів",
+                  "sectionId": "preparation_admission",
+                  "confidence": "high",
+                  "note": null
+                },
+                {
+                  "code": "2.9",
+                  "title": "Списки працівників на медогляди",
+                  "sectionId": "documentation",
+                  "confidence": "high",
+                  "note": null
+                },
+                {
+                  "code": "2.10",
+                  "title": "Направлення на медогляд і облік медичних висновків",
+                  "sectionId": "documentation",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "navchannia_op",
+              "label": "Навчання / перевірка знань з ОП",
+              "hitPages": [
+                5,
+                6
+              ],
+              "hitCount": 2,
+              "samples": [],
+              "suggestedSituations": [
+                {
+                  "code": "1.4",
+                  "title": "Спеціальне навчання та перевірка знань з питань охорони праці",
+                  "sectionId": "preparation_admission",
+                  "confidence": "high",
+                  "note": null
+                },
+                {
+                  "code": "1.5",
+                  "title": "Навчання та перевірка знань посадових осіб з питань охорони праці",
+                  "sectionId": "preparation_admission",
+                  "confidence": "high",
+                  "note": null
+                },
+                {
+                  "code": "2.8",
+                  "title": "Протоколи (відомості) перевірки знань з питань ОП",
+                  "sectionId": "documentation",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "zhurnal",
+              "label": "Журнали обліку",
+              "hitPages": [
+                3,
+                6,
+                7
+              ],
+              "hitCount": 3,
+              "samples": [],
+              "suggestedSituations": [
+                {
+                  "code": "2.5",
+                  "title": "Журнал реєстрації вступного інструктажу",
+                  "sectionId": "documentation",
+                  "confidence": "high",
+                  "note": null
+                },
+                {
+                  "code": "2.6",
+                  "title": "Журнал реєстрації інструктажів на робочому місці",
+                  "sectionId": "documentation",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "instruktsiia_op",
+              "label": "Інструкції з ОП",
+              "hitPages": [
+                5
+              ],
+              "hitCount": 1,
+              "samples": [],
+              "suggestedSituations": [
+                {
+                  "code": "2.3",
+                  "title": "Інструкції з охорони праці (за професіями / видами робіт)",
+                  "sectionId": "documentation",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "povidomlennia_nv",
+              "label": "Повідомлення про НВ",
+              "hitPages": [
+                1
+              ],
+              "hitCount": 1,
+              "samples": [
+                "Роботодавець, отримавши повідомлення про нещасний випадок, зобов'язаний:"
+              ],
+              "suggestedSituations": [
+                {
+                  "code": "2.15",
+                  "title": "Повідомлення про нещасний випадок",
+                  "sectionId": "documentation",
+                  "confidence": "high",
+                  "note": null
+                },
+                {
+                  "code": "9.1",
+                  "title": null,
+                  "sectionId": null,
+                  "confidence": "low",
+                  "note": "situation_row_missing_in_HIERARCHY"
+                }
+              ]
+            },
+            {
+              "id": "akt_n1",
+              "label": "Акти розслідування / Н-1",
+              "hitPages": [
+                2,
+                3,
+                4,
+                5
+              ],
+              "hitCount": 4,
+              "samples": [
+                "Обставинами, за яких нещасний випадок визнається таким, що пов'язаний з виробництвом, і складається акт за формою Н-1, є:",
+                "- примірник акту за формою Н-1 (у разі, коли нещасний випадок визнано таким, що пов'язаний з виробництвом),"
+              ],
+              "suggestedSituations": [
+                {
+                  "code": "2.16",
+                  "title": "Акти та матеріали розслідування (документальний комплект)",
+                  "sectionId": "documentation",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "atestatsiia",
+              "label": "Атестація / оцінка умов праці",
+              "hitPages": [
+                4,
+                5
+              ],
+              "hitCount": 2,
+              "samples": [
+                "- необхідні результати експертизи, лабораторних досліджень для проведення оцінки умов праці;"
+              ],
+              "suggestedSituations": [
+                {
+                  "code": "2.17",
+                  "title": "Документи атестації / оцінки умов праці на робочих місцях",
+                  "sectionId": "documentation",
+                  "confidence": "high",
+                  "note": null
+                },
+                {
+                  "code": "4.1",
+                  "title": "Гігієна та фізіологія праці: основні терміни і призначення",
+                  "sectionId": "working_conditions",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "oboviazky_robotodavtsia",
+              "label": "Обовʼязки роботодавця",
+              "hitPages": [
+                3
+              ],
+              "hitCount": 1,
+              "samples": [],
+              "suggestedSituations": [
+                {
+                  "code": "3.4",
+                  "title": "Обов’язки роботодавця з охорони праці",
+                  "sectionId": "rights_regulation",
+                  "confidence": "high",
+                  "note": null
+                },
+                {
+                  "code": "1.8",
+                  "title": "Підготовчі обов’язки роботодавця перед допуском працівника",
+                  "sectionId": "preparation_admission",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "oboviazky_pracivnyka",
+              "label": "Обовʼязки працівника",
+              "hitPages": [
+                4
+              ],
+              "hitCount": 1,
+              "samples": [
+                "- відомості про професійні обов'язки працівника;"
+              ],
+              "suggestedSituations": [
+                {
+                  "code": "3.5",
+                  "title": "Обов’язки працівника з охорони праці",
+                  "sectionId": "rights_regulation",
+                  "confidence": "high",
+                  "note": null
+                },
+                {
+                  "code": "1.9",
+                  "title": "Підготовчі обов’язки працівника перед початком роботи",
+                  "sectionId": "preparation_admission",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "shum",
+              "label": "Шум",
+              "hitPages": [
+                6,
+                7
+              ],
+              "hitCount": 2,
+              "samples": [],
+              "suggestedSituations": [
+                {
+                  "code": "4.5",
+                  "title": "Повітря робочої зони: хімічні речовини та пил",
+                  "sectionId": "working_conditions",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "vibratsiia",
+              "label": "Вібрація",
+              "hitPages": [
+                5,
+                6
+              ],
+              "hitCount": 2,
+              "samples": [],
+              "suggestedSituations": [
+                {
+                  "code": "4.6",
+                  "title": "Вентиляція виробничих приміщень",
+                  "sectionId": "working_conditions",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "osvitlennia",
+              "label": "Освітлення",
+              "hitPages": [
+                5,
+                6
+              ],
+              "hitCount": 2,
+              "samples": [],
+              "suggestedSituations": [
+                {
+                  "code": "4.7",
+                  "title": "Освітлення робочих місць (природне та штучне)",
+                  "sectionId": "working_conditions",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "povitria",
+              "label": "Повітря робочої зони",
+              "hitPages": [
+                5,
+                7
+              ],
+              "hitCount": 2,
+              "samples": [],
+              "suggestedSituations": [
+                {
+                  "code": "4.8",
+                  "title": "Шум на виробництві: нормування, контроль, захист",
+                  "sectionId": "working_conditions",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "ergonomika",
+              "label": "Ергономіка",
+              "hitPages": [
+                5
+              ],
+              "hitCount": 1,
+              "samples": [],
+              "suggestedSituations": [
+                {
+                  "code": "4.17",
+                  "title": "Ергономіка робочого місця (у т.ч. офіс / ПЕОМ)",
+                  "sectionId": "working_conditions",
+                  "confidence": "high",
+                  "note": null
+                },
+                {
+                  "code": "4.20",
+                  "title": "Комплексна ергономічна оцінка / ергономічний ризик",
+                  "sectionId": "working_conditions",
+                  "confidence": "high",
+                  "note": null
+                },
+                {
+                  "code": "7.11",
+                  "title": "Ергономічний ризик: ідентифікація та оцінка",
+                  "sectionId": "risk_monitoring",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "siz",
+              "label": "ЗІЗ",
+              "hitPages": [
+                4,
+                5,
+                6,
+                7
+              ],
+              "hitCount": 4,
+              "samples": [
+                "- копії документів, що підтверджують видачу працівникові засобів індивідуального захисту;",
+                "Засоби індивідуального захисту видаються робітникам індивідуально. Вони забезпечують захист органів людини від дії шкідливих та небезпечних виробничих факторів."
+              ],
+              "suggestedSituations": [
+                {
+                  "code": "5.1",
+                  "title": "Забезпечення працівників ЗІЗ: норми, видача, облік",
+                  "sectionId": "ppe_protection",
+                  "confidence": "high",
+                  "note": null
+                },
+                {
+                  "code": "5.2",
+                  "title": "Підбір ЗІЗ за шкідливим / небезпечним фактором",
+                  "sectionId": "ppe_protection",
+                  "confidence": "high",
+                  "note": null
+                },
+                {
+                  "code": "5.3",
+                  "title": "Захист голови (каски, шоломи)",
+                  "sectionId": "ppe_protection",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "zkz",
+              "label": "ЗКЗ / колективний захист",
+              "hitPages": [
+                5,
+                6,
+                7
+              ],
+              "hitCount": 3,
+              "samples": [
+                "Засоби колективного захисту виключають вплив на працюючих небезпечних виробничих факторів, що зумовлені рухом або переміщенням матеріальних тіл."
+              ],
+              "suggestedSituations": [
+                {
+                  "code": "5.10",
+                  "title": "Приймання, сертифікація / відповідність ЗІЗ вимогам",
+                  "sectionId": "ppe_protection",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "vantazh",
+              "label": "Вантажопідіймальні",
+              "hitPages": [
+                6,
+                7
+              ],
+              "hitCount": 2,
+              "samples": [],
+              "suggestedSituations": [
+                {
+                  "code": "6.3",
+                  "title": "Роботи на висоті",
+                  "sectionId": "hazardous_work",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "ns",
+              "label": "Надзвичайні ситуації",
+              "hitPages": [
+                2,
+                3
+              ],
+              "hitCount": 2,
+              "samples": [],
+              "suggestedSituations": [
+                {
+                  "code": "7.7",
+                  "title": "Моніторинг загроз надзвичайних ситуацій",
+                  "sectionId": "risk_monitoring",
+                  "confidence": "high",
+                  "note": null
+                },
+                {
+                  "code": "7.8",
+                  "title": "Прогнозування НС техногенного характеру",
+                  "sectionId": "risk_monitoring",
+                  "confidence": "high",
+                  "note": null
+                },
+                {
+                  "code": "8.1",
+                  "title": null,
+                  "sectionId": null,
+                  "confidence": "low",
+                  "note": "situation_row_missing_in_HIERARCHY"
+                }
+              ]
+            },
+            {
+              "id": "rozsliduvannia",
+              "label": "Розслідування НВ / аварій",
+              "hitPages": [
+                1,
+                2,
+                3,
+                4,
+                5
+              ],
+              "hitCount": 5,
+              "samples": [
+                "Розслідування та облік виробничого травматизму",
+                "На підставі результатів розслідування розробляються заходи щодо запобігання подібним випадкам, а також із вирішення питань соціального захисту потерпілих."
+              ],
+              "suggestedSituations": [
+                {
+                  "code": "9.1",
+                  "title": null,
+                  "sectionId": null,
+                  "confidence": "low",
+                  "note": "situation_row_missing_in_HIERARCHY"
+                },
+                {
+                  "code": "9.2",
+                  "title": null,
+                  "sectionId": null,
+                  "confidence": "low",
+                  "note": "situation_row_missing_in_HIERARCHY"
+                }
+              ]
+            },
+            {
+              "id": "pozhezha",
+              "label": "Пожежна безпека",
+              "hitPages": [
+                1,
+                2,
+                4,
+                6,
+                7
+              ],
+              "hitCount": 5,
+              "samples": [
+                "- органу державного пожежного нагляду за місцезнаходженням підприємства у разі настання нещасного випадку внаслідок пожежі;"
+              ],
+              "suggestedSituations": [
+                {
+                  "code": "12.1",
+                  "title": null,
+                  "sectionId": null,
+                  "confidence": "low",
+                  "note": "situation_row_missing_in_HIERARCHY"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "anchors": [
+        {
+          "id": "instruktazh",
+          "label": "Інструктажі",
+          "hitPages": [
+            4,
+            5,
+            6
+          ],
+          "hitCount": 3,
+          "samples": [
+            "- копії документів про проходження потерпілим навчання та інструктажів з питань охорони праці;",
+            "При аналізі причин травматизму слід мати на увазі і такі випадки, коли робітники, що пройшли інструктаж, не дотримуються встановлених правил охорони праці."
+          ],
+          "suggestedSituations": [
+            {
+              "code": "1.1",
+              "title": "Інструктажі з охорони праці (вступний, первинний, повторний, позаплановий, цільовий)",
+              "sectionId": "preparation_admission",
+              "confidence": "high",
+              "note": null
+            },
+            {
+              "code": "2.5",
+              "title": "Журнал реєстрації вступного інструктажу",
+              "sectionId": "documentation",
+              "confidence": "high",
+              "note": null
+            },
+            {
+              "code": "2.6",
+              "title": "Журнал реєстрації інструктажів на робочому місці",
+              "sectionId": "documentation",
+              "confidence": "high",
+              "note": null
+            },
+            {
+              "code": "2.7",
+              "title": "Програми навчання та інструктажів",
+              "sectionId": "documentation",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "medogliad",
+          "label": "Медогляди",
+          "hitPages": [
+            2,
+            4,
+            5,
+            7
+          ],
+          "hitCount": 4,
+          "samples": [
+            "- інформація про проходження потерпілим первинного та періодичного медичного огляду;"
+          ],
+          "suggestedSituations": [
+            {
+              "code": "1.2",
+              "title": "Організація попередніх і періодичних медичних оглядів",
+              "sectionId": "preparation_admission",
+              "confidence": "high",
+              "note": null
+            },
+            {
+              "code": "2.9",
+              "title": "Списки працівників на медогляди",
+              "sectionId": "documentation",
+              "confidence": "high",
+              "note": null
+            },
+            {
+              "code": "2.10",
+              "title": "Направлення на медогляд і облік медичних висновків",
+              "sectionId": "documentation",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "navchannia_op",
+          "label": "Навчання / перевірка знань з ОП",
+          "hitPages": [
+            5,
+            6
+          ],
+          "hitCount": 2,
+          "samples": [],
+          "suggestedSituations": [
+            {
+              "code": "1.4",
+              "title": "Спеціальне навчання та перевірка знань з питань охорони праці",
+              "sectionId": "preparation_admission",
+              "confidence": "high",
+              "note": null
+            },
+            {
+              "code": "1.5",
+              "title": "Навчання та перевірка знань посадових осіб з питань охорони праці",
+              "sectionId": "preparation_admission",
+              "confidence": "high",
+              "note": null
+            },
+            {
+              "code": "2.8",
+              "title": "Протоколи (відомості) перевірки знань з питань ОП",
+              "sectionId": "documentation",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "zhurnal",
+          "label": "Журнали обліку",
+          "hitPages": [
+            3,
+            6,
+            7
+          ],
+          "hitCount": 3,
+          "samples": [],
+          "suggestedSituations": [
+            {
+              "code": "2.5",
+              "title": "Журнал реєстрації вступного інструктажу",
+              "sectionId": "documentation",
+              "confidence": "high",
+              "note": null
+            },
+            {
+              "code": "2.6",
+              "title": "Журнал реєстрації інструктажів на робочому місці",
+              "sectionId": "documentation",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "instruktsiia_op",
+          "label": "Інструкції з ОП",
+          "hitPages": [
+            5
+          ],
+          "hitCount": 1,
+          "samples": [],
+          "suggestedSituations": [
+            {
+              "code": "2.3",
+              "title": "Інструкції з охорони праці (за професіями / видами робіт)",
+              "sectionId": "documentation",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "povidomlennia_nv",
+          "label": "Повідомлення про НВ",
+          "hitPages": [
+            1
+          ],
+          "hitCount": 1,
+          "samples": [
+            "Роботодавець, отримавши повідомлення про нещасний випадок, зобов'язаний:"
+          ],
+          "suggestedSituations": [
+            {
+              "code": "2.15",
+              "title": "Повідомлення про нещасний випадок",
+              "sectionId": "documentation",
+              "confidence": "high",
+              "note": null
+            },
+            {
+              "code": "9.1",
+              "title": null,
+              "sectionId": null,
+              "confidence": "low",
+              "note": "situation_row_missing_in_HIERARCHY"
+            }
+          ]
+        },
+        {
+          "id": "akt_n1",
+          "label": "Акти розслідування / Н-1",
+          "hitPages": [
+            2,
+            3,
+            4,
+            5
+          ],
+          "hitCount": 4,
+          "samples": [
+            "Обставинами, за яких нещасний випадок визнається таким, що пов'язаний з виробництвом, і складається акт за формою Н-1, є:",
+            "- примірник акту за формою Н-1 (у разі, коли нещасний випадок визнано таким, що пов'язаний з виробництвом),"
+          ],
+          "suggestedSituations": [
+            {
+              "code": "2.16",
+              "title": "Акти та матеріали розслідування (документальний комплект)",
+              "sectionId": "documentation",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "atestatsiia",
+          "label": "Атестація / оцінка умов праці",
+          "hitPages": [
+            4,
+            5
+          ],
+          "hitCount": 2,
+          "samples": [
+            "- необхідні результати експертизи, лабораторних досліджень для проведення оцінки умов праці;"
+          ],
+          "suggestedSituations": [
+            {
+              "code": "2.17",
+              "title": "Документи атестації / оцінки умов праці на робочих місцях",
+              "sectionId": "documentation",
+              "confidence": "high",
+              "note": null
+            },
+            {
+              "code": "4.1",
+              "title": "Гігієна та фізіологія праці: основні терміни і призначення",
+              "sectionId": "working_conditions",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "oboviazky_robotodavtsia",
+          "label": "Обовʼязки роботодавця",
+          "hitPages": [
+            3
+          ],
+          "hitCount": 1,
+          "samples": [],
+          "suggestedSituations": [
+            {
+              "code": "3.4",
+              "title": "Обов’язки роботодавця з охорони праці",
+              "sectionId": "rights_regulation",
+              "confidence": "high",
+              "note": null
+            },
+            {
+              "code": "1.8",
+              "title": "Підготовчі обов’язки роботодавця перед допуском працівника",
+              "sectionId": "preparation_admission",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "oboviazky_pracivnyka",
+          "label": "Обовʼязки працівника",
+          "hitPages": [
+            4
+          ],
+          "hitCount": 1,
+          "samples": [
+            "- відомості про професійні обов'язки працівника;"
+          ],
+          "suggestedSituations": [
+            {
+              "code": "3.5",
+              "title": "Обов’язки працівника з охорони праці",
+              "sectionId": "rights_regulation",
+              "confidence": "high",
+              "note": null
+            },
+            {
+              "code": "1.9",
+              "title": "Підготовчі обов’язки працівника перед початком роботи",
+              "sectionId": "preparation_admission",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "shum",
+          "label": "Шум",
+          "hitPages": [
+            6,
+            7
+          ],
+          "hitCount": 2,
+          "samples": [],
+          "suggestedSituations": [
+            {
+              "code": "4.5",
+              "title": "Повітря робочої зони: хімічні речовини та пил",
+              "sectionId": "working_conditions",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "vibratsiia",
+          "label": "Вібрація",
+          "hitPages": [
+            5,
+            6
+          ],
+          "hitCount": 2,
+          "samples": [],
+          "suggestedSituations": [
+            {
+              "code": "4.6",
+              "title": "Вентиляція виробничих приміщень",
+              "sectionId": "working_conditions",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "osvitlennia",
+          "label": "Освітлення",
+          "hitPages": [
+            5,
+            6
+          ],
+          "hitCount": 2,
+          "samples": [],
+          "suggestedSituations": [
+            {
+              "code": "4.7",
+              "title": "Освітлення робочих місць (природне та штучне)",
+              "sectionId": "working_conditions",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "povitria",
+          "label": "Повітря робочої зони",
+          "hitPages": [
+            5,
+            7
+          ],
+          "hitCount": 2,
+          "samples": [],
+          "suggestedSituations": [
+            {
+              "code": "4.8",
+              "title": "Шум на виробництві: нормування, контроль, захист",
+              "sectionId": "working_conditions",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "ergonomika",
+          "label": "Ергономіка",
+          "hitPages": [
+            5
+          ],
+          "hitCount": 1,
+          "samples": [],
+          "suggestedSituations": [
+            {
+              "code": "4.17",
+              "title": "Ергономіка робочого місця (у т.ч. офіс / ПЕОМ)",
+              "sectionId": "working_conditions",
+              "confidence": "high",
+              "note": null
+            },
+            {
+              "code": "4.20",
+              "title": "Комплексна ергономічна оцінка / ергономічний ризик",
+              "sectionId": "working_conditions",
+              "confidence": "high",
+              "note": null
+            },
+            {
+              "code": "7.11",
+              "title": "Ергономічний ризик: ідентифікація та оцінка",
+              "sectionId": "risk_monitoring",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "siz",
+          "label": "ЗІЗ",
+          "hitPages": [
+            4,
+            5,
+            6,
+            7
+          ],
+          "hitCount": 4,
+          "samples": [
+            "- копії документів, що підтверджують видачу працівникові засобів індивідуального захисту;",
+            "Засоби індивідуального захисту видаються робітникам індивідуально. Вони забезпечують захист органів людини від дії шкідливих та небезпечних виробничих факторів."
+          ],
+          "suggestedSituations": [
+            {
+              "code": "5.1",
+              "title": "Забезпечення працівників ЗІЗ: норми, видача, облік",
+              "sectionId": "ppe_protection",
+              "confidence": "high",
+              "note": null
+            },
+            {
+              "code": "5.2",
+              "title": "Підбір ЗІЗ за шкідливим / небезпечним фактором",
+              "sectionId": "ppe_protection",
+              "confidence": "high",
+              "note": null
+            },
+            {
+              "code": "5.3",
+              "title": "Захист голови (каски, шоломи)",
+              "sectionId": "ppe_protection",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "zkz",
+          "label": "ЗКЗ / колективний захист",
+          "hitPages": [
+            5,
+            6,
+            7
+          ],
+          "hitCount": 3,
+          "samples": [
+            "Засоби колективного захисту виключають вплив на працюючих небезпечних виробничих факторів, що зумовлені рухом або переміщенням матеріальних тіл."
+          ],
+          "suggestedSituations": [
+            {
+              "code": "5.10",
+              "title": "Приймання, сертифікація / відповідність ЗІЗ вимогам",
+              "sectionId": "ppe_protection",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "vantazh",
+          "label": "Вантажопідіймальні",
+          "hitPages": [
+            6,
+            7
+          ],
+          "hitCount": 2,
+          "samples": [],
+          "suggestedSituations": [
+            {
+              "code": "6.3",
+              "title": "Роботи на висоті",
+              "sectionId": "hazardous_work",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "ns",
+          "label": "Надзвичайні ситуації",
+          "hitPages": [
+            2,
+            3
+          ],
+          "hitCount": 2,
+          "samples": [],
+          "suggestedSituations": [
+            {
+              "code": "7.7",
+              "title": "Моніторинг загроз надзвичайних ситуацій",
+              "sectionId": "risk_monitoring",
+              "confidence": "high",
+              "note": null
+            },
+            {
+              "code": "7.8",
+              "title": "Прогнозування НС техногенного характеру",
+              "sectionId": "risk_monitoring",
+              "confidence": "high",
+              "note": null
+            },
+            {
+              "code": "8.1",
+              "title": null,
+              "sectionId": null,
+              "confidence": "low",
+              "note": "situation_row_missing_in_HIERARCHY"
+            }
+          ]
+        },
+        {
+          "id": "rozsliduvannia",
+          "label": "Розслідування НВ / аварій",
+          "hitPages": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "hitCount": 5,
+          "samples": [
+            "Розслідування та облік виробничого травматизму",
+            "На підставі результатів розслідування розробляються заходи щодо запобігання подібним випадкам, а також із вирішення питань соціального захисту потерпілих."
+          ],
+          "suggestedSituations": [
+            {
+              "code": "9.1",
+              "title": null,
+              "sectionId": null,
+              "confidence": "low",
+              "note": "situation_row_missing_in_HIERARCHY"
+            },
+            {
+              "code": "9.2",
+              "title": null,
+              "sectionId": null,
+              "confidence": "low",
+              "note": "situation_row_missing_in_HIERARCHY"
+            }
+          ]
+        },
+        {
+          "id": "pozhezha",
+          "label": "Пожежна безпека",
+          "hitPages": [
+            1,
+            2,
+            4,
+            6,
+            7
+          ],
+          "hitCount": 5,
+          "samples": [
+            "- органу державного пожежного нагляду за місцезнаходженням підприємства у разі настання нещасного випадку внаслідок пожежі;"
+          ],
+          "suggestedSituations": [
+            {
+              "code": "12.1",
+              "title": null,
+              "sectionId": null,
+              "confidence": "low",
+              "note": "situation_row_missing_in_HIERARCHY"
+            }
+          ]
+        }
+      ],
+      "suggestedSections": [
+        {
+          "sectionId": "documentation",
+          "title": "Документація та облік",
+          "score": 20,
+          "confidence": "high"
+        },
+        {
+          "sectionId": "working_conditions",
+          "title": "Умови праці та фактори",
+          "score": 9,
+          "confidence": "high"
+        },
+        {
+          "sectionId": "preparation_admission",
+          "title": "Підготовка та допуск",
+          "score": 8,
+          "confidence": "high"
+        },
+        {
+          "sectionId": "ppe_protection",
+          "title": "ЗІЗ та колективний захист",
+          "score": 8,
+          "confidence": "high"
+        },
+        {
+          "sectionId": "hazardous_work",
+          "title": "Небезпечні роботи та устаткування",
+          "score": 3,
+          "confidence": "medium"
+        },
+        {
+          "sectionId": "risk_monitoring",
+          "title": "Ризики, моніторинг, прогнозування",
+          "score": 3,
+          "confidence": "medium"
+        }
+      ],
+      "needsReview": false
+    },
+    {
+      "path": "9_Безпека праці та виробничих процесів/Лекція №2.docx",
+      "fileName": "Лекція №2.docx",
+      "ext": ".docx",
+      "sizeBytes": 50345,
+      "kind": "lecture",
+      "kindConfidence": "high",
+      "kindReasons": [
+        "filename"
+      ],
+      "extract": {
+        "format": ".docx",
+        "extractor": "python-docx",
+        "error": null
+      },
+      "signals": {
+        "npaMentions": 12,
+        "formMentions": 49,
+        "roleMentions": 64,
+        "algorithmMentions": 7,
+        "charCount": 55274,
+        "wordCount": 7206,
+        "pageCount": 8,
+        "emptyPages": 0
+      },
+      "themes": [
+        {
+          "num": "?",
+          "title": "(без явного заголовка теми)",
+          "startPage": 1,
+          "endPage": 8,
+          "label": "Весь файл (тема не детектована)",
+          "detection": "fallback_whole_file",
+          "anchors": [
+            {
+              "id": "instruktazh",
+              "label": "Інструктажі",
+              "hitPages": [
+                1,
+                2,
+                3
+              ],
+              "hitCount": 3,
+              "samples": [
+                "3\tнавчання, інструктажі, інформацію і перевірку знань з охорони праці;"
+              ],
+              "suggestedSituations": [
+                {
+                  "code": "1.1",
+                  "title": "Інструктажі з охорони праці (вступний, первинний, повторний, позаплановий, цільовий)",
+                  "sectionId": "preparation_admission",
+                  "confidence": "high",
+                  "note": null
+                },
+                {
+                  "code": "2.5",
+                  "title": "Журнал реєстрації вступного інструктажу",
+                  "sectionId": "documentation",
+                  "confidence": "high",
+                  "note": null
+                },
+                {
+                  "code": "2.6",
+                  "title": "Журнал реєстрації інструктажів на робочому місці",
+                  "sectionId": "documentation",
+                  "confidence": "high",
+                  "note": null
+                },
+                {
+                  "code": "2.7",
+                  "title": "Програми навчання та інструктажів",
+                  "sectionId": "documentation",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "navchannia_op",
+              "label": "Навчання / перевірка знань з ОП",
+              "hitPages": [
+                1,
+                3,
+                6,
+                7
+              ],
+              "hitCount": 4,
+              "samples": [
+                "3\tнавчання, інструктажі, інформацію і перевірку знань з охорони праці;",
+                "6\tконтролює навчання керівних робітників, фахівців і робітників галузі, підвищення кваліфікації і перевірки знань з питання охорони праці;"
+              ],
+              "suggestedSituations": [
+                {
+                  "code": "1.4",
+                  "title": "Спеціальне навчання та перевірка знань з питань охорони праці",
+                  "sectionId": "preparation_admission",
+                  "confidence": "high",
+                  "note": null
+                },
+                {
+                  "code": "1.5",
+                  "title": "Навчання та перевірка знань посадових осіб з питань охорони праці",
+                  "sectionId": "preparation_admission",
+                  "confidence": "high",
+                  "note": null
+                },
+                {
+                  "code": "2.8",
+                  "title": "Протоколи (відомості) перевірки знань з питань ОП",
+                  "sectionId": "documentation",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "stazhuvannia",
+              "label": "Стажування / дублювання",
+              "hitPages": [
+                1
+              ],
+              "hitCount": 1,
+              "samples": [],
+              "suggestedSituations": [
+                {
+                  "code": "1.6",
+                  "title": "Стажування (дублювання) і допуск до самостійної роботи",
+                  "sectionId": "preparation_admission",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "zhurnal",
+              "label": "Журнали обліку",
+              "hitPages": [
+                3,
+                5
+              ],
+              "hitCount": 2,
+              "samples": [
+                "1\tнегайно – гірничий диспетчер від гірничого майстра (будь-якого робітника) при аварії із записом в журнал факту події (при аварії включає магнітофон);",
+                "9\tвсі свої дії записує на магнітофонну стрічку і заносить в оперативний журнал з вказівкою часу ухвалення рішення і видачі особі, відповідальній за виконання."
+              ],
+              "suggestedSituations": [
+                {
+                  "code": "2.5",
+                  "title": "Журнал реєстрації вступного інструктажу",
+                  "sectionId": "documentation",
+                  "confidence": "high",
+                  "note": null
+                },
+                {
+                  "code": "2.6",
+                  "title": "Журнал реєстрації інструктажів на робочому місці",
+                  "sectionId": "documentation",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "instruktsiia_op",
+              "label": "Інструкції з ОП",
+              "hitPages": [
+                3
+              ],
+              "hitCount": 1,
+              "samples": [],
+              "suggestedSituations": [
+                {
+                  "code": "2.3",
+                  "title": "Інструкції з охорони праці (за професіями / видами робіт)",
+                  "sectionId": "documentation",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "polozhennia",
+              "label": "Положення / СУОП",
+              "hitPages": [
+                1,
+                4,
+                5,
+                7
+              ],
+              "hitCount": 4,
+              "samples": [
+                "2\tслужбу охорони праці і дільниці ВТБ кваліфікованими кадрами відповідно до Положення про службу охорони праці і розрахунком її комплектації;"
+              ],
+              "suggestedSituations": [
+                {
+                  "code": "2.4",
+                  "title": "Положення з охорони праці (служба ОП, СУОП тощо)",
+                  "sectionId": "documentation",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "sluzhba_op",
+              "label": "Служба охорони праці",
+              "hitPages": [
+                3
+              ],
+              "hitCount": 1,
+              "samples": [],
+              "suggestedSituations": [
+                {
+                  "code": "3.6",
+                  "title": "Служба охорони праці на підприємстві",
+                  "sectionId": "rights_regulation",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "elektroustanovky",
+              "label": "Електроустановки",
+              "hitPages": [
+                1
+              ],
+              "hitCount": 1,
+              "samples": [
+                "Всі робітники, які обслуговують машини, механізми і електроустановки, зобов'язані мати право управління ними і мати відповідне посвідчення."
+              ],
+              "suggestedSituations": [
+                {
+                  "code": "6.4",
+                  "title": "Вантажопідіймальні роботи та крани / механізми",
+                  "sectionId": "hazardous_work",
+                  "confidence": "high",
+                  "note": null
+                },
+                {
+                  "code": "1.3",
+                  "title": "Присвоєння I групи з електробезпеки неелектротехнічному персоналу",
+                  "sectionId": "preparation_admission",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "ns",
+              "label": "Надзвичайні ситуації",
+              "hitPages": [
+                7
+              ],
+              "hitCount": 1,
+              "samples": [
+                "3\tстворює Департамент надзвичайної ситуацій і охорони праці Мінвуглепрому і визначає його структуру;"
+              ],
+              "suggestedSituations": [
+                {
+                  "code": "7.7",
+                  "title": "Моніторинг загроз надзвичайних ситуацій",
+                  "sectionId": "risk_monitoring",
+                  "confidence": "high",
+                  "note": null
+                },
+                {
+                  "code": "7.8",
+                  "title": "Прогнозування НС техногенного характеру",
+                  "sectionId": "risk_monitoring",
+                  "confidence": "high",
+                  "note": null
+                },
+                {
+                  "code": "8.1",
+                  "title": null,
+                  "sectionId": null,
+                  "confidence": "low",
+                  "note": "situation_row_missing_in_HIERARCHY"
+                }
+              ]
+            },
+            {
+              "id": "plla",
+              "label": "ПЛЛА",
+              "hitPages": [
+                1
+              ],
+              "hitCount": 1,
+              "samples": [
+                "Вказаною документацією регламентуються ведення при нормальній роботі шахти. При роботі в аварійному режимі основним документом є план ліквідації аварій (ПЛА) ."
+              ],
+              "suggestedSituations": [
+                {
+                  "code": "8.2",
+                  "title": null,
+                  "sectionId": null,
+                  "confidence": "low",
+                  "note": "situation_row_missing_in_HIERARCHY"
+                },
+                {
+                  "code": "11.2",
+                  "title": null,
+                  "sectionId": null,
+                  "confidence": "low",
+                  "note": "situation_row_missing_in_HIERARCHY"
+                }
+              ]
+            },
+            {
+              "id": "rozsliduvannia",
+              "label": "Розслідування НВ / аварій",
+              "hitPages": [
+                2,
+                5,
+                6,
+                8
+              ],
+              "hitCount": 4,
+              "samples": [
+                "9\tбере участь в розслідуванні смертельних нещасних випадків на виробництві і аварій 1-ої і 2-ої категорій.",
+                "11\tбере участь в розслідуванні групових і смертельних нещасних випадків;"
+              ],
+              "suggestedSituations": [
+                {
+                  "code": "9.1",
+                  "title": null,
+                  "sectionId": null,
+                  "confidence": "low",
+                  "note": "situation_row_missing_in_HIERARCHY"
+                },
+                {
+                  "code": "9.2",
+                  "title": null,
+                  "sectionId": null,
+                  "confidence": "low",
+                  "note": "situation_row_missing_in_HIERARCHY"
+                }
+              ]
+            },
+            {
+              "id": "pozhezha",
+              "label": "Пожежна безпека",
+              "hitPages": [
+                1,
+                2,
+                4,
+                5
+              ],
+              "hitCount": 4,
+              "samples": [
+                "5\tефективну боротьбу з газодинамічними явищами, обвалення-ми гірських порід, екзогенними і ендогенними пожежами;",
+                "1\tз'ясовує вид аварії (пожежа, вибух і ін.) у осіб, що повідомили його об аварії з включенням магнітофонного запису;"
+              ],
+              "suggestedSituations": [
+                {
+                  "code": "12.1",
+                  "title": null,
+                  "sectionId": null,
+                  "confidence": "low",
+                  "note": "situation_row_missing_in_HIERARCHY"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "anchors": [
+        {
+          "id": "instruktazh",
+          "label": "Інструктажі",
+          "hitPages": [
+            1,
+            2,
+            3
+          ],
+          "hitCount": 3,
+          "samples": [
+            "3\tнавчання, інструктажі, інформацію і перевірку знань з охорони праці;"
+          ],
+          "suggestedSituations": [
+            {
+              "code": "1.1",
+              "title": "Інструктажі з охорони праці (вступний, первинний, повторний, позаплановий, цільовий)",
+              "sectionId": "preparation_admission",
+              "confidence": "high",
+              "note": null
+            },
+            {
+              "code": "2.5",
+              "title": "Журнал реєстрації вступного інструктажу",
+              "sectionId": "documentation",
+              "confidence": "high",
+              "note": null
+            },
+            {
+              "code": "2.6",
+              "title": "Журнал реєстрації інструктажів на робочому місці",
+              "sectionId": "documentation",
+              "confidence": "high",
+              "note": null
+            },
+            {
+              "code": "2.7",
+              "title": "Програми навчання та інструктажів",
+              "sectionId": "documentation",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "navchannia_op",
+          "label": "Навчання / перевірка знань з ОП",
+          "hitPages": [
+            1,
+            3,
+            6,
+            7
+          ],
+          "hitCount": 4,
+          "samples": [
+            "3\tнавчання, інструктажі, інформацію і перевірку знань з охорони праці;",
+            "6\tконтролює навчання керівних робітників, фахівців і робітників галузі, підвищення кваліфікації і перевірки знань з питання охорони праці;"
+          ],
+          "suggestedSituations": [
+            {
+              "code": "1.4",
+              "title": "Спеціальне навчання та перевірка знань з питань охорони праці",
+              "sectionId": "preparation_admission",
+              "confidence": "high",
+              "note": null
+            },
+            {
+              "code": "1.5",
+              "title": "Навчання та перевірка знань посадових осіб з питань охорони праці",
+              "sectionId": "preparation_admission",
+              "confidence": "high",
+              "note": null
+            },
+            {
+              "code": "2.8",
+              "title": "Протоколи (відомості) перевірки знань з питань ОП",
+              "sectionId": "documentation",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "stazhuvannia",
+          "label": "Стажування / дублювання",
+          "hitPages": [
+            1
+          ],
+          "hitCount": 1,
+          "samples": [],
+          "suggestedSituations": [
+            {
+              "code": "1.6",
+              "title": "Стажування (дублювання) і допуск до самостійної роботи",
+              "sectionId": "preparation_admission",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "zhurnal",
+          "label": "Журнали обліку",
+          "hitPages": [
+            3,
+            5
+          ],
+          "hitCount": 2,
+          "samples": [
+            "1\tнегайно – гірничий диспетчер від гірничого майстра (будь-якого робітника) при аварії із записом в журнал факту події (при аварії включає магнітофон);",
+            "9\tвсі свої дії записує на магнітофонну стрічку і заносить в оперативний журнал з вказівкою часу ухвалення рішення і видачі особі, відповідальній за виконання."
+          ],
+          "suggestedSituations": [
+            {
+              "code": "2.5",
+              "title": "Журнал реєстрації вступного інструктажу",
+              "sectionId": "documentation",
+              "confidence": "high",
+              "note": null
+            },
+            {
+              "code": "2.6",
+              "title": "Журнал реєстрації інструктажів на робочому місці",
+              "sectionId": "documentation",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "instruktsiia_op",
+          "label": "Інструкції з ОП",
+          "hitPages": [
+            3
+          ],
+          "hitCount": 1,
+          "samples": [],
+          "suggestedSituations": [
+            {
+              "code": "2.3",
+              "title": "Інструкції з охорони праці (за професіями / видами робіт)",
+              "sectionId": "documentation",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "polozhennia",
+          "label": "Положення / СУОП",
+          "hitPages": [
+            1,
+            4,
+            5,
+            7
+          ],
+          "hitCount": 4,
+          "samples": [
+            "2\tслужбу охорони праці і дільниці ВТБ кваліфікованими кадрами відповідно до Положення про службу охорони праці і розрахунком її комплектації;"
+          ],
+          "suggestedSituations": [
+            {
+              "code": "2.4",
+              "title": "Положення з охорони праці (служба ОП, СУОП тощо)",
+              "sectionId": "documentation",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "sluzhba_op",
+          "label": "Служба охорони праці",
+          "hitPages": [
+            3
+          ],
+          "hitCount": 1,
+          "samples": [],
+          "suggestedSituations": [
+            {
+              "code": "3.6",
+              "title": "Служба охорони праці на підприємстві",
+              "sectionId": "rights_regulation",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "elektroustanovky",
+          "label": "Електроустановки",
+          "hitPages": [
+            1
+          ],
+          "hitCount": 1,
+          "samples": [
+            "Всі робітники, які обслуговують машини, механізми і електроустановки, зобов'язані мати право управління ними і мати відповідне посвідчення."
+          ],
+          "suggestedSituations": [
+            {
+              "code": "6.4",
+              "title": "Вантажопідіймальні роботи та крани / механізми",
+              "sectionId": "hazardous_work",
+              "confidence": "high",
+              "note": null
+            },
+            {
+              "code": "1.3",
+              "title": "Присвоєння I групи з електробезпеки неелектротехнічному персоналу",
+              "sectionId": "preparation_admission",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "ns",
+          "label": "Надзвичайні ситуації",
+          "hitPages": [
+            7
+          ],
+          "hitCount": 1,
+          "samples": [
+            "3\tстворює Департамент надзвичайної ситуацій і охорони праці Мінвуглепрому і визначає його структуру;"
+          ],
+          "suggestedSituations": [
+            {
+              "code": "7.7",
+              "title": "Моніторинг загроз надзвичайних ситуацій",
+              "sectionId": "risk_monitoring",
+              "confidence": "high",
+              "note": null
+            },
+            {
+              "code": "7.8",
+              "title": "Прогнозування НС техногенного характеру",
+              "sectionId": "risk_monitoring",
+              "confidence": "high",
+              "note": null
+            },
+            {
+              "code": "8.1",
+              "title": null,
+              "sectionId": null,
+              "confidence": "low",
+              "note": "situation_row_missing_in_HIERARCHY"
+            }
+          ]
+        },
+        {
+          "id": "plla",
+          "label": "ПЛЛА",
+          "hitPages": [
+            1
+          ],
+          "hitCount": 1,
+          "samples": [
+            "Вказаною документацією регламентуються ведення при нормальній роботі шахти. При роботі в аварійному режимі основним документом є план ліквідації аварій (ПЛА) ."
+          ],
+          "suggestedSituations": [
+            {
+              "code": "8.2",
+              "title": null,
+              "sectionId": null,
+              "confidence": "low",
+              "note": "situation_row_missing_in_HIERARCHY"
+            },
+            {
+              "code": "11.2",
+              "title": null,
+              "sectionId": null,
+              "confidence": "low",
+              "note": "situation_row_missing_in_HIERARCHY"
+            }
+          ]
+        },
+        {
+          "id": "rozsliduvannia",
+          "label": "Розслідування НВ / аварій",
+          "hitPages": [
+            2,
+            5,
+            6,
+            8
+          ],
+          "hitCount": 4,
+          "samples": [
+            "9\tбере участь в розслідуванні смертельних нещасних випадків на виробництві і аварій 1-ої і 2-ої категорій.",
+            "11\tбере участь в розслідуванні групових і смертельних нещасних випадків;"
+          ],
+          "suggestedSituations": [
+            {
+              "code": "9.1",
+              "title": null,
+              "sectionId": null,
+              "confidence": "low",
+              "note": "situation_row_missing_in_HIERARCHY"
+            },
+            {
+              "code": "9.2",
+              "title": null,
+              "sectionId": null,
+              "confidence": "low",
+              "note": "situation_row_missing_in_HIERARCHY"
+            }
+          ]
+        },
+        {
+          "id": "pozhezha",
+          "label": "Пожежна безпека",
+          "hitPages": [
+            1,
+            2,
+            4,
+            5
+          ],
+          "hitCount": 4,
+          "samples": [
+            "5\tефективну боротьбу з газодинамічними явищами, обвалення-ми гірських порід, екзогенними і ендогенними пожежами;",
+            "1\tз'ясовує вид аварії (пожежа, вибух і ін.) у осіб, що повідомили його об аварії з включенням магнітофонного запису;"
+          ],
+          "suggestedSituations": [
+            {
+              "code": "12.1",
+              "title": null,
+              "sectionId": null,
+              "confidence": "low",
+              "note": "situation_row_missing_in_HIERARCHY"
+            }
+          ]
+        }
+      ],
+      "suggestedSections": [
+        {
+          "sectionId": "documentation",
+          "title": "Документація та облік",
+          "score": 13,
+          "confidence": "high"
+        },
+        {
+          "sectionId": "preparation_admission",
+          "title": "Підготовка та допуск",
+          "score": 8,
+          "confidence": "high"
+        },
+        {
+          "sectionId": "hazardous_work",
+          "title": "Небезпечні роботи та устаткування",
+          "score": 3,
+          "confidence": "medium"
+        },
+        {
+          "sectionId": "working_conditions",
+          "title": "Умови праці та фактори",
+          "score": 2,
+          "confidence": "medium"
+        },
+        {
+          "sectionId": "risk_monitoring",
+          "title": "Ризики, моніторинг, прогнозування",
+          "score": 2,
+          "confidence": "medium"
+        },
+        {
+          "sectionId": "rights_regulation",
+          "title": "Права, обовʼязки, регулювання",
+          "score": 1,
+          "confidence": "low"
+        }
+      ],
+      "needsReview": false
+    },
+    {
+      "path": "9_Безпека праці та виробничих процесів/Лекція №3.docx",
+      "fileName": "Лекція №3.docx",
+      "ext": ".docx",
+      "sizeBytes": 50345,
+      "kind": "lecture",
+      "kindConfidence": "high",
+      "kindReasons": [
+        "filename"
+      ],
+      "extract": {
+        "format": ".docx",
+        "extractor": "python-docx",
+        "error": null
+      },
+      "signals": {
+        "npaMentions": 12,
+        "formMentions": 49,
+        "roleMentions": 64,
+        "algorithmMentions": 7,
+        "charCount": 55274,
+        "wordCount": 7206,
+        "pageCount": 8,
+        "emptyPages": 0
+      },
+      "themes": [
+        {
+          "num": "?",
+          "title": "(без явного заголовка теми)",
+          "startPage": 1,
+          "endPage": 8,
+          "label": "Весь файл (тема не детектована)",
+          "detection": "fallback_whole_file",
+          "anchors": [
+            {
+              "id": "instruktazh",
+              "label": "Інструктажі",
+              "hitPages": [
+                1,
+                2,
+                3
+              ],
+              "hitCount": 3,
+              "samples": [
+                "3\tнавчання, інструктажі, інформацію і перевірку знань з охорони праці;"
+              ],
+              "suggestedSituations": [
+                {
+                  "code": "1.1",
+                  "title": "Інструктажі з охорони праці (вступний, первинний, повторний, позаплановий, цільовий)",
+                  "sectionId": "preparation_admission",
+                  "confidence": "high",
+                  "note": null
+                },
+                {
+                  "code": "2.5",
+                  "title": "Журнал реєстрації вступного інструктажу",
+                  "sectionId": "documentation",
+                  "confidence": "high",
+                  "note": null
+                },
+                {
+                  "code": "2.6",
+                  "title": "Журнал реєстрації інструктажів на робочому місці",
+                  "sectionId": "documentation",
+                  "confidence": "high",
+                  "note": null
+                },
+                {
+                  "code": "2.7",
+                  "title": "Програми навчання та інструктажів",
+                  "sectionId": "documentation",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "navchannia_op",
+              "label": "Навчання / перевірка знань з ОП",
+              "hitPages": [
+                1,
+                3,
+                6,
+                7
+              ],
+              "hitCount": 4,
+              "samples": [
+                "3\tнавчання, інструктажі, інформацію і перевірку знань з охорони праці;",
+                "6\tконтролює навчання керівних робітників, фахівців і робітників галузі, підвищення кваліфікації і перевірки знань з питання охорони праці;"
+              ],
+              "suggestedSituations": [
+                {
+                  "code": "1.4",
+                  "title": "Спеціальне навчання та перевірка знань з питань охорони праці",
+                  "sectionId": "preparation_admission",
+                  "confidence": "high",
+                  "note": null
+                },
+                {
+                  "code": "1.5",
+                  "title": "Навчання та перевірка знань посадових осіб з питань охорони праці",
+                  "sectionId": "preparation_admission",
+                  "confidence": "high",
+                  "note": null
+                },
+                {
+                  "code": "2.8",
+                  "title": "Протоколи (відомості) перевірки знань з питань ОП",
+                  "sectionId": "documentation",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "stazhuvannia",
+              "label": "Стажування / дублювання",
+              "hitPages": [
+                1
+              ],
+              "hitCount": 1,
+              "samples": [],
+              "suggestedSituations": [
+                {
+                  "code": "1.6",
+                  "title": "Стажування (дублювання) і допуск до самостійної роботи",
+                  "sectionId": "preparation_admission",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "zhurnal",
+              "label": "Журнали обліку",
+              "hitPages": [
+                3,
+                5
+              ],
+              "hitCount": 2,
+              "samples": [
+                "1\tнегайно – гірничий диспетчер від гірничого майстра (будь-якого робітника) при аварії із записом в журнал факту події (при аварії включає магнітофон);",
+                "9\tвсі свої дії записує на магнітофонну стрічку і заносить в оперативний журнал з вказівкою часу ухвалення рішення і видачі особі, відповідальній за виконання."
+              ],
+              "suggestedSituations": [
+                {
+                  "code": "2.5",
+                  "title": "Журнал реєстрації вступного інструктажу",
+                  "sectionId": "documentation",
+                  "confidence": "high",
+                  "note": null
+                },
+                {
+                  "code": "2.6",
+                  "title": "Журнал реєстрації інструктажів на робочому місці",
+                  "sectionId": "documentation",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "instruktsiia_op",
+              "label": "Інструкції з ОП",
+              "hitPages": [
+                3
+              ],
+              "hitCount": 1,
+              "samples": [],
+              "suggestedSituations": [
+                {
+                  "code": "2.3",
+                  "title": "Інструкції з охорони праці (за професіями / видами робіт)",
+                  "sectionId": "documentation",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "polozhennia",
+              "label": "Положення / СУОП",
+              "hitPages": [
+                1,
+                4,
+                5,
+                7
+              ],
+              "hitCount": 4,
+              "samples": [
+                "2\tслужбу охорони праці і дільниці ВТБ кваліфікованими кадрами відповідно до Положення про службу охорони праці і розрахунком її комплектації;"
+              ],
+              "suggestedSituations": [
+                {
+                  "code": "2.4",
+                  "title": "Положення з охорони праці (служба ОП, СУОП тощо)",
+                  "sectionId": "documentation",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "sluzhba_op",
+              "label": "Служба охорони праці",
+              "hitPages": [
+                3
+              ],
+              "hitCount": 1,
+              "samples": [],
+              "suggestedSituations": [
+                {
+                  "code": "3.6",
+                  "title": "Служба охорони праці на підприємстві",
+                  "sectionId": "rights_regulation",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "elektroustanovky",
+              "label": "Електроустановки",
+              "hitPages": [
+                1
+              ],
+              "hitCount": 1,
+              "samples": [
+                "Всі робітники, які обслуговують машини, механізми і електроустановки, зобов'язані мати право управління ними і мати відповідне посвідчення."
+              ],
+              "suggestedSituations": [
+                {
+                  "code": "6.4",
+                  "title": "Вантажопідіймальні роботи та крани / механізми",
+                  "sectionId": "hazardous_work",
+                  "confidence": "high",
+                  "note": null
+                },
+                {
+                  "code": "1.3",
+                  "title": "Присвоєння I групи з електробезпеки неелектротехнічному персоналу",
+                  "sectionId": "preparation_admission",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "ns",
+              "label": "Надзвичайні ситуації",
+              "hitPages": [
+                7
+              ],
+              "hitCount": 1,
+              "samples": [
+                "3\tстворює Департамент надзвичайної ситуацій і охорони праці Мінвуглепрому і визначає його структуру;"
+              ],
+              "suggestedSituations": [
+                {
+                  "code": "7.7",
+                  "title": "Моніторинг загроз надзвичайних ситуацій",
+                  "sectionId": "risk_monitoring",
+                  "confidence": "high",
+                  "note": null
+                },
+                {
+                  "code": "7.8",
+                  "title": "Прогнозування НС техногенного характеру",
+                  "sectionId": "risk_monitoring",
+                  "confidence": "high",
+                  "note": null
+                },
+                {
+                  "code": "8.1",
+                  "title": null,
+                  "sectionId": null,
+                  "confidence": "low",
+                  "note": "situation_row_missing_in_HIERARCHY"
+                }
+              ]
+            },
+            {
+              "id": "plla",
+              "label": "ПЛЛА",
+              "hitPages": [
+                1
+              ],
+              "hitCount": 1,
+              "samples": [
+                "Вказаною документацією регламентуються ведення при нормальній роботі шахти. При роботі в аварійному режимі основним документом є план ліквідації аварій (ПЛА) ."
+              ],
+              "suggestedSituations": [
+                {
+                  "code": "8.2",
+                  "title": null,
+                  "sectionId": null,
+                  "confidence": "low",
+                  "note": "situation_row_missing_in_HIERARCHY"
+                },
+                {
+                  "code": "11.2",
+                  "title": null,
+                  "sectionId": null,
+                  "confidence": "low",
+                  "note": "situation_row_missing_in_HIERARCHY"
+                }
+              ]
+            },
+            {
+              "id": "rozsliduvannia",
+              "label": "Розслідування НВ / аварій",
+              "hitPages": [
+                2,
+                5,
+                6,
+                8
+              ],
+              "hitCount": 4,
+              "samples": [
+                "9\tбере участь в розслідуванні смертельних нещасних випадків на виробництві і аварій 1-ої і 2-ої категорій.",
+                "11\tбере участь в розслідуванні групових і смертельних нещасних випадків;"
+              ],
+              "suggestedSituations": [
+                {
+                  "code": "9.1",
+                  "title": null,
+                  "sectionId": null,
+                  "confidence": "low",
+                  "note": "situation_row_missing_in_HIERARCHY"
+                },
+                {
+                  "code": "9.2",
+                  "title": null,
+                  "sectionId": null,
+                  "confidence": "low",
+                  "note": "situation_row_missing_in_HIERARCHY"
+                }
+              ]
+            },
+            {
+              "id": "pozhezha",
+              "label": "Пожежна безпека",
+              "hitPages": [
+                1,
+                2,
+                4,
+                5
+              ],
+              "hitCount": 4,
+              "samples": [
+                "5\tефективну боротьбу з газодинамічними явищами, обвалення-ми гірських порід, екзогенними і ендогенними пожежами;",
+                "1\tз'ясовує вид аварії (пожежа, вибух і ін.) у осіб, що повідомили його об аварії з включенням магнітофонного запису;"
+              ],
+              "suggestedSituations": [
+                {
+                  "code": "12.1",
+                  "title": null,
+                  "sectionId": null,
+                  "confidence": "low",
+                  "note": "situation_row_missing_in_HIERARCHY"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "anchors": [
+        {
+          "id": "instruktazh",
+          "label": "Інструктажі",
+          "hitPages": [
+            1,
+            2,
+            3
+          ],
+          "hitCount": 3,
+          "samples": [
+            "3\tнавчання, інструктажі, інформацію і перевірку знань з охорони праці;"
+          ],
+          "suggestedSituations": [
+            {
+              "code": "1.1",
+              "title": "Інструктажі з охорони праці (вступний, первинний, повторний, позаплановий, цільовий)",
+              "sectionId": "preparation_admission",
+              "confidence": "high",
+              "note": null
+            },
+            {
+              "code": "2.5",
+              "title": "Журнал реєстрації вступного інструктажу",
+              "sectionId": "documentation",
+              "confidence": "high",
+              "note": null
+            },
+            {
+              "code": "2.6",
+              "title": "Журнал реєстрації інструктажів на робочому місці",
+              "sectionId": "documentation",
+              "confidence": "high",
+              "note": null
+            },
+            {
+              "code": "2.7",
+              "title": "Програми навчання та інструктажів",
+              "sectionId": "documentation",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "navchannia_op",
+          "label": "Навчання / перевірка знань з ОП",
+          "hitPages": [
+            1,
+            3,
+            6,
+            7
+          ],
+          "hitCount": 4,
+          "samples": [
+            "3\tнавчання, інструктажі, інформацію і перевірку знань з охорони праці;",
+            "6\tконтролює навчання керівних робітників, фахівців і робітників галузі, підвищення кваліфікації і перевірки знань з питання охорони праці;"
+          ],
+          "suggestedSituations": [
+            {
+              "code": "1.4",
+              "title": "Спеціальне навчання та перевірка знань з питань охорони праці",
+              "sectionId": "preparation_admission",
+              "confidence": "high",
+              "note": null
+            },
+            {
+              "code": "1.5",
+              "title": "Навчання та перевірка знань посадових осіб з питань охорони праці",
+              "sectionId": "preparation_admission",
+              "confidence": "high",
+              "note": null
+            },
+            {
+              "code": "2.8",
+              "title": "Протоколи (відомості) перевірки знань з питань ОП",
+              "sectionId": "documentation",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "stazhuvannia",
+          "label": "Стажування / дублювання",
+          "hitPages": [
+            1
+          ],
+          "hitCount": 1,
+          "samples": [],
+          "suggestedSituations": [
+            {
+              "code": "1.6",
+              "title": "Стажування (дублювання) і допуск до самостійної роботи",
+              "sectionId": "preparation_admission",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "zhurnal",
+          "label": "Журнали обліку",
+          "hitPages": [
+            3,
+            5
+          ],
+          "hitCount": 2,
+          "samples": [
+            "1\tнегайно – гірничий диспетчер від гірничого майстра (будь-якого робітника) при аварії із записом в журнал факту події (при аварії включає магнітофон);",
+            "9\tвсі свої дії записує на магнітофонну стрічку і заносить в оперативний журнал з вказівкою часу ухвалення рішення і видачі особі, відповідальній за виконання."
+          ],
+          "suggestedSituations": [
+            {
+              "code": "2.5",
+              "title": "Журнал реєстрації вступного інструктажу",
+              "sectionId": "documentation",
+              "confidence": "high",
+              "note": null
+            },
+            {
+              "code": "2.6",
+              "title": "Журнал реєстрації інструктажів на робочому місці",
+              "sectionId": "documentation",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "instruktsiia_op",
+          "label": "Інструкції з ОП",
+          "hitPages": [
+            3
+          ],
+          "hitCount": 1,
+          "samples": [],
+          "suggestedSituations": [
+            {
+              "code": "2.3",
+              "title": "Інструкції з охорони праці (за професіями / видами робіт)",
+              "sectionId": "documentation",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "polozhennia",
+          "label": "Положення / СУОП",
+          "hitPages": [
+            1,
+            4,
+            5,
+            7
+          ],
+          "hitCount": 4,
+          "samples": [
+            "2\tслужбу охорони праці і дільниці ВТБ кваліфікованими кадрами відповідно до Положення про службу охорони праці і розрахунком її комплектації;"
+          ],
+          "suggestedSituations": [
+            {
+              "code": "2.4",
+              "title": "Положення з охорони праці (служба ОП, СУОП тощо)",
+              "sectionId": "documentation",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "sluzhba_op",
+          "label": "Служба охорони праці",
+          "hitPages": [
+            3
+          ],
+          "hitCount": 1,
+          "samples": [],
+          "suggestedSituations": [
+            {
+              "code": "3.6",
+              "title": "Служба охорони праці на підприємстві",
+              "sectionId": "rights_regulation",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "elektroustanovky",
+          "label": "Електроустановки",
+          "hitPages": [
+            1
+          ],
+          "hitCount": 1,
+          "samples": [
+            "Всі робітники, які обслуговують машини, механізми і електроустановки, зобов'язані мати право управління ними і мати відповідне посвідчення."
+          ],
+          "suggestedSituations": [
+            {
+              "code": "6.4",
+              "title": "Вантажопідіймальні роботи та крани / механізми",
+              "sectionId": "hazardous_work",
+              "confidence": "high",
+              "note": null
+            },
+            {
+              "code": "1.3",
+              "title": "Присвоєння I групи з електробезпеки неелектротехнічному персоналу",
+              "sectionId": "preparation_admission",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "ns",
+          "label": "Надзвичайні ситуації",
+          "hitPages": [
+            7
+          ],
+          "hitCount": 1,
+          "samples": [
+            "3\tстворює Департамент надзвичайної ситуацій і охорони праці Мінвуглепрому і визначає його структуру;"
+          ],
+          "suggestedSituations": [
+            {
+              "code": "7.7",
+              "title": "Моніторинг загроз надзвичайних ситуацій",
+              "sectionId": "risk_monitoring",
+              "confidence": "high",
+              "note": null
+            },
+            {
+              "code": "7.8",
+              "title": "Прогнозування НС техногенного характеру",
+              "sectionId": "risk_monitoring",
+              "confidence": "high",
+              "note": null
+            },
+            {
+              "code": "8.1",
+              "title": null,
+              "sectionId": null,
+              "confidence": "low",
+              "note": "situation_row_missing_in_HIERARCHY"
+            }
+          ]
+        },
+        {
+          "id": "plla",
+          "label": "ПЛЛА",
+          "hitPages": [
+            1
+          ],
+          "hitCount": 1,
+          "samples": [
+            "Вказаною документацією регламентуються ведення при нормальній роботі шахти. При роботі в аварійному режимі основним документом є план ліквідації аварій (ПЛА) ."
+          ],
+          "suggestedSituations": [
+            {
+              "code": "8.2",
+              "title": null,
+              "sectionId": null,
+              "confidence": "low",
+              "note": "situation_row_missing_in_HIERARCHY"
+            },
+            {
+              "code": "11.2",
+              "title": null,
+              "sectionId": null,
+              "confidence": "low",
+              "note": "situation_row_missing_in_HIERARCHY"
+            }
+          ]
+        },
+        {
+          "id": "rozsliduvannia",
+          "label": "Розслідування НВ / аварій",
+          "hitPages": [
+            2,
+            5,
+            6,
+            8
+          ],
+          "hitCount": 4,
+          "samples": [
+            "9\tбере участь в розслідуванні смертельних нещасних випадків на виробництві і аварій 1-ої і 2-ої категорій.",
+            "11\tбере участь в розслідуванні групових і смертельних нещасних випадків;"
+          ],
+          "suggestedSituations": [
+            {
+              "code": "9.1",
+              "title": null,
+              "sectionId": null,
+              "confidence": "low",
+              "note": "situation_row_missing_in_HIERARCHY"
+            },
+            {
+              "code": "9.2",
+              "title": null,
+              "sectionId": null,
+              "confidence": "low",
+              "note": "situation_row_missing_in_HIERARCHY"
+            }
+          ]
+        },
+        {
+          "id": "pozhezha",
+          "label": "Пожежна безпека",
+          "hitPages": [
+            1,
+            2,
+            4,
+            5
+          ],
+          "hitCount": 4,
+          "samples": [
+            "5\tефективну боротьбу з газодинамічними явищами, обвалення-ми гірських порід, екзогенними і ендогенними пожежами;",
+            "1\tз'ясовує вид аварії (пожежа, вибух і ін.) у осіб, що повідомили його об аварії з включенням магнітофонного запису;"
+          ],
+          "suggestedSituations": [
+            {
+              "code": "12.1",
+              "title": null,
+              "sectionId": null,
+              "confidence": "low",
+              "note": "situation_row_missing_in_HIERARCHY"
+            }
+          ]
+        }
+      ],
+      "suggestedSections": [
+        {
+          "sectionId": "documentation",
+          "title": "Документація та облік",
+          "score": 13,
+          "confidence": "high"
+        },
+        {
+          "sectionId": "preparation_admission",
+          "title": "Підготовка та допуск",
+          "score": 8,
+          "confidence": "high"
+        },
+        {
+          "sectionId": "hazardous_work",
+          "title": "Небезпечні роботи та устаткування",
+          "score": 3,
+          "confidence": "medium"
+        },
+        {
+          "sectionId": "working_conditions",
+          "title": "Умови праці та фактори",
+          "score": 2,
+          "confidence": "medium"
+        },
+        {
+          "sectionId": "risk_monitoring",
+          "title": "Ризики, моніторинг, прогнозування",
+          "score": 2,
+          "confidence": "medium"
+        },
+        {
+          "sectionId": "rights_regulation",
+          "title": "Права, обовʼязки, регулювання",
+          "score": 1,
+          "confidence": "low"
+        }
+      ],
+      "needsReview": false
+    },
+    {
+      "path": "9_Безпека праці та виробничих процесів/Лекція №4.docx",
+      "fileName": "Лекція №4.docx",
+      "ext": ".docx",
+      "sizeBytes": 797404,
+      "kind": "lecture",
+      "kindConfidence": "high",
+      "kindReasons": [
+        "filename"
+      ],
+      "extract": {
+        "format": ".docx",
+        "extractor": "python-docx",
+        "error": null
+      },
+      "signals": {
+        "npaMentions": 0,
+        "formMentions": 0,
+        "roleMentions": 0,
+        "algorithmMentions": 2,
+        "charCount": 16360,
+        "wordCount": 2156,
+        "pageCount": 2,
+        "emptyPages": 0
+      },
+      "themes": [
+        {
+          "num": "4",
+          "title": "Лекція 4",
+          "startPage": 1,
+          "endPage": 2,
+          "label": "Тема/лекція 4: Лекція 4",
+          "detection": "header_regex",
+          "pageCount": 2,
+          "wordCount": 2156,
+          "volume": "medium",
+          "anchors": [
+            {
+              "id": "osvitlennia",
+              "label": "Освітлення",
+              "hitPages": [
+                1
+              ],
+              "hitCount": 1,
+              "samples": [],
+              "suggestedSituations": [
+                {
+                  "code": "4.7",
+                  "title": "Освітлення робочих місць (природне та штучне)",
+                  "sectionId": "working_conditions",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "mikroklimat",
+              "label": "Мікроклімат",
+              "hitPages": [
+                1
+              ],
+              "hitCount": 1,
+              "samples": [],
+              "suggestedSituations": [
+                {
+                  "code": "4.4",
+                  "title": "Мікроклімат виробничих приміщень",
+                  "sectionId": "working_conditions",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "povitria",
+              "label": "Повітря робочої зони",
+              "hitPages": [
+                1,
+                2
+              ],
+              "hitCount": 2,
+              "samples": [
+                "Склад основних отруйних газів в діючих виробках шахт не повинен перевищувати гранично допустимих концентрацій (ГДК), приведених в таблиці 4.1.",
+                "Нормуються гранично допустимі концентрації (ГДК) вугільно-породного пилу залежно від змісту вільного діоксиду кремнію SіO2 (таблиця 2.2)."
+              ],
+              "suggestedSituations": [
+                {
+                  "code": "4.8",
+                  "title": "Шум на виробництві: нормування, контроль, захист",
+                  "sectionId": "working_conditions",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "pozhezha",
+              "label": "Пожежна безпека",
+              "hitPages": [
+                1,
+                2
+              ],
+              "hitCount": 2,
+              "samples": [
+                "На газових шахтах вимога до максимально допустимих концентрацій метану обумовлене запобіганню створенню вибухонебезпечних метаноповітряних сумішей."
+              ],
+              "suggestedSituations": [
+                {
+                  "code": "12.1",
+                  "title": null,
+                  "sectionId": null,
+                  "confidence": "low",
+                  "note": "situation_row_missing_in_HIERARCHY"
+                }
+              ]
+            },
+            {
+              "id": "ekolohiia",
+              "label": "Екологія / довкілля",
+              "hitPages": [
+                2
+              ],
+              "hitCount": 1,
+              "samples": [],
+              "suggestedSituations": [
+                {
+                  "code": "13.1",
+                  "title": null,
+                  "sectionId": null,
+                  "confidence": "low",
+                  "note": "situation_row_missing_in_HIERARCHY"
+                }
+              ]
+            }
+          ],
+          "suggestedSituations": [
+            {
+              "code": "4.8",
+              "title": "Шум на виробництві: нормування, контроль, захист",
+              "sectionId": "working_conditions",
+              "confidence": "high",
+              "note": null,
+              "score": 2
+            },
+            {
+              "code": "12.1",
+              "title": null,
+              "sectionId": null,
+              "confidence": "low",
+              "note": "situation_row_missing_in_HIERARCHY",
+              "score": 2
+            },
+            {
+              "code": "4.7",
+              "title": "Освітлення робочих місць (природне та штучне)",
+              "sectionId": "working_conditions",
+              "confidence": "high",
+              "note": null,
+              "score": 1
+            },
+            {
+              "code": "4.4",
+              "title": "Мікроклімат виробничих приміщень",
+              "sectionId": "working_conditions",
+              "confidence": "high",
+              "note": null,
+              "score": 1
+            },
+            {
+              "code": "13.1",
+              "title": null,
+              "sectionId": null,
+              "confidence": "low",
+              "note": "situation_row_missing_in_HIERARCHY",
+              "score": 1
+            }
+          ],
+          "needsReview": false
+        }
+      ],
+      "anchors": [
+        {
+          "id": "osvitlennia",
+          "label": "Освітлення",
+          "hitPages": [
+            1
+          ],
+          "hitCount": 1,
+          "samples": [],
+          "suggestedSituations": [
+            {
+              "code": "4.7",
+              "title": "Освітлення робочих місць (природне та штучне)",
+              "sectionId": "working_conditions",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "mikroklimat",
+          "label": "Мікроклімат",
+          "hitPages": [
+            1
+          ],
+          "hitCount": 1,
+          "samples": [],
+          "suggestedSituations": [
+            {
+              "code": "4.4",
+              "title": "Мікроклімат виробничих приміщень",
+              "sectionId": "working_conditions",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "povitria",
+          "label": "Повітря робочої зони",
+          "hitPages": [
+            1,
+            2
+          ],
+          "hitCount": 2,
+          "samples": [
+            "Склад основних отруйних газів в діючих виробках шахт не повинен перевищувати гранично допустимих концентрацій (ГДК), приведених в таблиці 4.1.",
+            "Нормуються гранично допустимі концентрації (ГДК) вугільно-породного пилу залежно від змісту вільного діоксиду кремнію SіO2 (таблиця 2.2)."
+          ],
+          "suggestedSituations": [
+            {
+              "code": "4.8",
+              "title": "Шум на виробництві: нормування, контроль, захист",
+              "sectionId": "working_conditions",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "pozhezha",
+          "label": "Пожежна безпека",
+          "hitPages": [
+            1,
+            2
+          ],
+          "hitCount": 2,
+          "samples": [
+            "На газових шахтах вимога до максимально допустимих концентрацій метану обумовлене запобіганню створенню вибухонебезпечних метаноповітряних сумішей."
+          ],
+          "suggestedSituations": [
+            {
+              "code": "12.1",
+              "title": null,
+              "sectionId": null,
+              "confidence": "low",
+              "note": "situation_row_missing_in_HIERARCHY"
+            }
+          ]
+        },
+        {
+          "id": "ekolohiia",
+          "label": "Екологія / довкілля",
+          "hitPages": [
+            2
+          ],
+          "hitCount": 1,
+          "samples": [],
+          "suggestedSituations": [
+            {
+              "code": "13.1",
+              "title": null,
+              "sectionId": null,
+              "confidence": "low",
+              "note": "situation_row_missing_in_HIERARCHY"
+            }
+          ]
+        }
+      ],
+      "suggestedSections": [
+        {
+          "sectionId": "working_conditions",
+          "title": "Умови праці та фактори",
+          "score": 5,
+          "confidence": "high"
+        },
+        {
+          "sectionId": "hazardous_work",
+          "title": "Небезпечні роботи та устаткування",
+          "score": 2,
+          "confidence": "medium"
+        }
+      ],
+      "needsReview": false
+    },
+    {
+      "path": "9_Безпека праці та виробничих процесів/Лекція №9 Тема  Протишумовий і вібраційний захист.docx",
+      "fileName": "Лекція №9 Тема  Протишумовий і вібраційний захист.docx",
+      "ext": ".docx",
+      "sizeBytes": 173724,
+      "kind": "lecture",
+      "kindConfidence": "high",
+      "kindReasons": [
+        "filename"
+      ],
+      "extract": {
+        "format": ".docx",
+        "extractor": "python-docx",
+        "error": null
+      },
+      "signals": {
+        "npaMentions": 0,
+        "formMentions": 0,
+        "roleMentions": 1,
+        "algorithmMentions": 1,
+        "charCount": 26146,
+        "wordCount": 3353,
+        "pageCount": 3,
+        "emptyPages": 0
+      },
+      "themes": [
+        {
+          "num": "?",
+          "title": "(без явного заголовка теми)",
+          "startPage": 1,
+          "endPage": 3,
+          "label": "Весь файл (тема не детектована)",
+          "detection": "fallback_whole_file",
+          "anchors": [
+            {
+              "id": "medogliad",
+              "label": "Медогляди",
+              "hitPages": [
+                2
+              ],
+              "hitCount": 1,
+              "samples": [],
+              "suggestedSituations": [
+                {
+                  "code": "1.2",
+                  "title": "Організація попередніх і періодичних медичних оглядів",
+                  "sectionId": "preparation_admission",
+                  "confidence": "high",
+                  "note": null
+                },
+                {
+                  "code": "2.9",
+                  "title": "Списки працівників на медогляди",
+                  "sectionId": "documentation",
+                  "confidence": "high",
+                  "note": null
+                },
+                {
+                  "code": "2.10",
+                  "title": "Направлення на медогляд і облік медичних висновків",
+                  "sectionId": "documentation",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "shum",
+              "label": "Шум",
+              "hitPages": [
+                1,
+                2
+              ],
+              "hitCount": 2,
+              "samples": [
+                "6. Забезпечення шумової і вібраційної безпеки на робітничих місцях",
+                "6.4. Профілактика шумової і вібраційної захворюваності"
+              ],
+              "suggestedSituations": [
+                {
+                  "code": "4.5",
+                  "title": "Повітря робочої зони: хімічні речовини та пил",
+                  "sectionId": "working_conditions",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "vibratsiia",
+              "label": "Вібрація",
+              "hitPages": [
+                1,
+                2
+              ],
+              "hitCount": 2,
+              "samples": [
+                "6. Забезпечення шумової і вібраційної безпеки на робітничих місцях",
+                "Параметри вібрації на робочому місці або в місцях контакту приймаються за наслідками вимірів на корпусах гірничошахтного устаткування."
+              ],
+              "suggestedSituations": [
+                {
+                  "code": "4.6",
+                  "title": "Вентиляція виробничих приміщень",
+                  "sectionId": "working_conditions",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "osvitlennia",
+              "label": "Освітлення",
+              "hitPages": [
+                2,
+                3
+              ],
+              "hitCount": 2,
+              "samples": [
+                "Забезпечення освітлення в гірничих виробках і на поверхневому комплексі"
+              ],
+              "suggestedSituations": [
+                {
+                  "code": "4.7",
+                  "title": "Освітлення робочих місць (природне та штучне)",
+                  "sectionId": "working_conditions",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "siz",
+              "label": "ЗІЗ",
+              "hitPages": [
+                2,
+                3
+              ],
+              "hitCount": 2,
+              "samples": [
+                "Для захисту органу слуху від шуму застосовуються засоби індивідуального захисту органу слуху (ЗІЗОС) по ГОСТ 12.4.051-87.",
+                "Засоби індивідуального захисту"
+              ],
+              "suggestedSituations": [
+                {
+                  "code": "5.1",
+                  "title": "Забезпечення працівників ЗІЗ: норми, видача, облік",
+                  "sectionId": "ppe_protection",
+                  "confidence": "high",
+                  "note": null
+                },
+                {
+                  "code": "5.2",
+                  "title": "Підбір ЗІЗ за шкідливим / небезпечним фактором",
+                  "sectionId": "ppe_protection",
+                  "confidence": "high",
+                  "note": null
+                },
+                {
+                  "code": "5.3",
+                  "title": "Захист голови (каски, шоломи)",
+                  "sectionId": "ppe_protection",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "vysota",
+              "label": "Роботи на висоті",
+              "hitPages": [
+                1
+              ],
+              "hitCount": 1,
+              "samples": [],
+              "suggestedSituations": [
+                {
+                  "code": "6.2",
+                  "title": "Наряд-допуск на роботи підвищеної небезпеки",
+                  "sectionId": "hazardous_work",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "vantazh",
+              "label": "Вантажопідіймальні",
+              "hitPages": [
+                3
+              ],
+              "hitCount": 1,
+              "samples": [],
+              "suggestedSituations": [
+                {
+                  "code": "6.3",
+                  "title": "Роботи на висоті",
+                  "sectionId": "hazardous_work",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "elektroustanovky",
+              "label": "Електроустановки",
+              "hitPages": [
+                3
+              ],
+              "hitCount": 1,
+              "samples": [],
+              "suggestedSituations": [
+                {
+                  "code": "6.4",
+                  "title": "Вантажопідіймальні роботи та крани / механізми",
+                  "sectionId": "hazardous_work",
+                  "confidence": "high",
+                  "note": null
+                },
+                {
+                  "code": "1.3",
+                  "title": "Присвоєння I групи з електробезпеки неелектротехнічному персоналу",
+                  "sectionId": "preparation_admission",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "pozhezha",
+              "label": "Пожежна безпека",
+              "hitPages": [
+                3
+              ],
+              "hitCount": 1,
+              "samples": [],
+              "suggestedSituations": [
+                {
+                  "code": "12.1",
+                  "title": null,
+                  "sectionId": null,
+                  "confidence": "low",
+                  "note": "situation_row_missing_in_HIERARCHY"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "anchors": [
+        {
+          "id": "medogliad",
+          "label": "Медогляди",
+          "hitPages": [
+            2
+          ],
+          "hitCount": 1,
+          "samples": [],
+          "suggestedSituations": [
+            {
+              "code": "1.2",
+              "title": "Організація попередніх і періодичних медичних оглядів",
+              "sectionId": "preparation_admission",
+              "confidence": "high",
+              "note": null
+            },
+            {
+              "code": "2.9",
+              "title": "Списки працівників на медогляди",
+              "sectionId": "documentation",
+              "confidence": "high",
+              "note": null
+            },
+            {
+              "code": "2.10",
+              "title": "Направлення на медогляд і облік медичних висновків",
+              "sectionId": "documentation",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "shum",
+          "label": "Шум",
+          "hitPages": [
+            1,
+            2
+          ],
+          "hitCount": 2,
+          "samples": [
+            "6. Забезпечення шумової і вібраційної безпеки на робітничих місцях",
+            "6.4. Профілактика шумової і вібраційної захворюваності"
+          ],
+          "suggestedSituations": [
+            {
+              "code": "4.5",
+              "title": "Повітря робочої зони: хімічні речовини та пил",
+              "sectionId": "working_conditions",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "vibratsiia",
+          "label": "Вібрація",
+          "hitPages": [
+            1,
+            2
+          ],
+          "hitCount": 2,
+          "samples": [
+            "6. Забезпечення шумової і вібраційної безпеки на робітничих місцях",
+            "Параметри вібрації на робочому місці або в місцях контакту приймаються за наслідками вимірів на корпусах гірничошахтного устаткування."
+          ],
+          "suggestedSituations": [
+            {
+              "code": "4.6",
+              "title": "Вентиляція виробничих приміщень",
+              "sectionId": "working_conditions",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "osvitlennia",
+          "label": "Освітлення",
+          "hitPages": [
+            2,
+            3
+          ],
+          "hitCount": 2,
+          "samples": [
+            "Забезпечення освітлення в гірничих виробках і на поверхневому комплексі"
+          ],
+          "suggestedSituations": [
+            {
+              "code": "4.7",
+              "title": "Освітлення робочих місць (природне та штучне)",
+              "sectionId": "working_conditions",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "siz",
+          "label": "ЗІЗ",
+          "hitPages": [
+            2,
+            3
+          ],
+          "hitCount": 2,
+          "samples": [
+            "Для захисту органу слуху від шуму застосовуються засоби індивідуального захисту органу слуху (ЗІЗОС) по ГОСТ 12.4.051-87.",
+            "Засоби індивідуального захисту"
+          ],
+          "suggestedSituations": [
+            {
+              "code": "5.1",
+              "title": "Забезпечення працівників ЗІЗ: норми, видача, облік",
+              "sectionId": "ppe_protection",
+              "confidence": "high",
+              "note": null
+            },
+            {
+              "code": "5.2",
+              "title": "Підбір ЗІЗ за шкідливим / небезпечним фактором",
+              "sectionId": "ppe_protection",
+              "confidence": "high",
+              "note": null
+            },
+            {
+              "code": "5.3",
+              "title": "Захист голови (каски, шоломи)",
+              "sectionId": "ppe_protection",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "vysota",
+          "label": "Роботи на висоті",
+          "hitPages": [
+            1
+          ],
+          "hitCount": 1,
+          "samples": [],
+          "suggestedSituations": [
+            {
+              "code": "6.2",
+              "title": "Наряд-допуск на роботи підвищеної небезпеки",
+              "sectionId": "hazardous_work",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "vantazh",
+          "label": "Вантажопідіймальні",
+          "hitPages": [
+            3
+          ],
+          "hitCount": 1,
+          "samples": [],
+          "suggestedSituations": [
+            {
+              "code": "6.3",
+              "title": "Роботи на висоті",
+              "sectionId": "hazardous_work",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "elektroustanovky",
+          "label": "Електроустановки",
+          "hitPages": [
+            3
+          ],
+          "hitCount": 1,
+          "samples": [],
+          "suggestedSituations": [
+            {
+              "code": "6.4",
+              "title": "Вантажопідіймальні роботи та крани / механізми",
+              "sectionId": "hazardous_work",
+              "confidence": "high",
+              "note": null
+            },
+            {
+              "code": "1.3",
+              "title": "Присвоєння I групи з електробезпеки неелектротехнічному персоналу",
+              "sectionId": "preparation_admission",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "pozhezha",
+          "label": "Пожежна безпека",
+          "hitPages": [
+            3
+          ],
+          "hitCount": 1,
+          "samples": [],
+          "suggestedSituations": [
+            {
+              "code": "12.1",
+              "title": null,
+              "sectionId": null,
+              "confidence": "low",
+              "note": "situation_row_missing_in_HIERARCHY"
+            }
+          ]
+        }
+      ],
+      "suggestedSections": [
+        {
+          "sectionId": "hazardous_work",
+          "title": "Небезпечні роботи та устаткування",
+          "score": 5,
+          "confidence": "high"
+        },
+        {
+          "sectionId": "working_conditions",
+          "title": "Умови праці та фактори",
+          "score": 5,
+          "confidence": "high"
+        },
+        {
+          "sectionId": "ppe_protection",
+          "title": "ЗІЗ та колективний захист",
+          "score": 3,
+          "confidence": "medium"
+        },
+        {
+          "sectionId": "preparation_admission",
+          "title": "Підготовка та допуск",
+          "score": 2,
+          "confidence": "medium"
+        },
+        {
+          "sectionId": "documentation",
+          "title": "Документація та облік",
+          "score": 2,
+          "confidence": "medium"
+        }
+      ],
+      "needsReview": false
+    },
+    {
+      "path": "9_Безпека праці та виробничих процесів/лекція№7.docx",
+      "fileName": "лекція№7.docx",
+      "ext": ".docx",
+      "sizeBytes": 23597,
+      "kind": "lecture",
+      "kindConfidence": "high",
+      "kindReasons": [
+        "filename"
+      ],
+      "extract": {
+        "format": ".docx",
+        "extractor": "python-docx",
+        "error": null
+      },
+      "signals": {
+        "npaMentions": 1,
+        "formMentions": 1,
+        "roleMentions": 2,
+        "algorithmMentions": 1,
+        "charCount": 18868,
+        "wordCount": 2431,
+        "pageCount": 2,
+        "emptyPages": 0
+      },
+      "themes": [
+        {
+          "num": "?",
+          "title": "(без явного заголовка теми)",
+          "startPage": 1,
+          "endPage": 2,
+          "label": "Весь файл (тема не детектована)",
+          "detection": "fallback_whole_file",
+          "anchors": [
+            {
+              "id": "osvitlennia",
+              "label": "Освітлення",
+              "hitPages": [
+                1
+              ],
+              "hitCount": 1,
+              "samples": [
+                "Забезпечення освітлення в гірничих виробках і на поверхневому комплексі"
+              ],
+              "suggestedSituations": [
+                {
+                  "code": "4.7",
+                  "title": "Освітлення робочих місць (природне та штучне)",
+                  "sectionId": "working_conditions",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "mikroklimat",
+              "label": "Мікроклімат",
+              "hitPages": [
+                2
+              ],
+              "hitCount": 1,
+              "samples": [],
+              "suggestedSituations": [
+                {
+                  "code": "4.4",
+                  "title": "Мікроклімат виробничих приміщень",
+                  "sectionId": "working_conditions",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "siz",
+              "label": "ЗІЗ",
+              "hitPages": [
+                1
+              ],
+              "hitCount": 1,
+              "samples": [
+                "Засоби індивідуального захисту"
+              ],
+              "suggestedSituations": [
+                {
+                  "code": "5.1",
+                  "title": "Забезпечення працівників ЗІЗ: норми, видача, облік",
+                  "sectionId": "ppe_protection",
+                  "confidence": "high",
+                  "note": null
+                },
+                {
+                  "code": "5.2",
+                  "title": "Підбір ЗІЗ за шкідливим / небезпечним фактором",
+                  "sectionId": "ppe_protection",
+                  "confidence": "high",
+                  "note": null
+                },
+                {
+                  "code": "5.3",
+                  "title": "Захист голови (каски, шоломи)",
+                  "sectionId": "ppe_protection",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "vantazh",
+              "label": "Вантажопідіймальні",
+              "hitPages": [
+                1,
+                2
+              ],
+              "hitCount": 2,
+              "samples": [],
+              "suggestedSituations": [
+                {
+                  "code": "6.3",
+                  "title": "Роботи на висоті",
+                  "sectionId": "hazardous_work",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "elektroustanovky",
+              "label": "Електроустановки",
+              "hitPages": [
+                1
+              ],
+              "hitCount": 1,
+              "samples": [],
+              "suggestedSituations": [
+                {
+                  "code": "6.4",
+                  "title": "Вантажопідіймальні роботи та крани / механізми",
+                  "sectionId": "hazardous_work",
+                  "confidence": "high",
+                  "note": null
+                },
+                {
+                  "code": "1.3",
+                  "title": "Присвоєння I групи з електробезпеки неелектротехнічному персоналу",
+                  "sectionId": "preparation_admission",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "persha_dopomoha",
+              "label": "Перша допомога",
+              "hitPages": [
+                1,
+                2
+              ],
+              "hitCount": 2,
+              "samples": [],
+              "suggestedSituations": [
+                {
+                  "code": "10.1",
+                  "title": null,
+                  "sectionId": null,
+                  "confidence": "low",
+                  "note": "situation_row_missing_in_HIERARCHY"
+                }
+              ]
+            },
+            {
+              "id": "pozhezha",
+              "label": "Пожежна безпека",
+              "hitPages": [
+                1
+              ],
+              "hitCount": 1,
+              "samples": [],
+              "suggestedSituations": [
+                {
+                  "code": "12.1",
+                  "title": null,
+                  "sectionId": null,
+                  "confidence": "low",
+                  "note": "situation_row_missing_in_HIERARCHY"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "anchors": [
+        {
+          "id": "osvitlennia",
+          "label": "Освітлення",
+          "hitPages": [
+            1
+          ],
+          "hitCount": 1,
+          "samples": [
+            "Забезпечення освітлення в гірничих виробках і на поверхневому комплексі"
+          ],
+          "suggestedSituations": [
+            {
+              "code": "4.7",
+              "title": "Освітлення робочих місць (природне та штучне)",
+              "sectionId": "working_conditions",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "mikroklimat",
+          "label": "Мікроклімат",
+          "hitPages": [
+            2
+          ],
+          "hitCount": 1,
+          "samples": [],
+          "suggestedSituations": [
+            {
+              "code": "4.4",
+              "title": "Мікроклімат виробничих приміщень",
+              "sectionId": "working_conditions",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "siz",
+          "label": "ЗІЗ",
+          "hitPages": [
+            1
+          ],
+          "hitCount": 1,
+          "samples": [
+            "Засоби індивідуального захисту"
+          ],
+          "suggestedSituations": [
+            {
+              "code": "5.1",
+              "title": "Забезпечення працівників ЗІЗ: норми, видача, облік",
+              "sectionId": "ppe_protection",
+              "confidence": "high",
+              "note": null
+            },
+            {
+              "code": "5.2",
+              "title": "Підбір ЗІЗ за шкідливим / небезпечним фактором",
+              "sectionId": "ppe_protection",
+              "confidence": "high",
+              "note": null
+            },
+            {
+              "code": "5.3",
+              "title": "Захист голови (каски, шоломи)",
+              "sectionId": "ppe_protection",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "vantazh",
+          "label": "Вантажопідіймальні",
+          "hitPages": [
+            1,
+            2
+          ],
+          "hitCount": 2,
+          "samples": [],
+          "suggestedSituations": [
+            {
+              "code": "6.3",
+              "title": "Роботи на висоті",
+              "sectionId": "hazardous_work",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "elektroustanovky",
+          "label": "Електроустановки",
+          "hitPages": [
+            1
+          ],
+          "hitCount": 1,
+          "samples": [],
+          "suggestedSituations": [
+            {
+              "code": "6.4",
+              "title": "Вантажопідіймальні роботи та крани / механізми",
+              "sectionId": "hazardous_work",
+              "confidence": "high",
+              "note": null
+            },
+            {
+              "code": "1.3",
+              "title": "Присвоєння I групи з електробезпеки неелектротехнічному персоналу",
+              "sectionId": "preparation_admission",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "persha_dopomoha",
+          "label": "Перша допомога",
+          "hitPages": [
+            1,
+            2
+          ],
+          "hitCount": 2,
+          "samples": [],
+          "suggestedSituations": [
+            {
+              "code": "10.1",
+              "title": null,
+              "sectionId": null,
+              "confidence": "low",
+              "note": "situation_row_missing_in_HIERARCHY"
+            }
+          ]
+        },
+        {
+          "id": "pozhezha",
+          "label": "Пожежна безпека",
+          "hitPages": [
+            1
+          ],
+          "hitCount": 1,
+          "samples": [],
+          "suggestedSituations": [
+            {
+              "code": "12.1",
+              "title": null,
+              "sectionId": null,
+              "confidence": "low",
+              "note": "situation_row_missing_in_HIERARCHY"
+            }
+          ]
+        }
+      ],
+      "suggestedSections": [
+        {
+          "sectionId": "hazardous_work",
+          "title": "Небезпечні роботи та устаткування",
+          "score": 4,
+          "confidence": "medium"
+        },
+        {
+          "sectionId": "working_conditions",
+          "title": "Умови праці та фактори",
+          "score": 4,
+          "confidence": "medium"
+        },
+        {
+          "sectionId": "ppe_protection",
+          "title": "ЗІЗ та колективний захист",
+          "score": 3,
+          "confidence": "medium"
+        },
+        {
+          "sectionId": "preparation_admission",
+          "title": "Підготовка та допуск",
+          "score": 1,
+          "confidence": "low"
+        }
+      ],
+      "needsReview": false
+    }
+  ]
+}

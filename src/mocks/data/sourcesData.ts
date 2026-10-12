@@ -1,0 +1,105 @@
+/**
+ * @fileoverview Демонстрационные источники нормативных требований для LEX.
+ * Все документы являются нейтральными демонстрационными образцами для тестирования интерфейса.
+ */
+
+import { SourceMeta } from '../../shared/types';
+
+/** Список из 6 нейтральных демонстрационных нормативных источников. */
+export const MOCK_SOURCES: SourceMeta[] = [
+  {
+    id: 'src-1',
+    title: 'Загальні принципи організації охорони праці та системи безпеки (Демо-стандарт)',
+    documentNumber: 'Стандарт безпеки № 101-ОТ',
+    sourceType: 'Стандарт',
+    publisher: 'Уповноважений комітет з охорони праці',
+    verificationDate: '15.01.2026',
+    officialUrl: 'https://example.org/standards/101-ot',
+    isArchived: false,
+  },
+  {
+    id: 'src-2',
+    title: 'Регламент навчання та перевірки знань з безпеки виробничих процесів',
+    documentNumber: 'Регламент безпеки № 202-ОБ',
+    sourceType: 'Регламент',
+    publisher: 'Рада з промислової безпеки',
+    verificationDate: '10.02.2026',
+    officialUrl: 'https://example.org/regulations/202-ob',
+    isArchived: false,
+  },
+  {
+    id: 'src-3',
+    title: 'Правила забезпечення безпеки під час виконання робіт на висоті',
+    documentNumber: 'Правила безпеки № 303-ВК',
+    sourceType: 'Правила',
+    publisher: 'Комітет з альпіністських і висотних робіт',
+    verificationDate: '20.12.2025',
+    officialUrl: 'https://example.org/rules/303-vk',
+    isArchived: false,
+  },
+  {
+    id: 'src-4',
+    title: 'Типові норми забезпечення працівників засобами індивідуального захисту',
+    documentNumber: 'Норматив ЗІЗ № 404-ЗЩ',
+    sourceType: 'Норматив',
+    publisher: 'Департамент виробничого контролю',
+    verificationDate: '01.02.2026',
+    officialUrl: 'https://example.org/standards/404-zsh',
+    isArchived: false,
+  },
+  {
+    id: 'src-5',
+    title: 'Порядок проведення обов\'язкових медоглядів і медичного огляду',
+    documentNumber: 'Регламент медоглядів № 505-МД',
+    sourceType: 'Регламент',
+    publisher: 'Служба охорони здоров\'я працівників',
+    verificationDate: '05.11.2025',
+    officialUrl: 'https://example.org/regulations/505-md',
+    isArchived: false,
+  },
+  {
+    id: 'src-6',
+    title: 'Методичні рекомендації з вибору та застосування засобів захисту органів дихання',
+    documentNumber: 'Методичні вказівки № 606-МУ',
+    sourceType: 'Методичні рекомендації',
+    publisher: 'Інститут гігієни та безпеки праці',
+    verificationDate: '12.01.2026',
+    isArchived: false,
+  },
+  {
+    id: 'src-lec-bezpeka-obiektiv',
+    title: 'Архівна лекція «Безпека об’єктів та територій» (тема 2: НС)',
+    documentNumber: 'Лекція 2 / кафедра безпеки праці та охорони довкілля',
+    sourceType: 'Методичні рекомендації',
+    publisher: 'Навчальний архів (не офіційний НПА)',
+    verificationDate: '09.08.2026',
+    isArchived: true,
+  },
+  {
+    id: 'src-lec-bezpeka-pratsi-1',
+    title: 'Архівна лекція «Безпека праці та виробничих процесів» (ч.1)',
+    documentNumber: 'Лекція 12 / електробезпека та суміжні теми',
+    sourceType: 'Методичні рекомендації',
+    publisher: 'Навчальний архів (не офіційний НПА)',
+    verificationDate: '09.08.2026',
+    isArchived: true,
+  },
+  {
+    id: 'src-lec-bezpeka-pratsi-2',
+    title: 'Архівна збірка «Безпека праці та виробничих процесів» (ч.2)',
+    documentNumber: 'ДБН/Закон/НПАОП / навчальний архів',
+    sourceType: 'Методичні рекомендації',
+    publisher: 'Навчальний архів (не офіційний НПА)',
+    verificationDate: '09.08.2026',
+    isArchived: true,
+  },
+  {
+    id: 'src-lec-dokumentatsiia-tema-6',
+    title: 'Архівна лекція «Ведення документації та навчання з охорони праці» (тема 6: Інструктажі)',
+    documentNumber: 'Предмет 12 / лекція 6.pptx',
+    sourceType: 'Методичні рекомендації',
+    publisher: 'Навчальний архів (не офіційний НПА)',
+    verificationDate: '05.09.2026',
+    isArchived: true,
+  },
+];

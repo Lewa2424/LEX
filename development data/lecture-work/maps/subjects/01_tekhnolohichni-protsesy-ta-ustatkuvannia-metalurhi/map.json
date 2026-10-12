@@ -1,0 +1,2016 @@
+{
+  "generatedAt": "2026-09-04T18:47:36.060323+00:00",
+  "schemaVersion": 1,
+  "summarySource": "heuristic",
+  "subject": {
+    "num": 1,
+    "title": "Технологічні процеси та устаткування металургійних підприємств",
+    "id": "01_tekhnolohichni-protsesy-ta-ustatkuvannia-metalurhi",
+    "folderName": "1_Технологічні процеси та устаткування металургійних підприємств"
+  },
+  "stats": {
+    "files": 32,
+    "byKind": {
+      "lecture": 4,
+      "duplicate_suspect": 5,
+      "practice": 2,
+      "lecture_candidate": 21
+    },
+    "totalWords": 147399,
+    "extractErrors": 0
+  },
+  "suggestedSections": [
+    {
+      "sectionId": "hazardous_work",
+      "title": "Небезпечні роботи та устаткування",
+      "score": 67,
+      "confidence": "high"
+    },
+    {
+      "sectionId": "documentation",
+      "title": "Документація та облік",
+      "score": 4,
+      "confidence": "low"
+    },
+    {
+      "sectionId": "working_conditions",
+      "title": "Умови праці та фактори",
+      "score": 1,
+      "confidence": "low"
+    }
+  ],
+  "files": [
+    {
+      "path": "1_Технологічні процеси та устаткування металургійних підприємств/Конспект лекці до теми 3.pdf",
+      "fileName": "Конспект лекці до теми 3.pdf",
+      "ext": ".pdf",
+      "sizeBytes": 1017243,
+      "kind": "lecture",
+      "kindConfidence": "high",
+      "kindReasons": [
+        "filename"
+      ],
+      "extract": {
+        "format": ".pdf",
+        "extractor": "pymupdf",
+        "error": null
+      },
+      "signals": {
+        "npaMentions": 0,
+        "formMentions": 1,
+        "roleMentions": 0,
+        "algorithmMentions": 0,
+        "charCount": 64431,
+        "wordCount": 9111,
+        "pageCount": 27,
+        "emptyPages": 0
+      },
+      "themes": [
+        {
+          "num": "?",
+          "title": "(без явного заголовка теми)",
+          "startPage": 1,
+          "endPage": 27,
+          "label": "Весь файл (тема не детектована)",
+          "detection": "fallback_whole_file",
+          "anchors": [
+            {
+              "id": "osvitlennia",
+              "label": "Освітлення",
+              "hitPages": [
+                9
+              ],
+              "hitCount": 1,
+              "samples": [
+                "повинен бути добре освітлений, що забезпечується світимістю факела по-"
+              ],
+              "suggestedSituations": [
+                {
+                  "code": "4.7",
+                  "title": "Освітлення робочих місць (природне та штучне)",
+                  "sectionId": "working_conditions",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "vantazh",
+              "label": "Вантажопідіймальні",
+              "hitPages": [
+                4
+              ],
+              "hitCount": 1,
+              "samples": [
+                "горловину завантажувальними машинами або кранами, які перекидають лотки"
+              ],
+              "suggestedSituations": [
+                {
+                  "code": "6.3",
+                  "title": "Роботи на висоті",
+                  "sectionId": "hazardous_work",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "plla",
+              "label": "ПЛЛА",
+              "hitPages": [
+                3,
+                14,
+                18,
+                19
+              ],
+              "hitCount": 4,
+              "samples": [
+                "зношування робочого шару футерівки і досягти її стійкості в кілька тисяч пла-",
+                "новидів плавки: плавка з повним окисленням (плавка на “свіжій” шихті), пла-"
+              ],
+              "suggestedSituations": [
+                {
+                  "code": "8.2",
+                  "title": null,
+                  "sectionId": null,
+                  "confidence": "low",
+                  "note": "situation_row_missing_in_HIERARCHY"
+                },
+                {
+                  "code": "11.2",
+                  "title": null,
+                  "sectionId": null,
+                  "confidence": "low",
+                  "note": "situation_row_missing_in_HIERARCHY"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "anchors": [
+        {
+          "id": "osvitlennia",
+          "label": "Освітлення",
+          "hitPages": [
+            9
+          ],
+          "hitCount": 1,
+          "samples": [
+            "повинен бути добре освітлений, що забезпечується світимістю факела по-"
+          ],
+          "suggestedSituations": [
+            {
+              "code": "4.7",
+              "title": "Освітлення робочих місць (природне та штучне)",
+              "sectionId": "working_conditions",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "vantazh",
+          "label": "Вантажопідіймальні",
+          "hitPages": [
+            4
+          ],
+          "hitCount": 1,
+          "samples": [
+            "горловину завантажувальними машинами або кранами, які перекидають лотки"
+          ],
+          "suggestedSituations": [
+            {
+              "code": "6.3",
+              "title": "Роботи на висоті",
+              "sectionId": "hazardous_work",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "plla",
+          "label": "ПЛЛА",
+          "hitPages": [
+            3,
+            14,
+            18,
+            19
+          ],
+          "hitCount": 4,
+          "samples": [
+            "зношування робочого шару футерівки і досягти її стійкості в кілька тисяч пла-",
+            "новидів плавки: плавка з повним окисленням (плавка на “свіжій” шихті), пла-"
+          ],
+          "suggestedSituations": [
+            {
+              "code": "8.2",
+              "title": null,
+              "sectionId": null,
+              "confidence": "low",
+              "note": "situation_row_missing_in_HIERARCHY"
+            },
+            {
+              "code": "11.2",
+              "title": null,
+              "sectionId": null,
+              "confidence": "low",
+              "note": "situation_row_missing_in_HIERARCHY"
+            }
+          ]
+        }
+      ],
+      "suggestedSections": [
+        {
+          "sectionId": "hazardous_work",
+          "title": "Небезпечні роботи та устаткування",
+          "score": 3,
+          "confidence": "medium"
+        },
+        {
+          "sectionId": "working_conditions",
+          "title": "Умови праці та фактори",
+          "score": 1,
+          "confidence": "low"
+        }
+      ],
+      "needsReview": false
+    },
+    {
+      "path": "1_Технологічні процеси та устаткування металургійних підприємств/Конспект лекцій до тем 1-2 (1).pdf",
+      "fileName": "Конспект лекцій до тем 1-2 (1).pdf",
+      "ext": ".pdf",
+      "sizeBytes": 1002040,
+      "kind": "duplicate_suspect",
+      "kindConfidence": "medium",
+      "kindReasons": [
+        "numbered_copy"
+      ],
+      "extract": {
+        "format": ".pdf",
+        "extractor": "pymupdf",
+        "error": null
+      },
+      "signals": {
+        "npaMentions": 0,
+        "formMentions": 0,
+        "roleMentions": 0,
+        "algorithmMentions": 1,
+        "charCount": 43850,
+        "wordCount": 6194,
+        "pageCount": 17,
+        "emptyPages": 0
+      },
+      "themes": [
+        {
+          "num": "3",
+          "title": "ОСНОВИ МЕТАЛУРГІЙНОГО ВИРОБНИЦТВА",
+          "startPage": 1,
+          "endPage": 17,
+          "label": "Тема/лекція 3: ОСНОВИ МЕТАЛУРГІЙНОГО ВИРОБНИЦТВА",
+          "detection": "header_regex",
+          "pageCount": 17,
+          "wordCount": 6194,
+          "volume": "high",
+          "anchors": [],
+          "suggestedSituations": [],
+          "needsReview": true
+        }
+      ],
+      "anchors": [],
+      "suggestedSections": [
+        {
+          "sectionId": "hazardous_work",
+          "title": "Небезпечні роботи та устаткування",
+          "score": 2,
+          "confidence": "medium"
+        }
+      ],
+      "needsReview": true
+    },
+    {
+      "path": "1_Технологічні процеси та устаткування металургійних підприємств/Конспект лекцій до тем 1-2.pdf",
+      "fileName": "Конспект лекцій до тем 1-2.pdf",
+      "ext": ".pdf",
+      "sizeBytes": 1002040,
+      "kind": "lecture",
+      "kindConfidence": "high",
+      "kindReasons": [
+        "filename"
+      ],
+      "extract": {
+        "format": ".pdf",
+        "extractor": "pymupdf",
+        "error": null
+      },
+      "signals": {
+        "npaMentions": 0,
+        "formMentions": 0,
+        "roleMentions": 0,
+        "algorithmMentions": 1,
+        "charCount": 43850,
+        "wordCount": 6194,
+        "pageCount": 17,
+        "emptyPages": 0
+      },
+      "themes": [
+        {
+          "num": "3",
+          "title": "ОСНОВИ МЕТАЛУРГІЙНОГО ВИРОБНИЦТВА",
+          "startPage": 1,
+          "endPage": 17,
+          "label": "Тема/лекція 3: ОСНОВИ МЕТАЛУРГІЙНОГО ВИРОБНИЦТВА",
+          "detection": "header_regex",
+          "pageCount": 17,
+          "wordCount": 6194,
+          "volume": "high",
+          "anchors": [],
+          "suggestedSituations": [],
+          "needsReview": true
+        }
+      ],
+      "anchors": [],
+      "suggestedSections": [
+        {
+          "sectionId": "hazardous_work",
+          "title": "Небезпечні роботи та устаткування",
+          "score": 2,
+          "confidence": "medium"
+        }
+      ],
+      "needsReview": false
+    },
+    {
+      "path": "1_Технологічні процеси та устаткування металургійних підприємств/Конспект лекцій до тем 4-5 (1).pdf",
+      "fileName": "Конспект лекцій до тем 4-5 (1).pdf",
+      "ext": ".pdf",
+      "sizeBytes": 1009704,
+      "kind": "duplicate_suspect",
+      "kindConfidence": "medium",
+      "kindReasons": [
+        "numbered_copy"
+      ],
+      "extract": {
+        "format": ".pdf",
+        "extractor": "pymupdf",
+        "error": null
+      },
+      "signals": {
+        "npaMentions": 0,
+        "formMentions": 0,
+        "roleMentions": 0,
+        "algorithmMentions": 2,
+        "charCount": 84446,
+        "wordCount": 11827,
+        "pageCount": 20,
+        "emptyPages": 0
+      },
+      "themes": [
+        {
+          "num": "?",
+          "title": "(без явного заголовка теми)",
+          "startPage": 1,
+          "endPage": 20,
+          "label": "Весь файл (тема не детектована)",
+          "detection": "fallback_whole_file",
+          "anchors": []
+        }
+      ],
+      "anchors": [],
+      "suggestedSections": [
+        {
+          "sectionId": "hazardous_work",
+          "title": "Небезпечні роботи та устаткування",
+          "score": 2,
+          "confidence": "medium"
+        }
+      ],
+      "needsReview": true
+    },
+    {
+      "path": "1_Технологічні процеси та устаткування металургійних підприємств/Конспект лекцій до тем 4-5.pdf",
+      "fileName": "Конспект лекцій до тем 4-5.pdf",
+      "ext": ".pdf",
+      "sizeBytes": 1009704,
+      "kind": "lecture",
+      "kindConfidence": "high",
+      "kindReasons": [
+        "filename"
+      ],
+      "extract": {
+        "format": ".pdf",
+        "extractor": "pymupdf",
+        "error": null
+      },
+      "signals": {
+        "npaMentions": 0,
+        "formMentions": 0,
+        "roleMentions": 0,
+        "algorithmMentions": 2,
+        "charCount": 84446,
+        "wordCount": 11827,
+        "pageCount": 20,
+        "emptyPages": 0
+      },
+      "themes": [
+        {
+          "num": "?",
+          "title": "(без явного заголовка теми)",
+          "startPage": 1,
+          "endPage": 20,
+          "label": "Весь файл (тема не детектована)",
+          "detection": "fallback_whole_file",
+          "anchors": []
+        }
+      ],
+      "anchors": [],
+      "suggestedSections": [
+        {
+          "sectionId": "hazardous_work",
+          "title": "Небезпечні роботи та устаткування",
+          "score": 2,
+          "confidence": "medium"
+        }
+      ],
+      "needsReview": false
+    },
+    {
+      "path": "1_Технологічні процеси та устаткування металургійних підприємств/Конспект лекцій до теми 6.pdf",
+      "fileName": "Конспект лекцій до теми 6.pdf",
+      "ext": ".pdf",
+      "sizeBytes": 338864,
+      "kind": "lecture",
+      "kindConfidence": "high",
+      "kindReasons": [
+        "filename"
+      ],
+      "extract": {
+        "format": ".pdf",
+        "extractor": "pymupdf",
+        "error": null
+      },
+      "signals": {
+        "npaMentions": 0,
+        "formMentions": 6,
+        "roleMentions": 0,
+        "algorithmMentions": 0,
+        "charCount": 35507,
+        "wordCount": 4560,
+        "pageCount": 15,
+        "emptyPages": 0
+      },
+      "themes": [
+        {
+          "num": "?",
+          "title": "(без явного заголовка теми)",
+          "startPage": 1,
+          "endPage": 15,
+          "label": "Весь файл (тема не детектована)",
+          "detection": "fallback_whole_file",
+          "anchors": []
+        }
+      ],
+      "anchors": [],
+      "suggestedSections": [
+        {
+          "sectionId": "hazardous_work",
+          "title": "Небезпечні роботи та устаткування",
+          "score": 2,
+          "confidence": "medium"
+        }
+      ],
+      "needsReview": false
+    },
+    {
+      "path": "1_Технологічні процеси та устаткування металургійних підприємств/Методичні вказівки до лабораторних робіт з дисципліни ТПУМП (1).pdf",
+      "fileName": "Методичні вказівки до лабораторних робіт з дисципліни ТПУМП (1).pdf",
+      "ext": ".pdf",
+      "sizeBytes": 1350595,
+      "kind": "duplicate_suspect",
+      "kindConfidence": "medium",
+      "kindReasons": [
+        "numbered_copy"
+      ],
+      "extract": {
+        "format": ".pdf",
+        "extractor": "pymupdf",
+        "error": null
+      },
+      "signals": {
+        "npaMentions": 0,
+        "formMentions": 0,
+        "roleMentions": 0,
+        "algorithmMentions": 8,
+        "charCount": 20387,
+        "wordCount": 2825,
+        "pageCount": 19,
+        "emptyPages": 0
+      },
+      "themes": [
+        {
+          "num": "?",
+          "title": "(без явного заголовка теми)",
+          "startPage": 1,
+          "endPage": 19,
+          "label": "Весь файл (тема не детектована)",
+          "detection": "fallback_whole_file",
+          "anchors": []
+        }
+      ],
+      "anchors": [],
+      "suggestedSections": [
+        {
+          "sectionId": "hazardous_work",
+          "title": "Небезпечні роботи та устаткування",
+          "score": 2,
+          "confidence": "medium"
+        }
+      ],
+      "needsReview": true
+    },
+    {
+      "path": "1_Технологічні процеси та устаткування металургійних підприємств/Методичні вказівки до лабораторних робіт з дисципліни ТПУМП (2).pdf",
+      "fileName": "Методичні вказівки до лабораторних робіт з дисципліни ТПУМП (2).pdf",
+      "ext": ".pdf",
+      "sizeBytes": 1350595,
+      "kind": "duplicate_suspect",
+      "kindConfidence": "medium",
+      "kindReasons": [
+        "numbered_copy"
+      ],
+      "extract": {
+        "format": ".pdf",
+        "extractor": "pymupdf",
+        "error": null
+      },
+      "signals": {
+        "npaMentions": 0,
+        "formMentions": 0,
+        "roleMentions": 0,
+        "algorithmMentions": 8,
+        "charCount": 20387,
+        "wordCount": 2825,
+        "pageCount": 19,
+        "emptyPages": 0
+      },
+      "themes": [
+        {
+          "num": "?",
+          "title": "(без явного заголовка теми)",
+          "startPage": 1,
+          "endPage": 19,
+          "label": "Весь файл (тема не детектована)",
+          "detection": "fallback_whole_file",
+          "anchors": []
+        }
+      ],
+      "anchors": [],
+      "suggestedSections": [
+        {
+          "sectionId": "hazardous_work",
+          "title": "Небезпечні роботи та устаткування",
+          "score": 2,
+          "confidence": "medium"
+        }
+      ],
+      "needsReview": true
+    },
+    {
+      "path": "1_Технологічні процеси та устаткування металургійних підприємств/Методичні вказівки до лабораторних робіт з дисципліни ТПУМП.pdf",
+      "fileName": "Методичні вказівки до лабораторних робіт з дисципліни ТПУМП.pdf",
+      "ext": ".pdf",
+      "sizeBytes": 1350595,
+      "kind": "practice",
+      "kindConfidence": "high",
+      "kindReasons": [
+        "filename"
+      ],
+      "extract": {
+        "format": ".pdf",
+        "extractor": "pymupdf",
+        "error": null
+      },
+      "signals": {
+        "npaMentions": 0,
+        "formMentions": 0,
+        "roleMentions": 0,
+        "algorithmMentions": 8,
+        "charCount": 20387,
+        "wordCount": 2825,
+        "pageCount": 19,
+        "emptyPages": 0
+      },
+      "themes": [
+        {
+          "num": "?",
+          "title": "(без явного заголовка теми)",
+          "startPage": 1,
+          "endPage": 19,
+          "label": "Весь файл (тема не детектована)",
+          "detection": "fallback_whole_file",
+          "anchors": []
+        }
+      ],
+      "anchors": [],
+      "suggestedSections": [
+        {
+          "sectionId": "hazardous_work",
+          "title": "Небезпечні роботи та устаткування",
+          "score": 2,
+          "confidence": "medium"
+        }
+      ],
+      "needsReview": false
+    },
+    {
+      "path": "1_Технологічні процеси та устаткування металургійних підприємств/Методичні вказівки до практичних робіт ТПУМП (1).pdf",
+      "fileName": "Методичні вказівки до практичних робіт ТПУМП (1).pdf",
+      "ext": ".pdf",
+      "sizeBytes": 2510288,
+      "kind": "duplicate_suspect",
+      "kindConfidence": "medium",
+      "kindReasons": [
+        "numbered_copy"
+      ],
+      "extract": {
+        "format": ".pdf",
+        "extractor": "pymupdf",
+        "error": null
+      },
+      "signals": {
+        "npaMentions": 0,
+        "formMentions": 1,
+        "roleMentions": 1,
+        "algorithmMentions": 7,
+        "charCount": 235442,
+        "wordCount": 40190,
+        "pageCount": 147,
+        "emptyPages": 0
+      },
+      "themes": [
+        {
+          "num": "1",
+          "title": "Розділ 1",
+          "startPage": 128,
+          "endPage": 147,
+          "label": "Тема/лекція 1: Розділ 1",
+          "detection": "header_regex",
+          "pageCount": 20,
+          "wordCount": 6624,
+          "volume": "high",
+          "anchors": [
+            {
+              "id": "ekolohiia",
+              "label": "Екологія / довкілля",
+              "hitPages": [
+                147
+              ],
+              "hitCount": 1,
+              "samples": [
+                "металу, конструкція агрегатів, рециркуляція матеріалів і екологія / О.Г."
+              ],
+              "suggestedSituations": [
+                {
+                  "code": "13.1",
+                  "title": null,
+                  "sectionId": null,
+                  "confidence": "low",
+                  "note": "situation_row_missing_in_HIERARCHY"
+                }
+              ]
+            }
+          ],
+          "suggestedSituations": [
+            {
+              "code": "13.1",
+              "title": null,
+              "sectionId": null,
+              "confidence": "low",
+              "note": "situation_row_missing_in_HIERARCHY",
+              "score": 1
+            }
+          ],
+          "needsReview": true
+        }
+      ],
+      "anchors": [
+        {
+          "id": "zhurnal",
+          "label": "Журнали обліку",
+          "hitPages": [
+            6
+          ],
+          "hitCount": 1,
+          "samples": [],
+          "suggestedSituations": [
+            {
+              "code": "2.5",
+              "title": "Журнал реєстрації вступного інструктажу",
+              "sectionId": "documentation",
+              "confidence": "high",
+              "note": null
+            },
+            {
+              "code": "2.6",
+              "title": "Журнал реєстрації інструктажів на робочому місці",
+              "sectionId": "documentation",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "vysota",
+          "label": "Роботи на висоті",
+          "hitPages": [
+            57,
+            58
+          ],
+          "hitCount": 2,
+          "samples": [
+            "вихідним діаметром 3 см, що розташовано вертикально над ванною на висоті",
+            "Лаваля з вихідним діаметром 2,5 см, яке розташоване вертикально на висоті"
+          ],
+          "suggestedSituations": [
+            {
+              "code": "6.2",
+              "title": "Наряд-допуск на роботи підвищеної небезпеки",
+              "sectionId": "hazardous_work",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "ekolohiia",
+          "label": "Екологія / довкілля",
+          "hitPages": [
+            147
+          ],
+          "hitCount": 1,
+          "samples": [
+            "металу, конструкція агрегатів, рециркуляція матеріалів і екологія / О.Г."
+          ],
+          "suggestedSituations": [
+            {
+              "code": "13.1",
+              "title": null,
+              "sectionId": null,
+              "confidence": "low",
+              "note": "situation_row_missing_in_HIERARCHY"
+            }
+          ]
+        }
+      ],
+      "suggestedSections": [
+        {
+          "sectionId": "hazardous_work",
+          "title": "Небезпечні роботи та устаткування",
+          "score": 3,
+          "confidence": "medium"
+        },
+        {
+          "sectionId": "documentation",
+          "title": "Документація та облік",
+          "score": 2,
+          "confidence": "medium"
+        }
+      ],
+      "needsReview": true
+    },
+    {
+      "path": "1_Технологічні процеси та устаткування металургійних підприємств/Методичні вказівки до практичних робіт ТПУМП.pdf",
+      "fileName": "Методичні вказівки до практичних робіт ТПУМП.pdf",
+      "ext": ".pdf",
+      "sizeBytes": 2510288,
+      "kind": "practice",
+      "kindConfidence": "high",
+      "kindReasons": [
+        "filename"
+      ],
+      "extract": {
+        "format": ".pdf",
+        "extractor": "pymupdf",
+        "error": null
+      },
+      "signals": {
+        "npaMentions": 0,
+        "formMentions": 1,
+        "roleMentions": 1,
+        "algorithmMentions": 7,
+        "charCount": 235442,
+        "wordCount": 40190,
+        "pageCount": 147,
+        "emptyPages": 0
+      },
+      "themes": [
+        {
+          "num": "1",
+          "title": "Розділ 1",
+          "startPage": 128,
+          "endPage": 147,
+          "label": "Тема/лекція 1: Розділ 1",
+          "detection": "header_regex",
+          "pageCount": 20,
+          "wordCount": 6624,
+          "volume": "high",
+          "anchors": [
+            {
+              "id": "ekolohiia",
+              "label": "Екологія / довкілля",
+              "hitPages": [
+                147
+              ],
+              "hitCount": 1,
+              "samples": [
+                "металу, конструкція агрегатів, рециркуляція матеріалів і екологія / О.Г."
+              ],
+              "suggestedSituations": [
+                {
+                  "code": "13.1",
+                  "title": null,
+                  "sectionId": null,
+                  "confidence": "low",
+                  "note": "situation_row_missing_in_HIERARCHY"
+                }
+              ]
+            }
+          ],
+          "suggestedSituations": [
+            {
+              "code": "13.1",
+              "title": null,
+              "sectionId": null,
+              "confidence": "low",
+              "note": "situation_row_missing_in_HIERARCHY",
+              "score": 1
+            }
+          ],
+          "needsReview": true
+        }
+      ],
+      "anchors": [
+        {
+          "id": "zhurnal",
+          "label": "Журнали обліку",
+          "hitPages": [
+            6
+          ],
+          "hitCount": 1,
+          "samples": [],
+          "suggestedSituations": [
+            {
+              "code": "2.5",
+              "title": "Журнал реєстрації вступного інструктажу",
+              "sectionId": "documentation",
+              "confidence": "high",
+              "note": null
+            },
+            {
+              "code": "2.6",
+              "title": "Журнал реєстрації інструктажів на робочому місці",
+              "sectionId": "documentation",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "vysota",
+          "label": "Роботи на висоті",
+          "hitPages": [
+            57,
+            58
+          ],
+          "hitCount": 2,
+          "samples": [
+            "вихідним діаметром 3 см, що розташовано вертикально над ванною на висоті",
+            "Лаваля з вихідним діаметром 2,5 см, яке розташоване вертикально на висоті"
+          ],
+          "suggestedSituations": [
+            {
+              "code": "6.2",
+              "title": "Наряд-допуск на роботи підвищеної небезпеки",
+              "sectionId": "hazardous_work",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "ekolohiia",
+          "label": "Екологія / довкілля",
+          "hitPages": [
+            147
+          ],
+          "hitCount": 1,
+          "samples": [
+            "металу, конструкція агрегатів, рециркуляція матеріалів і екологія / О.Г."
+          ],
+          "suggestedSituations": [
+            {
+              "code": "13.1",
+              "title": null,
+              "sectionId": null,
+              "confidence": "low",
+              "note": "situation_row_missing_in_HIERARCHY"
+            }
+          ]
+        }
+      ],
+      "suggestedSections": [
+        {
+          "sectionId": "hazardous_work",
+          "title": "Небезпечні роботи та устаткування",
+          "score": 3,
+          "confidence": "medium"
+        },
+        {
+          "sectionId": "documentation",
+          "title": "Документація та облік",
+          "score": 2,
+          "confidence": "medium"
+        }
+      ],
+      "needsReview": false
+    },
+    {
+      "path": "1_Технологічні процеси та устаткування металургійних підприємств/Презентации/Л10_Технологічні_процеси_та_устаткування_металургійних_підприємств.pptx",
+      "fileName": "Л10_Технологічні_процеси_та_устаткування_металургійних_підприємств.pptx",
+      "ext": ".pptx",
+      "sizeBytes": 1274400,
+      "kind": "lecture_candidate",
+      "kindConfidence": "medium",
+      "kindReasons": [
+        "default_candidate"
+      ],
+      "extract": {
+        "format": ".pptx",
+        "extractor": "python-pptx",
+        "error": null
+      },
+      "signals": {
+        "npaMentions": 0,
+        "formMentions": 0,
+        "roleMentions": 0,
+        "algorithmMentions": 0,
+        "charCount": 1374,
+        "wordCount": 181,
+        "pageCount": 9,
+        "emptyPages": 1
+      },
+      "themes": [
+        {
+          "num": "10",
+          "title": "Лекція 10",
+          "startPage": 2,
+          "endPage": 9,
+          "label": "Тема/лекція 10: Лекція 10",
+          "detection": "header_regex",
+          "pageCount": 8,
+          "wordCount": 171,
+          "volume": "medium",
+          "anchors": [],
+          "suggestedSituations": [],
+          "needsReview": true
+        }
+      ],
+      "anchors": [],
+      "suggestedSections": [
+        {
+          "sectionId": "hazardous_work",
+          "title": "Небезпечні роботи та устаткування",
+          "score": 2,
+          "confidence": "medium"
+        }
+      ],
+      "needsReview": true
+    },
+    {
+      "path": "1_Технологічні процеси та устаткування металургійних підприємств/Презентации/Л11_Технологічні_процеси_та_устаткування_металургійних_підприємств.pptx",
+      "fileName": "Л11_Технологічні_процеси_та_устаткування_металургійних_підприємств.pptx",
+      "ext": ".pptx",
+      "sizeBytes": 718732,
+      "kind": "lecture_candidate",
+      "kindConfidence": "medium",
+      "kindReasons": [
+        "default_candidate"
+      ],
+      "extract": {
+        "format": ".pptx",
+        "extractor": "python-pptx",
+        "error": null
+      },
+      "signals": {
+        "npaMentions": 0,
+        "formMentions": 0,
+        "roleMentions": 0,
+        "algorithmMentions": 0,
+        "charCount": 2457,
+        "wordCount": 294,
+        "pageCount": 8,
+        "emptyPages": 1
+      },
+      "themes": [
+        {
+          "num": "11",
+          "title": "Лекція 11",
+          "startPage": 2,
+          "endPage": 8,
+          "label": "Тема/лекція 11: Лекція 11",
+          "detection": "header_regex",
+          "pageCount": 7,
+          "wordCount": 284,
+          "volume": "low",
+          "anchors": [],
+          "suggestedSituations": [],
+          "needsReview": true
+        }
+      ],
+      "anchors": [],
+      "suggestedSections": [
+        {
+          "sectionId": "hazardous_work",
+          "title": "Небезпечні роботи та устаткування",
+          "score": 2,
+          "confidence": "medium"
+        }
+      ],
+      "needsReview": true
+    },
+    {
+      "path": "1_Технологічні процеси та устаткування металургійних підприємств/Презентации/Л12_Технологічні_процеси_та_устаткування_металургійних_підприємств.pptx",
+      "fileName": "Л12_Технологічні_процеси_та_устаткування_металургійних_підприємств.pptx",
+      "ext": ".pptx",
+      "sizeBytes": 1098329,
+      "kind": "lecture_candidate",
+      "kindConfidence": "medium",
+      "kindReasons": [
+        "default_candidate"
+      ],
+      "extract": {
+        "format": ".pptx",
+        "extractor": "python-pptx",
+        "error": null
+      },
+      "signals": {
+        "npaMentions": 0,
+        "formMentions": 0,
+        "roleMentions": 0,
+        "algorithmMentions": 0,
+        "charCount": 4077,
+        "wordCount": 520,
+        "pageCount": 9,
+        "emptyPages": 1
+      },
+      "themes": [
+        {
+          "num": "12",
+          "title": "Лекція 12",
+          "startPage": 2,
+          "endPage": 9,
+          "label": "Тема/лекція 12: Лекція 12",
+          "detection": "header_regex",
+          "pageCount": 8,
+          "wordCount": 510,
+          "volume": "medium",
+          "anchors": [],
+          "suggestedSituations": [],
+          "needsReview": true
+        }
+      ],
+      "anchors": [],
+      "suggestedSections": [
+        {
+          "sectionId": "hazardous_work",
+          "title": "Небезпечні роботи та устаткування",
+          "score": 2,
+          "confidence": "medium"
+        }
+      ],
+      "needsReview": true
+    },
+    {
+      "path": "1_Технологічні процеси та устаткування металургійних підприємств/Презентации/Л13_Технологічні_процеси_та_устаткування_металургійних_підприємств.pptx",
+      "fileName": "Л13_Технологічні_процеси_та_устаткування_металургійних_підприємств.pptx",
+      "ext": ".pptx",
+      "sizeBytes": 2223981,
+      "kind": "lecture_candidate",
+      "kindConfidence": "medium",
+      "kindReasons": [
+        "default_candidate"
+      ],
+      "extract": {
+        "format": ".pptx",
+        "extractor": "python-pptx",
+        "error": null
+      },
+      "signals": {
+        "npaMentions": 0,
+        "formMentions": 0,
+        "roleMentions": 0,
+        "algorithmMentions": 0,
+        "charCount": 855,
+        "wordCount": 106,
+        "pageCount": 15,
+        "emptyPages": 1
+      },
+      "themes": [
+        {
+          "num": "13",
+          "title": "Лекція 13",
+          "startPage": 2,
+          "endPage": 15,
+          "label": "Тема/лекція 13: Лекція 13",
+          "detection": "header_regex",
+          "pageCount": 14,
+          "wordCount": 96,
+          "volume": "medium",
+          "anchors": [],
+          "suggestedSituations": [],
+          "needsReview": true
+        }
+      ],
+      "anchors": [],
+      "suggestedSections": [
+        {
+          "sectionId": "hazardous_work",
+          "title": "Небезпечні роботи та устаткування",
+          "score": 2,
+          "confidence": "medium"
+        }
+      ],
+      "needsReview": true
+    },
+    {
+      "path": "1_Технологічні процеси та устаткування металургійних підприємств/Презентации/Л14_Технологічні_процеси_та_устаткування_металургійних_підприємств.pptx",
+      "fileName": "Л14_Технологічні_процеси_та_устаткування_металургійних_підприємств.pptx",
+      "ext": ".pptx",
+      "sizeBytes": 2008883,
+      "kind": "lecture_candidate",
+      "kindConfidence": "medium",
+      "kindReasons": [
+        "default_candidate"
+      ],
+      "extract": {
+        "format": ".pptx",
+        "extractor": "python-pptx",
+        "error": null
+      },
+      "signals": {
+        "npaMentions": 0,
+        "formMentions": 0,
+        "roleMentions": 0,
+        "algorithmMentions": 0,
+        "charCount": 640,
+        "wordCount": 70,
+        "pageCount": 9,
+        "emptyPages": 1
+      },
+      "themes": [
+        {
+          "num": "14",
+          "title": "Лекція 14",
+          "startPage": 2,
+          "endPage": 9,
+          "label": "Тема/лекція 14: Лекція 14",
+          "detection": "header_regex",
+          "pageCount": 8,
+          "wordCount": 60,
+          "volume": "medium",
+          "anchors": [],
+          "suggestedSituations": [],
+          "needsReview": true
+        }
+      ],
+      "anchors": [],
+      "suggestedSections": [
+        {
+          "sectionId": "hazardous_work",
+          "title": "Небезпечні роботи та устаткування",
+          "score": 2,
+          "confidence": "medium"
+        }
+      ],
+      "needsReview": true
+    },
+    {
+      "path": "1_Технологічні процеси та устаткування металургійних підприємств/Презентации/Л15_Технологічні_процеси_та_устаткування_металургійних_підприємств.pptx",
+      "fileName": "Л15_Технологічні_процеси_та_устаткування_металургійних_підприємств.pptx",
+      "ext": ".pptx",
+      "sizeBytes": 1341097,
+      "kind": "lecture_candidate",
+      "kindConfidence": "medium",
+      "kindReasons": [
+        "default_candidate"
+      ],
+      "extract": {
+        "format": ".pptx",
+        "extractor": "python-pptx",
+        "error": null
+      },
+      "signals": {
+        "npaMentions": 0,
+        "formMentions": 0,
+        "roleMentions": 0,
+        "algorithmMentions": 0,
+        "charCount": 430,
+        "wordCount": 53,
+        "pageCount": 13,
+        "emptyPages": 3
+      },
+      "themes": [
+        {
+          "num": "15",
+          "title": "Лекція 15",
+          "startPage": 2,
+          "endPage": 13,
+          "label": "Тема/лекція 15: Лекція 15",
+          "detection": "header_regex",
+          "pageCount": 12,
+          "wordCount": 43,
+          "volume": "medium",
+          "anchors": [],
+          "suggestedSituations": [],
+          "needsReview": true
+        }
+      ],
+      "anchors": [],
+      "suggestedSections": [
+        {
+          "sectionId": "hazardous_work",
+          "title": "Небезпечні роботи та устаткування",
+          "score": 2,
+          "confidence": "medium"
+        }
+      ],
+      "needsReview": true
+    },
+    {
+      "path": "1_Технологічні процеси та устаткування металургійних підприємств/Презентации/Л16_Технологічні_процеси_та_устаткування_металургійних_підприємств.pptx",
+      "fileName": "Л16_Технологічні_процеси_та_устаткування_металургійних_підприємств.pptx",
+      "ext": ".pptx",
+      "sizeBytes": 1254203,
+      "kind": "lecture_candidate",
+      "kindConfidence": "medium",
+      "kindReasons": [
+        "default_candidate"
+      ],
+      "extract": {
+        "format": ".pptx",
+        "extractor": "python-pptx",
+        "error": null
+      },
+      "signals": {
+        "npaMentions": 0,
+        "formMentions": 0,
+        "roleMentions": 0,
+        "algorithmMentions": 0,
+        "charCount": 969,
+        "wordCount": 138,
+        "pageCount": 13,
+        "emptyPages": 3
+      },
+      "themes": [
+        {
+          "num": "16",
+          "title": "Лекція 16",
+          "startPage": 2,
+          "endPage": 13,
+          "label": "Тема/лекція 16: Лекція 16",
+          "detection": "header_regex",
+          "pageCount": 12,
+          "wordCount": 128,
+          "volume": "medium",
+          "anchors": [],
+          "suggestedSituations": [],
+          "needsReview": true
+        }
+      ],
+      "anchors": [],
+      "suggestedSections": [
+        {
+          "sectionId": "hazardous_work",
+          "title": "Небезпечні роботи та устаткування",
+          "score": 2,
+          "confidence": "medium"
+        }
+      ],
+      "needsReview": true
+    },
+    {
+      "path": "1_Технологічні процеси та устаткування металургійних підприємств/Презентации/Л17_Технологічні_процеси_та_устаткування_металургійних_підприємств.pptx",
+      "fileName": "Л17_Технологічні_процеси_та_устаткування_металургійних_підприємств.pptx",
+      "ext": ".pptx",
+      "sizeBytes": 1171762,
+      "kind": "lecture_candidate",
+      "kindConfidence": "medium",
+      "kindReasons": [
+        "default_candidate"
+      ],
+      "extract": {
+        "format": ".pptx",
+        "extractor": "python-pptx",
+        "error": null
+      },
+      "signals": {
+        "npaMentions": 0,
+        "formMentions": 0,
+        "roleMentions": 0,
+        "algorithmMentions": 1,
+        "charCount": 14508,
+        "wordCount": 2120,
+        "pageCount": 24,
+        "emptyPages": 1
+      },
+      "themes": [
+        {
+          "num": "17",
+          "title": "Лекція 17",
+          "startPage": 2,
+          "endPage": 24,
+          "label": "Тема/лекція 17: Лекція 17",
+          "detection": "header_regex",
+          "pageCount": 23,
+          "wordCount": 2110,
+          "volume": "medium",
+          "anchors": [],
+          "suggestedSituations": [],
+          "needsReview": true
+        }
+      ],
+      "anchors": [],
+      "suggestedSections": [
+        {
+          "sectionId": "hazardous_work",
+          "title": "Небезпечні роботи та устаткування",
+          "score": 2,
+          "confidence": "medium"
+        }
+      ],
+      "needsReview": true
+    },
+    {
+      "path": "1_Технологічні процеси та устаткування металургійних підприємств/Презентации/Л18_Технологічні_процеси_та_устаткування_металургійних_підприємств.pptx",
+      "fileName": "Л18_Технологічні_процеси_та_устаткування_металургійних_підприємств.pptx",
+      "ext": ".pptx",
+      "sizeBytes": 4548999,
+      "kind": "lecture_candidate",
+      "kindConfidence": "medium",
+      "kindReasons": [
+        "default_candidate"
+      ],
+      "extract": {
+        "format": ".pptx",
+        "extractor": "python-pptx",
+        "error": null
+      },
+      "signals": {
+        "npaMentions": 0,
+        "formMentions": 0,
+        "roleMentions": 0,
+        "algorithmMentions": 0,
+        "charCount": 514,
+        "wordCount": 67,
+        "pageCount": 15,
+        "emptyPages": 4
+      },
+      "themes": [
+        {
+          "num": "18",
+          "title": "Лекція 18",
+          "startPage": 2,
+          "endPage": 15,
+          "label": "Тема/лекція 18: Лекція 18",
+          "detection": "header_regex",
+          "pageCount": 14,
+          "wordCount": 57,
+          "volume": "medium",
+          "anchors": [],
+          "suggestedSituations": [],
+          "needsReview": true
+        }
+      ],
+      "anchors": [],
+      "suggestedSections": [
+        {
+          "sectionId": "hazardous_work",
+          "title": "Небезпечні роботи та устаткування",
+          "score": 2,
+          "confidence": "medium"
+        }
+      ],
+      "needsReview": true
+    },
+    {
+      "path": "1_Технологічні процеси та устаткування металургійних підприємств/Презентации/Л1_Технологічні_процеси_та_устаткування_металургійних_підприємств_6к.pptx",
+      "fileName": "Л1_Технологічні_процеси_та_устаткування_металургійних_підприємств_6к.pptx",
+      "ext": ".pptx",
+      "sizeBytes": 783407,
+      "kind": "lecture_candidate",
+      "kindConfidence": "medium",
+      "kindReasons": [
+        "default_candidate"
+      ],
+      "extract": {
+        "format": ".pptx",
+        "extractor": "python-pptx",
+        "error": null
+      },
+      "signals": {
+        "npaMentions": 0,
+        "formMentions": 0,
+        "roleMentions": 0,
+        "algorithmMentions": 0,
+        "charCount": 2793,
+        "wordCount": 376,
+        "pageCount": 11,
+        "emptyPages": 2
+      },
+      "themes": [
+        {
+          "num": "1",
+          "title": "Лекція 1",
+          "startPage": 2,
+          "endPage": 11,
+          "label": "Тема/лекція 1: Лекція 1",
+          "detection": "header_regex",
+          "pageCount": 10,
+          "wordCount": 366,
+          "volume": "medium",
+          "anchors": [],
+          "suggestedSituations": [],
+          "needsReview": true
+        }
+      ],
+      "anchors": [],
+      "suggestedSections": [
+        {
+          "sectionId": "hazardous_work",
+          "title": "Небезпечні роботи та устаткування",
+          "score": 2,
+          "confidence": "medium"
+        }
+      ],
+      "needsReview": true
+    },
+    {
+      "path": "1_Технологічні процеси та устаткування металургійних підприємств/Презентации/Л2_Технологічні_процеси_та_устаткування_металургійних_підприємств.pptx",
+      "fileName": "Л2_Технологічні_процеси_та_устаткування_металургійних_підприємств.pptx",
+      "ext": ".pptx",
+      "sizeBytes": 4760708,
+      "kind": "lecture_candidate",
+      "kindConfidence": "medium",
+      "kindReasons": [
+        "default_candidate"
+      ],
+      "extract": {
+        "format": ".pptx",
+        "extractor": "python-pptx",
+        "error": null
+      },
+      "signals": {
+        "npaMentions": 0,
+        "formMentions": 0,
+        "roleMentions": 0,
+        "algorithmMentions": 2,
+        "charCount": 10315,
+        "wordCount": 1493,
+        "pageCount": 27,
+        "emptyPages": 1
+      },
+      "themes": [
+        {
+          "num": "2",
+          "title": "Лекція 2",
+          "startPage": 2,
+          "endPage": 27,
+          "label": "Тема/лекція 2: Лекція 2",
+          "detection": "header_regex",
+          "pageCount": 26,
+          "wordCount": 1483,
+          "volume": "high",
+          "anchors": [],
+          "suggestedSituations": [],
+          "needsReview": true
+        }
+      ],
+      "anchors": [],
+      "suggestedSections": [
+        {
+          "sectionId": "hazardous_work",
+          "title": "Небезпечні роботи та устаткування",
+          "score": 2,
+          "confidence": "medium"
+        }
+      ],
+      "needsReview": true
+    },
+    {
+      "path": "1_Технологічні процеси та устаткування металургійних підприємств/Презентации/Л3_Технологічні_процеси_та_устаткування_металургійних_підприємств.pptx",
+      "fileName": "Л3_Технологічні_процеси_та_устаткування_металургійних_підприємств.pptx",
+      "ext": ".pptx",
+      "sizeBytes": 1729773,
+      "kind": "lecture_candidate",
+      "kindConfidence": "medium",
+      "kindReasons": [
+        "default_candidate"
+      ],
+      "extract": {
+        "format": ".pptx",
+        "extractor": "python-pptx",
+        "error": null
+      },
+      "signals": {
+        "npaMentions": 0,
+        "formMentions": 0,
+        "roleMentions": 0,
+        "algorithmMentions": 1,
+        "charCount": 7810,
+        "wordCount": 1092,
+        "pageCount": 24,
+        "emptyPages": 1
+      },
+      "themes": [
+        {
+          "num": "3",
+          "title": "Лекція 3",
+          "startPage": 2,
+          "endPage": 24,
+          "label": "Тема/лекція 3: Лекція 3",
+          "detection": "header_regex",
+          "pageCount": 23,
+          "wordCount": 1082,
+          "volume": "medium",
+          "anchors": [],
+          "suggestedSituations": [],
+          "needsReview": true
+        }
+      ],
+      "anchors": [],
+      "suggestedSections": [
+        {
+          "sectionId": "hazardous_work",
+          "title": "Небезпечні роботи та устаткування",
+          "score": 2,
+          "confidence": "medium"
+        }
+      ],
+      "needsReview": true
+    },
+    {
+      "path": "1_Технологічні процеси та устаткування металургійних підприємств/Презентации/Л4_Технологічні_процеси_та_устаткування_металургійних_підприємств.pptx",
+      "fileName": "Л4_Технологічні_процеси_та_устаткування_металургійних_підприємств.pptx",
+      "ext": ".pptx",
+      "sizeBytes": 710854,
+      "kind": "lecture_candidate",
+      "kindConfidence": "medium",
+      "kindReasons": [
+        "default_candidate"
+      ],
+      "extract": {
+        "format": ".pptx",
+        "extractor": "python-pptx",
+        "error": null
+      },
+      "signals": {
+        "npaMentions": 0,
+        "formMentions": 0,
+        "roleMentions": 0,
+        "algorithmMentions": 0,
+        "charCount": 404,
+        "wordCount": 51,
+        "pageCount": 4,
+        "emptyPages": 1
+      },
+      "themes": [
+        {
+          "num": "4",
+          "title": "Лекція 4",
+          "startPage": 2,
+          "endPage": 4,
+          "label": "Тема/лекція 4: Лекція 4",
+          "detection": "header_regex",
+          "pageCount": 3,
+          "wordCount": 41,
+          "volume": "low",
+          "anchors": [],
+          "suggestedSituations": [],
+          "needsReview": true
+        }
+      ],
+      "anchors": [],
+      "suggestedSections": [
+        {
+          "sectionId": "hazardous_work",
+          "title": "Небезпечні роботи та устаткування",
+          "score": 2,
+          "confidence": "medium"
+        }
+      ],
+      "needsReview": true
+    },
+    {
+      "path": "1_Технологічні процеси та устаткування металургійних підприємств/Презентации/Л5_Технологічні_процеси_та_устаткування_металургійних_підприємств.pptx",
+      "fileName": "Л5_Технологічні_процеси_та_устаткування_металургійних_підприємств.pptx",
+      "ext": ".pptx",
+      "sizeBytes": 725610,
+      "kind": "lecture_candidate",
+      "kindConfidence": "medium",
+      "kindReasons": [
+        "default_candidate"
+      ],
+      "extract": {
+        "format": ".pptx",
+        "extractor": "python-pptx",
+        "error": null
+      },
+      "signals": {
+        "npaMentions": 0,
+        "formMentions": 0,
+        "roleMentions": 0,
+        "algorithmMentions": 1,
+        "charCount": 3043,
+        "wordCount": 373,
+        "pageCount": 10,
+        "emptyPages": 1
+      },
+      "themes": [
+        {
+          "num": "5",
+          "title": "Лекція 5",
+          "startPage": 2,
+          "endPage": 10,
+          "label": "Тема/лекція 5: Лекція 5",
+          "detection": "header_regex",
+          "pageCount": 9,
+          "wordCount": 363,
+          "volume": "medium",
+          "anchors": [],
+          "suggestedSituations": [],
+          "needsReview": true
+        }
+      ],
+      "anchors": [],
+      "suggestedSections": [
+        {
+          "sectionId": "hazardous_work",
+          "title": "Небезпечні роботи та устаткування",
+          "score": 2,
+          "confidence": "medium"
+        }
+      ],
+      "needsReview": true
+    },
+    {
+      "path": "1_Технологічні процеси та устаткування металургійних підприємств/Презентации/Л6_Технологічні_процеси_та_устаткування_металургійних_підприємств.pptx",
+      "fileName": "Л6_Технологічні_процеси_та_устаткування_металургійних_підприємств.pptx",
+      "ext": ".pptx",
+      "sizeBytes": 857653,
+      "kind": "lecture_candidate",
+      "kindConfidence": "medium",
+      "kindReasons": [
+        "default_candidate"
+      ],
+      "extract": {
+        "format": ".pptx",
+        "extractor": "python-pptx",
+        "error": null
+      },
+      "signals": {
+        "npaMentions": 0,
+        "formMentions": 0,
+        "roleMentions": 0,
+        "algorithmMentions": 2,
+        "charCount": 2183,
+        "wordCount": 284,
+        "pageCount": 11,
+        "emptyPages": 1
+      },
+      "themes": [
+        {
+          "num": "6",
+          "title": "Лекція 6",
+          "startPage": 2,
+          "endPage": 11,
+          "label": "Тема/лекція 6: Лекція 6",
+          "detection": "header_regex",
+          "pageCount": 10,
+          "wordCount": 274,
+          "volume": "medium",
+          "anchors": [],
+          "suggestedSituations": [],
+          "needsReview": true
+        }
+      ],
+      "anchors": [],
+      "suggestedSections": [
+        {
+          "sectionId": "hazardous_work",
+          "title": "Небезпечні роботи та устаткування",
+          "score": 2,
+          "confidence": "medium"
+        }
+      ],
+      "needsReview": true
+    },
+    {
+      "path": "1_Технологічні процеси та устаткування металургійних підприємств/Презентации/Л7_Технологічні_процеси_та_устаткування_металургійних_підприємств.pptx",
+      "fileName": "Л7_Технологічні_процеси_та_устаткування_металургійних_підприємств.pptx",
+      "ext": ".pptx",
+      "sizeBytes": 2992341,
+      "kind": "lecture_candidate",
+      "kindConfidence": "medium",
+      "kindReasons": [
+        "default_candidate"
+      ],
+      "extract": {
+        "format": ".pptx",
+        "extractor": "python-pptx",
+        "error": null
+      },
+      "signals": {
+        "npaMentions": 0,
+        "formMentions": 0,
+        "roleMentions": 0,
+        "algorithmMentions": 0,
+        "charCount": 1171,
+        "wordCount": 177,
+        "pageCount": 15,
+        "emptyPages": 1
+      },
+      "themes": [
+        {
+          "num": "7",
+          "title": "Лекція 7",
+          "startPage": 2,
+          "endPage": 15,
+          "label": "Тема/лекція 7: Лекція 7",
+          "detection": "header_regex",
+          "pageCount": 14,
+          "wordCount": 167,
+          "volume": "medium",
+          "anchors": [],
+          "suggestedSituations": [],
+          "needsReview": true
+        }
+      ],
+      "anchors": [],
+      "suggestedSections": [
+        {
+          "sectionId": "hazardous_work",
+          "title": "Небезпечні роботи та устаткування",
+          "score": 2,
+          "confidence": "medium"
+        }
+      ],
+      "needsReview": true
+    },
+    {
+      "path": "1_Технологічні процеси та устаткування металургійних підприємств/Презентации/Л8_Технологічні_процеси_та_устаткування_металургійних_підприємств.pptx",
+      "fileName": "Л8_Технологічні_процеси_та_устаткування_металургійних_підприємств.pptx",
+      "ext": ".pptx",
+      "sizeBytes": 2726837,
+      "kind": "lecture_candidate",
+      "kindConfidence": "medium",
+      "kindReasons": [
+        "default_candidate"
+      ],
+      "extract": {
+        "format": ".pptx",
+        "extractor": "python-pptx",
+        "error": null
+      },
+      "signals": {
+        "npaMentions": 0,
+        "formMentions": 0,
+        "roleMentions": 0,
+        "algorithmMentions": 0,
+        "charCount": 1545,
+        "wordCount": 193,
+        "pageCount": 21,
+        "emptyPages": 10
+      },
+      "themes": [
+        {
+          "num": "8",
+          "title": "Лекція 8",
+          "startPage": 2,
+          "endPage": 21,
+          "label": "Тема/лекція 8: Лекція 8",
+          "detection": "header_regex",
+          "pageCount": 20,
+          "wordCount": 183,
+          "volume": "medium",
+          "anchors": [],
+          "suggestedSituations": [],
+          "needsReview": true
+        }
+      ],
+      "anchors": [],
+      "suggestedSections": [
+        {
+          "sectionId": "hazardous_work",
+          "title": "Небезпечні роботи та устаткування",
+          "score": 2,
+          "confidence": "medium"
+        }
+      ],
+      "needsReview": true
+    },
+    {
+      "path": "1_Технологічні процеси та устаткування металургійних підприємств/Презентации/Л9_Технологічні_процеси_та_устаткування_металургійних_підприємств.pptx",
+      "fileName": "Л9_Технологічні_процеси_та_устаткування_металургійних_підприємств.pptx",
+      "ext": ".pptx",
+      "sizeBytes": 1350760,
+      "kind": "lecture_candidate",
+      "kindConfidence": "medium",
+      "kindReasons": [
+        "default_candidate"
+      ],
+      "extract": {
+        "format": ".pptx",
+        "extractor": "python-pptx",
+        "error": null
+      },
+      "signals": {
+        "npaMentions": 0,
+        "formMentions": 0,
+        "roleMentions": 0,
+        "algorithmMentions": 0,
+        "charCount": 1463,
+        "wordCount": 213,
+        "pageCount": 11,
+        "emptyPages": 2
+      },
+      "themes": [
+        {
+          "num": "9",
+          "title": "Лекція 9",
+          "startPage": 2,
+          "endPage": 11,
+          "label": "Тема/лекція 9: Лекція 9",
+          "detection": "header_regex",
+          "pageCount": 10,
+          "wordCount": 203,
+          "volume": "medium",
+          "anchors": [],
+          "suggestedSituations": [],
+          "needsReview": true
+        }
+      ],
+      "anchors": [],
+      "suggestedSections": [
+        {
+          "sectionId": "hazardous_work",
+          "title": "Небезпечні роботи та устаткування",
+          "score": 2,
+          "confidence": "medium"
+        }
+      ],
+      "needsReview": true
+    },
+    {
+      "path": "1_Технологічні процеси та устаткування металургійних підприємств/Результати ЛР 1 Виробництво окускованої металургійної сировини.pdf",
+      "fileName": "Результати ЛР 1 Виробництво окускованої металургійної сировини.pdf",
+      "ext": ".pdf",
+      "sizeBytes": 134820,
+      "kind": "lecture_candidate",
+      "kindConfidence": "medium",
+      "kindReasons": [
+        "default_candidate"
+      ],
+      "extract": {
+        "format": ".pdf",
+        "extractor": "pymupdf",
+        "error": null
+      },
+      "signals": {
+        "npaMentions": 0,
+        "formMentions": 0,
+        "roleMentions": 0,
+        "algorithmMentions": 0,
+        "charCount": 1682,
+        "wordCount": 299,
+        "pageCount": 3,
+        "emptyPages": 1
+      },
+      "themes": [
+        {
+          "num": "?",
+          "title": "(без явного заголовка теми)",
+          "startPage": 1,
+          "endPage": 3,
+          "label": "Весь файл (тема не детектована)",
+          "detection": "fallback_whole_file",
+          "anchors": []
+        }
+      ],
+      "anchors": [],
+      "suggestedSections": [
+        {
+          "sectionId": "hazardous_work",
+          "title": "Небезпечні роботи та устаткування",
+          "score": 2,
+          "confidence": "medium"
+        }
+      ],
+      "needsReview": true
+    },
+    {
+      "path": "1_Технологічні процеси та устаткування металургійних підприємств/Результати ЛР 2 Електроліз кольорових металів з розчину.pdf",
+      "fileName": "Результати ЛР 2 Електроліз кольорових металів з розчину.pdf",
+      "ext": ".pdf",
+      "sizeBytes": 134464,
+      "kind": "lecture_candidate",
+      "kindConfidence": "medium",
+      "kindReasons": [
+        "default_candidate"
+      ],
+      "extract": {
+        "format": ".pdf",
+        "extractor": "pymupdf",
+        "error": null
+      },
+      "signals": {
+        "npaMentions": 0,
+        "formMentions": 0,
+        "roleMentions": 0,
+        "algorithmMentions": 0,
+        "charCount": 1682,
+        "wordCount": 300,
+        "pageCount": 3,
+        "emptyPages": 0
+      },
+      "themes": [
+        {
+          "num": "?",
+          "title": "(без явного заголовка теми)",
+          "startPage": 1,
+          "endPage": 3,
+          "label": "Весь файл (тема не детектована)",
+          "detection": "fallback_whole_file",
+          "anchors": []
+        }
+      ],
+      "anchors": [],
+      "suggestedSections": [
+        {
+          "sectionId": "hazardous_work",
+          "title": "Небезпечні роботи та устаткування",
+          "score": 2,
+          "confidence": "medium"
+        }
+      ],
+      "needsReview": true
+    },
+    {
+      "path": "1_Технологічні процеси та устаткування металургійних підприємств/Результати ЛР 3 Пластична деформація металів.pdf",
+      "fileName": "Результати ЛР 3 Пластична деформація металів.pdf",
+      "ext": ".pdf",
+      "sizeBytes": 180126,
+      "kind": "lecture_candidate",
+      "kindConfidence": "medium",
+      "kindReasons": [
+        "default_candidate"
+      ],
+      "extract": {
+        "format": ".pdf",
+        "extractor": "pymupdf",
+        "error": null
+      },
+      "signals": {
+        "npaMentions": 0,
+        "formMentions": 0,
+        "roleMentions": 0,
+        "algorithmMentions": 1,
+        "charCount": 2667,
+        "wordCount": 431,
+        "pageCount": 3,
+        "emptyPages": 0
+      },
+      "themes": [
+        {
+          "num": "?",
+          "title": "(без явного заголовка теми)",
+          "startPage": 1,
+          "endPage": 3,
+          "label": "Весь файл (тема не детектована)",
+          "detection": "fallback_whole_file",
+          "anchors": []
+        }
+      ],
+      "anchors": [],
+      "suggestedSections": [
+        {
+          "sectionId": "hazardous_work",
+          "title": "Небезпечні роботи та устаткування",
+          "score": 2,
+          "confidence": "medium"
+        }
+      ],
+      "needsReview": true
+    }
+  ]
+}

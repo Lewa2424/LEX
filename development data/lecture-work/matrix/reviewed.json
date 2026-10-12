@@ -1,0 +1,249 @@
+{
+  "schemaVersion": 1,
+  "reviewedAt": "2026-09-25",
+  "reviewBasis": "cached_extraction_not_original_or_current_law",
+  "topics": [
+    {
+      "topicId": "worker_admission-1",
+      "units": [
+        {
+          "title": "Проведення вступного інструктажу",
+          "summary": "Кто проводит; назначение другого специалиста и требования к его подготовке.",
+          "kind": "answer_aspect",
+          "support": "supported_by_extraction",
+          "anchors": [
+            {
+              "cachePath": "development data/lecture-work/maps/_extract_cache/12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr/29e3020c96781cb7.json",
+              "page": 17,
+              "quote": "Вступний інструктаж проводить спеціаліст служби охорони праці або інший фахівець відповідно до наказу роботодавця, який пройшов навчання і перевірку знань із питань охорони праці."
+            }
+          ]
+        },
+        {
+          "title": "Реєстрація вступного інструктажу",
+          "summary": "Отдельный журнал для вступительного инструктажа.",
+          "kind": "answer_aspect",
+          "support": "supported_by_extraction",
+          "anchors": [
+            {
+              "cachePath": "development data/lecture-work/maps/_extract_cache/12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr/29e3020c96781cb7.json",
+              "page": 22,
+              "quote": "Для реєстрації вступного інструктажу потрібно завести окремий журнал"
+            }
+          ]
+        }
+      ],
+      "gaps": [
+        "категории инструктируемых",
+        "содержание и утверждение программы",
+        "место и продолжительность"
+      ],
+      "notes": [
+        "Слайды 9–14 содержат только общий заголовок: требуется просмотр изображений оригинала."
+      ]
+    },
+    {
+      "topicId": "worker_admission-2",
+      "units": [
+        {
+          "title": "Перевірка знань і практичних навичок",
+          "summary": "Форма проверки после инструктажа.",
+          "kind": "answer_aspect",
+          "support": "supported_by_extraction",
+          "anchors": [
+            {
+              "cachePath": "development data/lecture-work/maps/_extract_cache/12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr/29e3020c96781cb7.json",
+              "page": 19,
+              "quote": "Після первинного, повторного, позапланового і цільового інструктажів проводять перевірку знань у формі усного опитування або за допомогою технічних засобів, а також перевірку набутих навичок безпечних методів праці."
+            }
+          ]
+        },
+        {
+          "title": "Незадовільні результати перевірки",
+          "summary": "Лекция описывает дополнительный инструктаж и повторную проверку в течение 10 дней.",
+          "kind": "answer_aspect",
+          "support": "supported_by_extraction",
+          "anchors": [
+            {
+              "cachePath": "development data/lecture-work/maps/_extract_cache/12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr/29e3020c96781cb7.json",
+              "page": 19,
+              "quote": "Якщо результати перевірки після первинного, повторного чи позапланового інструктажів незадовільні, протягом 10 днів додатково проводять інструктаж і повторну перевірку знань."
+            }
+          ]
+        }
+      ],
+      "gaps": [
+        "категории работников",
+        "программа первичного инструктажа"
+      ],
+      "notes": [
+        "Привязки проверены по извлечению лекции; полнота подраздела не подтверждена."
+      ]
+    },
+    {
+      "topicId": "worker_admission-3",
+      "units": [
+        {
+          "title": "Перевірка знань і практичних навичок",
+          "summary": "Форма проверки после инструктажа.",
+          "kind": "answer_aspect",
+          "support": "supported_by_extraction",
+          "anchors": [
+            {
+              "cachePath": "development data/lecture-work/maps/_extract_cache/12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr/29e3020c96781cb7.json",
+              "page": 19,
+              "quote": "Після первинного, повторного, позапланового і цільового інструктажів проводять перевірку знань у формі усного опитування або за допомогою технічних засобів, а також перевірку набутих навичок безпечних методів праці."
+            }
+          ]
+        },
+        {
+          "title": "Незадовільні результати перевірки",
+          "summary": "Лекция описывает дополнительный инструктаж и повторную проверку в течение 10 дней.",
+          "kind": "answer_aspect",
+          "support": "supported_by_extraction",
+          "anchors": [
+            {
+              "cachePath": "development data/lecture-work/maps/_extract_cache/12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr/29e3020c96781cb7.json",
+              "page": 19,
+              "quote": "Якщо результати перевірки після первинного, повторного чи позапланового інструктажів незадовільні, протягом 10 днів додатково проводять інструктаж і повторну перевірку знань."
+            }
+          ]
+        }
+      ],
+      "gaps": [
+        "периодичность по видам работ",
+        "объём повторного инструктажа"
+      ],
+      "notes": [
+        "Привязки проверены по извлечению лекции; полнота подраздела не подтверждена."
+      ]
+    },
+    {
+      "topicId": "worker_admission-4",
+      "units": [
+        {
+          "title": "Перевірка знань і практичних навичок",
+          "summary": "Форма проверки после инструктажа.",
+          "kind": "answer_aspect",
+          "support": "supported_by_extraction",
+          "anchors": [
+            {
+              "cachePath": "development data/lecture-work/maps/_extract_cache/12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr/29e3020c96781cb7.json",
+              "page": 19,
+              "quote": "Після первинного, повторного, позапланового і цільового інструктажів проводять перевірку знань у формі усного опитування або за допомогою технічних засобів, а також перевірку набутих навичок безпечних методів праці."
+            }
+          ]
+        },
+        {
+          "title": "Незадовільні результати перевірки",
+          "summary": "Лекция описывает дополнительный инструктаж и повторную проверку в течение 10 дней.",
+          "kind": "answer_aspect",
+          "support": "supported_by_extraction",
+          "anchors": [
+            {
+              "cachePath": "development data/lecture-work/maps/_extract_cache/12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr/29e3020c96781cb7.json",
+              "page": 19,
+              "quote": "Якщо результати перевірки після первинного, повторного чи позапланового інструктажів незадовільні, протягом 10 днів додатково проводять інструктаж і повторну перевірку знань."
+            }
+          ]
+        }
+      ],
+      "gaps": [
+        "основания внепланового инструктажа",
+        "определение объёма"
+      ],
+      "notes": [
+        "Привязки проверены по извлечению лекции; полнота подраздела не подтверждена."
+      ]
+    },
+    {
+      "topicId": "worker_admission-5",
+      "units": [
+        {
+          "title": "Незадовільні результати цільового інструктажу",
+          "summary": "Особенность допуска и повторной проверки именно после целевого инструктажа.",
+          "kind": "answer_aspect",
+          "support": "supported_by_extraction",
+          "anchors": [
+            {
+              "cachePath": "development data/lecture-work/maps/_extract_cache/12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr/29e3020c96781cb7.json",
+              "page": 19,
+              "quote": "У разі незадовільних результатів перевірки після цільового інструктажу особу не допускають до виконання робіт"
+            }
+          ]
+        },
+        {
+          "title": "Реєстрація в наряді-допуску",
+          "summary": "Отдельный порядок фиксации целевого инструктажа для работ с нарядом-допуском.",
+          "kind": "answer_aspect",
+          "support": "supported_by_extraction",
+          "anchors": [
+            {
+              "cachePath": "development data/lecture-work/maps/_extract_cache/12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr/29e3020c96781cb7.json",
+              "page": 16,
+              "quote": "У разі виконання робіт, що потребують оформлення наряду-допуску, цільовий інструктаж реєструється в цьому наряді-допуску, а в журналі реєстрації інструктажів не обов’язково."
+            }
+          ]
+        }
+      ],
+      "gaps": [
+        "основания проведения",
+        "объём инструктажа"
+      ],
+      "notes": []
+    },
+    {
+      "topicId": "worker_admission-6",
+      "units": [
+        {
+          "title": "Звільнення від повторного інструктажу",
+          "summary": "Утверждение перечня работодателем; критерии включения работников на слайде 16.",
+          "kind": "answer_aspect",
+          "support": "supported_by_extraction",
+          "anchors": [
+            {
+              "cachePath": "development data/lecture-work/maps/_extract_cache/12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr/29e3020c96781cb7.json",
+              "page": 16,
+              "quote": "Перелік професій та посад працівників, які звільняються від повторного інструктажу, затверджується роботодавцем."
+            }
+          ]
+        }
+      ],
+      "gaps": [
+        "проверка иных видов освобождения по корпусу"
+      ],
+      "notes": [
+        "Нельзя распространять критерии освобождения от повторного инструктажа на первичный или вступительный."
+      ]
+    },
+    {
+      "topicId": "rights_relations-17",
+      "units": [
+        {
+          "title": "Інструктажі під час дистанційної роботи",
+          "summary": "Лекция описывает инструктаж в отношении предоставленного или рекомендованного оборудования и обмен электронными документами.",
+          "kind": "answer_aspect",
+          "support": "supported_by_extraction",
+          "anchors": [
+            {
+              "cachePath": "development data/lecture-work/maps/_extract_cache/12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr/29e3020c96781cb7.json",
+              "page": 20,
+              "quote": "Для підтвердження факту проведення інструктажу (навчання) роботодавець і працівник обмінюються відповідними електронними документами."
+            },
+            {
+              "cachePath": "development data/lecture-work/maps/_extract_cache/12_vedennia-dokumentatsii-ta-navchannia-z-okhorony-pr/29e3020c96781cb7.json",
+              "page": 21,
+              "quote": "Особа, яка проводить інструктажі дистанційно, робить про це запис у Журналі реєстрації інструктажів з питань охорони праці на робочому місці."
+            }
+          ]
+        }
+      ],
+      "gaps": [
+        "прочие аспекты дистанционной работы"
+      ],
+      "notes": [
+        "Слайд 20 рассматривает военное положение; контекст сохранить при подготовке текста."
+      ]
+    }
+  ]
+}

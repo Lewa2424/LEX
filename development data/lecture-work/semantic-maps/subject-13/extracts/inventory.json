@@ -1,0 +1,118 @@
+[
+  {
+    "source": "ДБН_Освітлення_2018.pdf",
+    "sha256": "ab98daa9c780f8ec3e1d82393b3067ee7c7341fb9ce186945fd1daa3463856ed",
+    "status": "supplement_not_read"
+  },
+  {
+    "source": "Державні медико-санітарні нормативи допустимого вмісту хімічних речовин у повітрі робочої зони.pdf",
+    "sha256": "310eb836b8e500024620a41629aeb4b06939353cfeb571bd5b98a416a61c743a",
+    "status": "supplement_not_read"
+  },
+  {
+    "source": "Кодекс законів про працю України - Кодекс України № 322-VIII від 10.12.1971 - d23605-20250101.pdf",
+    "sha256": "dbb1f58dcd0cc8fb9f63d881a5e6157cb130517041ebf8192cdc0a49dd43382a",
+    "status": "supplement_not_read"
+  },
+  {
+    "source": "Лекція 10 Пожежна небезпека (5).pptx",
+    "sha256": "687d1af9d89e9926738b13426c910ca07dcd2fa9f791b76a4b3e069cd2ecc562",
+    "slides": 22,
+    "images": 4,
+    "extraction": "development data\\lecture-work\\semantic-maps\\subject-13\\extracts\\lecture-10\\extracted.json",
+    "key": "lecture-10",
+    "status": "extracted_not_read"
+  },
+  {
+    "source": "лекція №10.pptx",
+    "sha256": "687d1af9d89e9926738b13426c910ca07dcd2fa9f791b76a4b3e069cd2ecc562",
+    "duplicateOf": "Лекція 10 Пожежна небезпека (5).pptx"
+  },
+  {
+    "source": "лекція №14.pptx",
+    "sha256": "4fa29497c4fcf2318cd6b3b3183d269c0922ecf429d2af93d48cb1229b7ab952",
+    "slides": 12,
+    "images": 12,
+    "extraction": "development data\\lecture-work\\semantic-maps\\subject-13\\extracts\\lecture-14\\extracted.json",
+    "key": "lecture-14",
+    "status": "extracted_not_read"
+  },
+  {
+    "source": "лекція №15.pptx",
+    "sha256": "946915ecf408d37e43bf5b07eb9fa2274db11c524e365166ca35a8da74247c25",
+    "slides": 22,
+    "images": 13,
+    "extraction": "development data\\lecture-work\\semantic-maps\\subject-13\\extracts\\lecture-15\\extracted.json",
+    "key": "lecture-15",
+    "status": "extracted_not_read"
+  },
+  {
+    "source": "лекція №16 (1).pptx",
+    "sha256": "411080dec22cd4bc15cda0974edb87ffb671034dd1bf10c49184d0cd2efa3774",
+    "slides": 19,
+    "images": 3,
+    "extraction": "development data\\lecture-work\\semantic-maps\\subject-13\\extracts\\lecture-16\\extracted.json",
+    "key": "lecture-16",
+    "status": "extracted_not_read"
+  },
+  {
+    "source": "лекція №16.pptx",
+    "sha256": "411080dec22cd4bc15cda0974edb87ffb671034dd1bf10c49184d0cd2efa3774",
+    "duplicateOf": "лекція №16 (1).pptx"
+  },
+  {
+    "source": "Падіння пред_ТОП ризики_проєкт_МІП 1.pdf",
+    "sha256": "e578ce04783a0755be6cb73a605325dd9066b92444f6853122b46cb97ef523c1",
+    "status": "supplement_not_read"
+  },
+  {
+    "source": "ПР 2_Перша допомога.pdf",
+    "sha256": "fe24ae611a4fe7d2fb91c9079305e872ac733763a2344e585919b45bec2a1ff9",
+    "status": "supplement_not_read"
+  },
+  {
+    "source": "практ роб 6 природне освітлення.pdf",
+    "sha256": "a2a56cb3257355e6f20a9485a9abd0b8749761a0b0c5f913e4c9de3715e29fe0",
+    "status": "supplement_not_read"
+  },
+  {
+    "source": "практична 1-2-3.pdf",
+    "sha256": "5d475d7d2f3c19ab5bc0fedfa044f041c25e0d899ac433ee271ac11b9c28936e",
+    "status": "supplement_not_read"
+  },
+  {
+    "source": "Практична робота 3.pdf",
+    "sha256": "c47236a7f84774fcad2c9b609cf295c5bef39f19fd0004f06e9f59a75bcfcc94",
+    "status": "supplement_not_read"
+  },
+  {
+    "source": "Практична робота 6.pdf",
+    "sha256": "3873bbfdb0f7797907b50a078de8329d39eecde1937674fedf6f09b028839b38",
+    "status": "supplement_not_read"
+  },
+  {
+    "source": "Про затвердження державних медико-санітарних нормативів до… - Наказ № 1192 від 09.07.2024 - d537873-20240816.pdf",
+    "sha256": "4ce3efe625320ee318ccccbfbfbc26927b760966d4ed9879e5a1b4e8480ad23a",
+    "status": "supplement_not_read"
+  },
+  {
+    "source": "Про затвердження порядків надання домедичної допомоги особ… - Наказ № 441 від 09.03.2022 - d515690-20220309 (1).pdf",
+    "sha256": "f8336b687a66a4c9eef0f7332bb90a351562f90c0c34e10f79db6d0e3833437c",
+    "status": "supplement_not_read"
+  },
+  {
+    "source": "Про затвердження Типового положення про порядок проведення… - Наказ № 15 від 26.01.2005 - d166273-20241025.pdf",
+    "sha256": "a202d918c1b80851226f01569ec813ca64272730bd1408d09d10a3ac71a77ef5",
+    "status": "supplement_not_read"
+  },
+  {
+    "source": "Про охорону праці - Закон № 2694-XII від 14.10.1992 - d22253-20250101 (1).pdf",
+    "sha256": "633d6cc2e8b4aaccc36a064be0e8e70de43c6d1e93fe0416ee22b8b059682dff",
+    "status": "supplement_not_read"
+  },
+  {
+    "source": "Тренінг ЗТ_МІП_2025 1.pdf",
+    "sha256": "47e34972026a219b78c9c6fc5697f4b7623c7d65e23c023b7e52604fbd50e9a9",
+    "status": "supplement_not_read"
+  }
+]

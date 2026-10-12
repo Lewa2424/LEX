@@ -1,0 +1,47 @@
+---
+description: "Технологічні та кодові угоди LEX (без детальних правил дизайну/тестів/безпеки)."
+alwaysApply: true
+---
+
+# LEX: угоди проєкту
+
+## Стек
+
+- TypeScript/TSX, React 19, Vite 6, React Router.
+- Tailwind CSS v4.
+- Дані на поточній стадії: mock (`src/mocks/*`) через `ServiceProvider`.
+- npm; кореневий `package.json` / lock — джерело версій.
+- Стек не оновлювати без окремої задачі.
+
+## Структура
+
+- Точка входу: `src/main.tsx`, оркестрація: `src/app/*`.
+- Модулі сценаріїв: `src/modules/*` (reference, search, forms, terms, first-aid, admin…).
+- Доменні правила (чиста логіка): `src/domain/*`.
+- Типи: `src/shared/types/*`.
+- UI-атоми: `src/shared/ui/*`.
+- Вузькі хелпери: `src/shared/lib/*` (не складати предметну логіку в «utils»).
+- Mock-дані: `src/mocks/data/*`; сервіси: `src/mocks/services/*`.
+- Архів лекцій / extract / lecture-work: `development data/**` (не runtime-джерело каталогу).
+- Assets: `public/`; збірка: `dist/` (не редагувати вручну).
+
+## Код
+
+- Стиль — як у найближчому аналогічному файлі.
+- Components: `PascalCase`; hooks: `use*`; модулі — camelCase файлів за домовленістю репо.
+- Strict TypeScript; не ховати проблему через `any` / небезпечний cast.
+- Nullable/optional — явно.
+- Коментарі лише для неочевидного алгоритму, інваріанту, побічного ефекту, сумісності.
+- Не рефакторити непов’язані файли.
+
+## Локалізація продукту
+
+- Мова UI та контенту довідника: **лише українська**.
+- Не додавати en-локаль і систему i18n без окремої задачі.
+- Робоча мова з власником у чаті може бути російською; тексти в коді продукту — українською.
+
+## Спеціальні процеси
+
+- UI: `DESIGN_SYSTEM.md` + `lex-design-system.mdc` (коли є) / існуючі класи в `src/index.css` і `shared/ui`.
+- Змінені шляхи: `changed-files-sync.mdc` → `docs/CHANGED_FILES.txt`.
+- Структурні зміни: `20-code-map.mdc` → `CODE_MAP.md`.

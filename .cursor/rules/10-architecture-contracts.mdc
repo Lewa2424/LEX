@@ -1,0 +1,53 @@
+---
+description: "Архітектурні межі, контракти та інваріанти LEX."
+alwaysApply: true
+---
+
+# LEX: архітектура і контракти
+
+## Потоки
+
+- UI: `src/main.tsx` → `AppOrchestrator` → `AppShell` → modules → `useServices()` → mock services → `src/mocks/data/*`.
+- Довідник: `/reference` (1–2 контури) → `/reference/:slug` (3-й контур, 6 етапів).
+- Пошук: Header / `/search` → `SearchService`.
+- Лекції (офлайн-облік): PDF → extract → `lecture-work/lectures/<id>/blocks.json` → розміщення в mock-ситуаціях.
+
+## Ролі
+
+- Modules (`src/modules/*`) — екрани сценаріїв.
+- `ServiceProvider` — єдина точка доступу до сервісів з UI (прямий імпорт інстансів сервісів з UI заборонений після міграції).
+- `src/mocks/data/*` — джерело демонстраційних даних.
+- `src/shared/ui/*` — атомарні UI-компоненти.
+- `src/shared/lib/*` — вузькі чисті хелпери (напр. `citationDisplay`).
+- Оркестратор маршрутів не містить предметних алгоритмів і SQL.
+
+## Дозволені напрямки
+
+- UI module → `useServices()` → service interface → mock impl → data.
+- UI → `shared/ui`, `shared/lib`, `shared/types`.
+- lecture-work tooling → extract / blocks (не імпортувати в runtime UI без потреби).
+
+## Заборонені напрямки
+
+- UI не імпортує server-only секрети.
+- UI не створює другий канал завантаження даних в обхід `useServices`.
+- Не дублювати каталог ситуацій паралельною «лекційною» таксономією як головний вхід.
+- Не класти простині НПА в один підрозділ етапу без розбиття / «Посилання на…».
+
+## Публічні контракти
+
+- маршрути `routeRegistry`;
+- типи `WorkingSituation`, розділи 1-го контуру, `ActionPhaseId` (6 етапів);
+- shape mock-даних і slug ситуацій;
+- статуси verification;
+- query `?mockScenario=`;
+- env `VITE_*` (коли з’являться).
+
+Перед зміною контракту — producers/consumers і сумісність.
+
+## Інваріанти
+
+- У кожної ситуації — рівно 6 фаз-слотів; `isApplicable` може вимикати етап.
+- 1-й контур = розділи; 2-й = ситуації; 3-й = етапи.
+- Цитата з лекції в UI — з позначкою архіву / under_review, не як verified НПА.
+- ErrorBoundary тримати всередині провайдерів (щоб `useServices` не падав на recovery).

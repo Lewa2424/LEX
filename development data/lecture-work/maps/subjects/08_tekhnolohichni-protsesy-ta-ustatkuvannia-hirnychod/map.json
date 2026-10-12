@@ -1,0 +1,559 @@
+{
+  "generatedAt": "2026-09-04T18:47:36.060323+00:00",
+  "schemaVersion": 1,
+  "summarySource": "heuristic",
+  "subject": {
+    "num": 8,
+    "title": "Технологічні процеси та устаткування гірничодобувних підприємств",
+    "id": "08_tekhnolohichni-protsesy-ta-ustatkuvannia-hirnychod",
+    "folderName": "8_Технологічні процеси та устаткування гірничодобувних підприємств"
+  },
+  "stats": {
+    "files": 4,
+    "byKind": {
+      "lecture_candidate": 4
+    },
+    "totalWords": 24351,
+    "extractErrors": 0
+  },
+  "suggestedSections": [
+    {
+      "sectionId": "hazardous_work",
+      "title": "Небезпечні роботи та устаткування",
+      "score": 10,
+      "confidence": "medium"
+    },
+    {
+      "sectionId": "working_conditions",
+      "title": "Умови праці та фактори",
+      "score": 2,
+      "confidence": "low"
+    }
+  ],
+  "files": [
+    {
+      "path": "8_Технологічні процеси та устаткування гірничодобувних підприємств/1_БВР(пер).pdf",
+      "fileName": "1_БВР(пер).pdf",
+      "ext": ".pdf",
+      "sizeBytes": 367597,
+      "kind": "lecture_candidate",
+      "kindConfidence": "medium",
+      "kindReasons": [
+        "default_candidate"
+      ],
+      "extract": {
+        "format": ".pdf",
+        "extractor": "pymupdf",
+        "error": null
+      },
+      "signals": {
+        "npaMentions": 0,
+        "formMentions": 1,
+        "roleMentions": 0,
+        "algorithmMentions": 4,
+        "charCount": 42797,
+        "wordCount": 5848,
+        "pageCount": 20,
+        "emptyPages": 0
+      },
+      "themes": [
+        {
+          "num": "?",
+          "title": "(без явного заголовка теми)",
+          "startPage": 1,
+          "endPage": 20,
+          "label": "Весь файл (тема не детектована)",
+          "detection": "fallback_whole_file",
+          "anchors": [
+            {
+              "id": "pozhezha",
+              "label": "Пожежна безпека",
+              "hitPages": [
+                3,
+                10,
+                11,
+                12,
+                13,
+                15
+              ],
+              "hitCount": 6,
+              "samples": [
+                "зрушення, обвалення, сейсмічного впливу вибухів. Крім зниження міцності",
+                "вибуховим способом створюється «передовий вріз»  на необхідну глибину"
+              ],
+              "suggestedSituations": [
+                {
+                  "code": "12.1",
+                  "title": null,
+                  "sectionId": null,
+                  "confidence": "low",
+                  "note": "situation_row_missing_in_HIERARCHY"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "anchors": [
+        {
+          "id": "pozhezha",
+          "label": "Пожежна безпека",
+          "hitPages": [
+            3,
+            10,
+            11,
+            12,
+            13,
+            15
+          ],
+          "hitCount": 6,
+          "samples": [
+            "зрушення, обвалення, сейсмічного впливу вибухів. Крім зниження міцності",
+            "вибуховим способом створюється «передовий вріз»  на необхідну глибину"
+          ],
+          "suggestedSituations": [
+            {
+              "code": "12.1",
+              "title": null,
+              "sectionId": null,
+              "confidence": "low",
+              "note": "situation_row_missing_in_HIERARCHY"
+            }
+          ]
+        }
+      ],
+      "suggestedSections": [
+        {
+          "sectionId": "hazardous_work",
+          "title": "Небезпечні роботи та устаткування",
+          "score": 2,
+          "confidence": "medium"
+        }
+      ],
+      "needsReview": true
+    },
+    {
+      "path": "8_Технологічні процеси та устаткування гірничодобувних підприємств/2_ВПогруз.(перевод1).pdf",
+      "fileName": "2_ВПогруз.(перевод1).pdf",
+      "ext": ".pdf",
+      "sizeBytes": 818773,
+      "kind": "lecture_candidate",
+      "kindConfidence": "medium",
+      "kindReasons": [
+        "default_candidate"
+      ],
+      "extract": {
+        "format": ".pdf",
+        "extractor": "pymupdf",
+        "error": null
+      },
+      "signals": {
+        "npaMentions": 0,
+        "formMentions": 1,
+        "roleMentions": 0,
+        "algorithmMentions": 10,
+        "charCount": 50942,
+        "wordCount": 7073,
+        "pageCount": 34,
+        "emptyPages": 1
+      },
+      "themes": [
+        {
+          "num": "?",
+          "title": "(без явного заголовка теми)",
+          "startPage": 1,
+          "endPage": 34,
+          "label": "Весь файл (тема не детектована)",
+          "detection": "fallback_whole_file",
+          "anchors": [
+            {
+              "id": "vantazh",
+              "label": "Вантажопідіймальні",
+              "hitPages": [
+                15
+              ],
+              "hitCount": 1,
+              "samples": [
+                "Шлях перед вибухом розбирають на ланки і переносять краном за очікувану"
+              ],
+              "suggestedSituations": [
+                {
+                  "code": "6.3",
+                  "title": "Роботи на висоті",
+                  "sectionId": "hazardous_work",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "pozhezha",
+              "label": "Пожежна безпека",
+              "hitPages": [
+                14,
+                15,
+                16,
+                17,
+                18
+              ],
+              "hitCount": 5,
+              "samples": [
+                "§ 6.3. Виїмка подріблених вибухом порід",
+                "ширина розвалу подрібленних вибухом порід може досягати 50 – 60 метрів."
+              ],
+              "suggestedSituations": [
+                {
+                  "code": "12.1",
+                  "title": null,
+                  "sectionId": null,
+                  "confidence": "low",
+                  "note": "situation_row_missing_in_HIERARCHY"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "anchors": [
+        {
+          "id": "vantazh",
+          "label": "Вантажопідіймальні",
+          "hitPages": [
+            15
+          ],
+          "hitCount": 1,
+          "samples": [
+            "Шлях перед вибухом розбирають на ланки і переносять краном за очікувану"
+          ],
+          "suggestedSituations": [
+            {
+              "code": "6.3",
+              "title": "Роботи на висоті",
+              "sectionId": "hazardous_work",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "pozhezha",
+          "label": "Пожежна безпека",
+          "hitPages": [
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "hitCount": 5,
+          "samples": [
+            "§ 6.3. Виїмка подріблених вибухом порід",
+            "ширина розвалу подрібленних вибухом порід може досягати 50 – 60 метрів."
+          ],
+          "suggestedSituations": [
+            {
+              "code": "12.1",
+              "title": null,
+              "sectionId": null,
+              "confidence": "low",
+              "note": "situation_row_missing_in_HIERARCHY"
+            }
+          ]
+        }
+      ],
+      "suggestedSections": [
+        {
+          "sectionId": "hazardous_work",
+          "title": "Небезпечні роботи та устаткування",
+          "score": 3,
+          "confidence": "medium"
+        }
+      ],
+      "needsReview": true
+    },
+    {
+      "path": "8_Технологічні процеси та устаткування гірничодобувних підприємств/3_Переміщення карєрних вантажів.pdf",
+      "fileName": "3_Переміщення карєрних вантажів.pdf",
+      "ext": ".pdf",
+      "sizeBytes": 863497,
+      "kind": "lecture_candidate",
+      "kindConfidence": "medium",
+      "kindReasons": [
+        "default_candidate"
+      ],
+      "extract": {
+        "format": ".pdf",
+        "extractor": "pymupdf",
+        "error": null
+      },
+      "signals": {
+        "npaMentions": 3,
+        "formMentions": 1,
+        "roleMentions": 1,
+        "algorithmMentions": 8,
+        "charCount": 58501,
+        "wordCount": 7974,
+        "pageCount": 32,
+        "emptyPages": 0
+      },
+      "themes": [
+        {
+          "num": "?",
+          "title": "(без явного заголовка теми)",
+          "startPage": 1,
+          "endPage": 32,
+          "label": "Весь файл (тема не детектована)",
+          "detection": "fallback_whole_file",
+          "anchors": [
+            {
+              "id": "vibratsiia",
+              "label": "Вібрація",
+              "hitPages": [
+                30
+              ],
+              "hitCount": 1,
+              "samples": [
+                "(вібраційними) гуркотами-живильниками для зменшення висоти падіння і"
+              ],
+              "suggestedSituations": [
+                {
+                  "code": "4.6",
+                  "title": "Вентиляція виробничих приміщень",
+                  "sectionId": "working_conditions",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "vantazh",
+              "label": "Вантажопідіймальні",
+              "hitPages": [
+                12,
+                13
+              ],
+              "hitCount": 2,
+              "samples": [
+                "відстань, що не перевищує радіуса дії крана. Вона звичайно здійснюється",
+                "причіпної платформи і крана, що використовують для навантаження 6 – 8"
+              ],
+              "suggestedSituations": [
+                {
+                  "code": "6.3",
+                  "title": "Роботи на висоті",
+                  "sectionId": "hazardous_work",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            },
+            {
+              "id": "pozhezha",
+              "label": "Пожежна безпека",
+              "hitPages": [
+                6,
+                13,
+                24,
+                25,
+                30
+              ],
+              "hitCount": 5,
+              "samples": [
+                "і враховувати специфіку ведення буровибухових робіт. Вирішальне значення",
+                "виробництва буровибухових робіт. У цьому випадку рейкові ланки"
+              ],
+              "suggestedSituations": [
+                {
+                  "code": "12.1",
+                  "title": null,
+                  "sectionId": null,
+                  "confidence": "low",
+                  "note": "situation_row_missing_in_HIERARCHY"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "anchors": [
+        {
+          "id": "vibratsiia",
+          "label": "Вібрація",
+          "hitPages": [
+            30
+          ],
+          "hitCount": 1,
+          "samples": [
+            "(вібраційними) гуркотами-живильниками для зменшення висоти падіння і"
+          ],
+          "suggestedSituations": [
+            {
+              "code": "4.6",
+              "title": "Вентиляція виробничих приміщень",
+              "sectionId": "working_conditions",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "vantazh",
+          "label": "Вантажопідіймальні",
+          "hitPages": [
+            12,
+            13
+          ],
+          "hitCount": 2,
+          "samples": [
+            "відстань, що не перевищує радіуса дії крана. Вона звичайно здійснюється",
+            "причіпної платформи і крана, що використовують для навантаження 6 – 8"
+          ],
+          "suggestedSituations": [
+            {
+              "code": "6.3",
+              "title": "Роботи на висоті",
+              "sectionId": "hazardous_work",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        },
+        {
+          "id": "pozhezha",
+          "label": "Пожежна безпека",
+          "hitPages": [
+            6,
+            13,
+            24,
+            25,
+            30
+          ],
+          "hitCount": 5,
+          "samples": [
+            "і враховувати специфіку ведення буровибухових робіт. Вирішальне значення",
+            "виробництва буровибухових робіт. У цьому випадку рейкові ланки"
+          ],
+          "suggestedSituations": [
+            {
+              "code": "12.1",
+              "title": null,
+              "sectionId": null,
+              "confidence": "low",
+              "note": "situation_row_missing_in_HIERARCHY"
+            }
+          ]
+        }
+      ],
+      "suggestedSections": [
+        {
+          "sectionId": "hazardous_work",
+          "title": "Небезпечні роботи та устаткування",
+          "score": 3,
+          "confidence": "medium"
+        },
+        {
+          "sectionId": "working_conditions",
+          "title": "Умови праці та фактори",
+          "score": 1,
+          "confidence": "low"
+        }
+      ],
+      "needsReview": true
+    },
+    {
+      "path": "8_Технологічні процеси та устаткування гірничодобувних підприємств/4_Отвалы (перевод).pdf",
+      "fileName": "4_Отвалы (перевод).pdf",
+      "ext": ".pdf",
+      "sizeBytes": 338629,
+      "kind": "lecture_candidate",
+      "kindConfidence": "medium",
+      "kindReasons": [
+        "default_candidate"
+      ],
+      "extract": {
+        "format": ".pdf",
+        "extractor": "pymupdf",
+        "error": null
+      },
+      "signals": {
+        "npaMentions": 1,
+        "formMentions": 0,
+        "roleMentions": 0,
+        "algorithmMentions": 7,
+        "charCount": 24862,
+        "wordCount": 3456,
+        "pageCount": 16,
+        "emptyPages": 1
+      },
+      "themes": [
+        {
+          "num": "?",
+          "title": "(без явного заголовка теми)",
+          "startPage": 1,
+          "endPage": 16,
+          "label": "Весь файл (тема не детектована)",
+          "detection": "fallback_whole_file",
+          "anchors": [
+            {
+              "id": "osvitlennia",
+              "label": "Освітлення",
+              "hitPages": [
+                16
+              ],
+              "hitCount": 1,
+              "samples": [
+                "очищати думпкари дозволяється тільки при достатній освітленості робочого"
+              ],
+              "suggestedSituations": [
+                {
+                  "code": "4.7",
+                  "title": "Освітлення робочих місць (природне та штучне)",
+                  "sectionId": "working_conditions",
+                  "confidence": "high",
+                  "note": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "anchors": [
+        {
+          "id": "osvitlennia",
+          "label": "Освітлення",
+          "hitPages": [
+            16
+          ],
+          "hitCount": 1,
+          "samples": [
+            "очищати думпкари дозволяється тільки при достатній освітленості робочого"
+          ],
+          "suggestedSituations": [
+            {
+              "code": "4.7",
+              "title": "Освітлення робочих місць (природне та штучне)",
+              "sectionId": "working_conditions",
+              "confidence": "high",
+              "note": null
+            }
+          ]
+        }
+      ],
+      "suggestedSections": [
+        {
+          "sectionId": "hazardous_work",
+          "title": "Небезпечні роботи та устаткування",
+          "score": 2,
+          "confidence": "medium"
+        },
+        {
+          "sectionId": "working_conditions",
+          "title": "Умови праці та фактори",
+          "score": 1,
+          "confidence": "low"
+        }
+      ],
+      "needsReview": true
+    }
+  ]
+}
